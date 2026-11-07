@@ -25,7 +25,7 @@ repository.
 | `BibleJson/headings/`, `BibleJson/crossrefs/` | Section headings and cross-references |
 | `webster/` | Webster's Unabridged Dictionary (1913) |
 | `kamusi/` | Kamusi ya Kiswahili |
-| `Songs/` | Hymnal indexes and Nyimbo za Kristo hymn sheets (PDF) |
+| `Songs/` | Hymnal indexes and Nyimbo za Kikristo hymn sheets (PDF) |
 | `beliefs/` | The 28 Fundamental Beliefs (English and Kiswahili) |
 
 ## Sources and licences
