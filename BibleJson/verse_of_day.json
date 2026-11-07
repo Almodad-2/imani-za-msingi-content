@@ -1,0 +1,1430 @@
+[
+ {
+  "theme": "hope",
+  "book": 24,
+  "chapter": 29,
+  "verse": 11,
+  "en": {
+   "book": "Jeremiah",
+   "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end."
+  },
+  "sw": {
+   "book": "Yeremia",
+   "text": "Maana nayajua mawazo ninayowawazia ninyi, asema Bwana, ni mawazo ya amani wala si ya mabaya, kuwapa ninyi tumaini siku zenu za mwisho."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 24,
+  "chapter": 17,
+  "verse": 14,
+  "en": {
+   "book": "Jeremiah",
+   "text": "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise."
+  },
+  "sw": {
+   "book": "Yeremia",
+   "text": "Uniponye, Ee Bwana, nami nitaponyeka; uniokoe, nami nitaokoka; kwa maana wewe ndiwe uliye sifa zangu."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 33,
+  "chapter": 6,
+  "verse": 8,
+  "en": {
+   "book": "Micah",
+   "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+  },
+  "sw": {
+   "book": "Mika",
+   "text": "Ee mwanadamu, yeye amekuonyesha yaliyo mema; na Bwana anataka nini kwako, ila kutenda haki, na kupenda rehema, na kwenda kwa unyenyekevu na Mungu wako!"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 45,
+  "chapter": 15,
+  "verse": 13,
+  "en": {
+   "book": "Romans",
+   "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "Basi Mungu wa tumaini na awajaze ninyi furaha yote na amani katika kuamini, mpate kuzidi sana kuwa na tumaini, katika nguvu za Roho Mtakatifu."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 103,
+  "verse": 2,
+  "en": {
+   "book": "Psalms",
+   "text": "Bless the LORD, O my soul, and forget not all his benefits:"
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Ee nafsi yangu, umhimidi Bwana, Wala usizisahau fadhili zake zote."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 51,
+  "chapter": 3,
+  "verse": 23,
+  "en": {
+   "book": "Colossians",
+   "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;"
+  },
+  "sw": {
+   "book": "Wakolosai",
+   "text": "Lo lote mfanyalo, lifanyeni kwa moyo, kama kwa Bwana, wala si kwa wanadamu,"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 23,
+  "chapter": 40,
+  "verse": 31,
+  "en": {
+   "book": "Isaiah",
+   "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "bali wao wamngojeao Bwana watapata nguvu mpya; watapanda juu kwa mbawa kama tai; watapiga mbio, wala hawatachoka; watakwenda kwa miguu, wala hawatazimia."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 103,
+  "verse": 3,
+  "en": {
+   "book": "Psalms",
+   "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Akusamehe maovu yako yote, Akuponya magonjwa yako yote,"
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 51,
+  "chapter": 3,
+  "verse": 17,
+  "en": {
+   "book": "Colossians",
+   "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him."
+  },
+  "sw": {
+   "book": "Wakolosai",
+   "text": "Na kila mfanyalo, kwa neno au kwa tendo, fanyeni yote katika jina la Bwana Yesu, mkimshukuru Mungu Baba kwa yeye."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 25,
+  "chapter": 3,
+  "verse": 22,
+  "en": {
+   "book": "Lamentations",
+   "text": "It is of the LORD'S mercies that we are not consumed, because his compassions fail not."
+  },
+  "sw": {
+   "book": "Maombolezo",
+   "text": "Ni huruma za Bwana kwamba hatuangamii, Kwa kuwa rehema zake hazikomi."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 2,
+  "chapter": 15,
+  "verse": 26,
+  "en": {
+   "book": "Exodus",
+   "text": "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee."
+  },
+  "sw": {
+   "book": "Kutoka",
+   "text": "akawaambia, Kwamba utaisikiza kwa bidii sauti ya Bwana, Mungu wako, na kuyafanya yaliyoelekea mbele zake, na kutega masikio usikie maagizo yake, na kuzishika amri zake, mimi sitatia juu yako maradhi yo yote niliyowatia Wamisri; kwa kuwa Mimi ndimi Bwana nikuponyaye."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 20,
+  "chapter": 3,
+  "verse": 5,
+  "en": {
+   "book": "Proverbs",
+   "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Mtumaini Bwana kwa moyo wako wote, Wala usizitegemee akili zako mwenyewe;"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 25,
+  "chapter": 3,
+  "verse": 23,
+  "en": {
+   "book": "Lamentations",
+   "text": "They are new every morning: great is thy faithfulness."
+  },
+  "sw": {
+   "book": "Maombolezo",
+   "text": "Ni mpya kila siku asubuhi; Uaminifu wako ni mkuu."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 23,
+  "chapter": 53,
+  "verse": 5,
+  "en": {
+   "book": "Isaiah",
+   "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "Bali alijeruhiwa kwa makosa yetu, Alichubuliwa kwa maovu yetu; Adhabu ya amani yetu ilikuwa juu yake, Na kwa kupigwa kwake sisi tumepona."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 20,
+  "chapter": 3,
+  "verse": 6,
+  "en": {
+   "book": "Proverbs",
+   "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Katika njia zako zote mkiri yeye, Naye atayanyosha mapito yako."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 42,
+  "verse": 11,
+  "en": {
+   "book": "Psalms",
+   "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Nafsi yangu, kwa nini kuinama, Na kufadhaika ndani yangu? Umtumaini Mungu; Kwa maana nitakuja kumsifu, Aliye afya ya uso wangu, Na Mungu wangu."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 147,
+  "verse": 3,
+  "en": {
+   "book": "Psalms",
+   "text": "He healeth the broken in heart, and bindeth up their wounds."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Huwaponya waliopondeka moyo, Na kuziganga jeraha zao."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 45,
+  "chapter": 12,
+  "verse": 2,
+  "en": {
+   "book": "Romans",
+   "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "Wala msiifuatishe namna ya dunia hii; bali mgeuzwe kwa kufanywa upya nia zenu, mpate kujua hakika mapenzi ya Mungu yaliyo mema, ya kumpendeza, na ukamilifu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 45,
+  "chapter": 5,
+  "verse": 5,
+  "en": {
+   "book": "Romans",
+   "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "na tumaini halitahayarishi; kwa maana pendo la Mungu limekwisha kumiminwa katika mioyo yetu na Roho Mtakatifu tuliyepewa sisi."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 59,
+  "chapter": 5,
+  "verse": 15,
+  "en": {
+   "book": "James",
+   "text": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."
+  },
+  "sw": {
+   "book": "Yakobo",
+   "text": "Na kule kuomba kwa imani kutamwokoa mgonjwa yule, na Bwana atamwinua; hata ikiwa amefanya dhambi, atasamehewa."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 50,
+  "chapter": 4,
+  "verse": 6,
+  "en": {
+   "book": "Philippians",
+   "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
+  },
+  "sw": {
+   "book": "Wafilipi",
+   "text": "Msijisumbue kwa neno lo lote; bali katika kila neno kwa kusali na kuomba, pamoja na kushukuru, haja zenu na zijulikane na Mungu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 45,
+  "chapter": 8,
+  "verse": 28,
+  "en": {
+   "book": "Romans",
+   "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "Nasi twajua ya kuwa katika mambo yote Mungu hufanya kazi pamoja na wale wampendao katika kuwapatia mema, yaani, wale walioitwa kwa kusudi lake."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 59,
+  "chapter": 5,
+  "verse": 16,
+  "en": {
+   "book": "James",
+   "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+  },
+  "sw": {
+   "book": "Yakobo",
+   "text": "Ungameni dhambi zenu ninyi kwa ninyi, na kuombeana, mpate kuponywa. Kuomba kwake mwenye haki kwafaa sana, akiomba kwa bidii."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 50,
+  "chapter": 4,
+  "verse": 8,
+  "en": {
+   "book": "Philippians",
+   "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."
+  },
+  "sw": {
+   "book": "Wafilipi",
+   "text": "Hatimaye, ndugu zangu, mambo yo yote yaliyo ya kweli, yo yote yaliyo ya staha, yo yote yaliyo ya haki, yo yote yaliyo safi, yo yote yenye kupendeza, yo yote yenye sifa njema; ukiwapo wema wo wote, ikiwapo sifa nzuri yo yote, yatafakarini hayo."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 58,
+  "chapter": 6,
+  "verse": 19,
+  "en": {
+   "book": "Hebrews",
+   "text": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;"
+  },
+  "sw": {
+   "book": "Waebrania",
+   "text": "tuliyo nayo kama nanga ya roho, yenye salama, yenye nguvu, yaingiayo hata mle mlimo ndani ya pazia,"
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 24,
+  "chapter": 30,
+  "verse": 17,
+  "en": {
+   "book": "Jeremiah",
+   "text": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after."
+  },
+  "sw": {
+   "book": "Yeremia",
+   "text": "Maana nitakurudishia afya, nami nitakuponya jeraha zako, asema Bwana, kwa sababu wamekuita, mwenye kutupwa, wakisema, Ni Sayuni, ambao hapana mtu autakaye."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 50,
+  "chapter": 4,
+  "verse": 13,
+  "en": {
+   "book": "Philippians",
+   "text": "I can do all things through Christ which strengtheneth me."
+  },
+  "sw": {
+   "book": "Wafilipi",
+   "text": "Nayaweza mambo yote katika yeye anitiaye nguvu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 31,
+  "verse": 24,
+  "en": {
+   "book": "Psalms",
+   "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Iweni hodari, mpige moyo konde, Ninyi nyote mnaomngoja Bwana."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 24,
+  "chapter": 33,
+  "verse": 6,
+  "en": {
+   "book": "Jeremiah",
+   "text": "Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth."
+  },
+  "sw": {
+   "book": "Yeremia",
+   "text": "Tazama, nitauletea afya na kupona, nami nitawaponya; nami nitawafunulia wingi wa amani na kweli."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 48,
+  "chapter": 5,
+  "verse": 22,
+  "en": {
+   "book": "Galatians",
+   "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
+  },
+  "sw": {
+   "book": "Wagalatia",
+   "text": "Lakini tunda la Roho ni upendo, furaha, amani, uvumilivu, utu wema, fadhili, uaminifu,"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 20,
+  "chapter": 23,
+  "verse": 18,
+  "en": {
+   "book": "Proverbs",
+   "text": "For surely there is an end; and thine expectation shall not be cut off."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Maana bila shaka iko thawabu; Na tumaini lako halitabatilika."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 20,
+  "chapter": 17,
+  "verse": 22,
+  "en": {
+   "book": "Proverbs",
+   "text": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Moyo uliochangamka ni dawa nzuri; Bali roho iliyopondeka huikausha mifupa."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 49,
+  "chapter": 4,
+  "verse": 32,
+  "en": {
+   "book": "Ephesians",
+   "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
+  },
+  "sw": {
+   "book": "Waefeso",
+   "text": "tena iweni wafadhili ninyi kwa ninyi, wenye huruma, mkasameheane kama na Mungu katika Kristo alivyowasamehe ninyi."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 60,
+  "chapter": 1,
+  "verse": 3,
+  "en": {
+   "book": "1 Peter",
+   "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+  },
+  "sw": {
+   "book": "1 Petro",
+   "text": "Ahimidiwe Mungu, Baba wa Bwana wetu Yesu Kristo, ambaye kwa rehema zake nyingi alituzaa mara ya pili ili tupate tumaini lenye uzima kwa kufufuka kwake Yesu Kristo katika wafu;"
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 20,
+  "chapter": 4,
+  "verse": 22,
+  "en": {
+   "book": "Proverbs",
+   "text": "For they are life unto those that find them, and health to all their flesh."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Maana ni uhai kwa wale wazipatao, Na afya ya mwili wao wote."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 52,
+  "chapter": 5,
+  "verse": 18,
+  "en": {
+   "book": "1 Thessalonians",
+   "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+  },
+  "sw": {
+   "book": "1 Wathesalonike",
+   "text": "shukuruni kwa kila jambo; maana hayo ni mapenzi ya Mungu kwenu katika Kristo Yesu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 39,
+  "verse": 7,
+  "en": {
+   "book": "Psalms",
+   "text": "And now, Lord, what wait I for? my hope is in thee."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Na sasa ninangoja nini, Ee Bwana? Matumaini yangu ni kwako."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 64,
+  "chapter": 1,
+  "verse": 2,
+  "en": {
+   "book": "3 John",
+   "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."
+  },
+  "sw": {
+   "book": "3 Yohana",
+   "text": "Mpenzi naomba ufanikiwe katika mambo yote na kuwa na afya yako, kama vile roho yako ifanikiwavyo."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 40,
+  "chapter": 6,
+  "verse": 33,
+  "en": {
+   "book": "Matthew",
+   "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Bali utafuteni kwanza ufalme wake, na haki yake; na hayo yote mtazidishiwa."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 33,
+  "chapter": 7,
+  "verse": 7,
+  "en": {
+   "book": "Micah",
+   "text": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me."
+  },
+  "sw": {
+   "book": "Mika",
+   "text": "Lakini mimi, nitamtazamia Bwana; nitamngojea Mungu wa wokovu wangu; Mungu wangu atanisikia."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 39,
+  "chapter": 4,
+  "verse": 2,
+  "en": {
+   "book": "Malachi",
+   "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
+  },
+  "sw": {
+   "book": "Malaki",
+   "text": "Lakini kwenu ninyi mnaolicha jina langu, jua la haki litawazukia, lenye kuponya katika mbawa zake; nanyi mtatoka nje, na kuchezacheza kama ndama wa mazizini."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 40,
+  "chapter": 5,
+  "verse": 16,
+  "en": {
+   "book": "Matthew",
+   "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Vivyo hivyo nuru yenu na iangaze mbele ya watu, wapate kuyaona matendo yenu mema, wamtukuze Baba yenu aliye mbinguni."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 45,
+  "chapter": 12,
+  "verse": 12,
+  "en": {
+   "book": "Romans",
+   "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "kwa tumaini, mkifurahi; katika dhiki, mkisubiri; katika kusali, mkidumu;"
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 40,
+  "chapter": 11,
+  "verse": 28,
+  "en": {
+   "book": "Matthew",
+   "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Njoni kwangu, ninyi nyote msumbukao na wenye kulemewa na mizigo, nami nitawapumzisha."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 59,
+  "chapter": 1,
+  "verse": 22,
+  "en": {
+   "book": "James",
+   "text": "But be ye doers of the word, and not hearers only, deceiving your own selves."
+  },
+  "sw": {
+   "book": "Yakobo",
+   "text": "Lakini iweni watendaji wa neno, wala si wasikiaji tu, hali mkijidanganya nafsi zenu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 58,
+  "chapter": 11,
+  "verse": 1,
+  "en": {
+   "book": "Hebrews",
+   "text": "Now faith is the substance of things hoped for, the evidence of things not seen."
+  },
+  "sw": {
+   "book": "Waebrania",
+   "text": "Basi imani ni kuwa na hakika ya mambo yatarajiwayo, ni bayana ya mambo yasiyoonekana."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 30,
+  "verse": 2,
+  "en": {
+   "book": "Psalms",
+   "text": "O LORD my God, I cried unto thee, and thou hast healed me."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Ee Bwana, Mungu wangu, Nalikulilia ukaniponya."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 59,
+  "chapter": 1,
+  "verse": 19,
+  "en": {
+   "book": "James",
+   "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"
+  },
+  "sw": {
+   "book": "Yakobo",
+   "text": "Hayo mnajua, ndugu zangu wapenzi. Basi kila mtu na awe mwepesi wa kusikia, bali si mwepesi wa kusema; wala kukasirika;"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 62,
+  "verse": 5,
+  "en": {
+   "book": "Psalms",
+   "text": "My soul, wait thou only upon God; for my expectation is from him."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Nafsi yangu, umngoje Mungu peke yake kwa kimya. Tumaini langu hutoka kwake."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 34,
+  "verse": 18,
+  "en": {
+   "book": "Psalms",
+   "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Bwana yu karibu nao waliovunjika moyo, Na waliopondeka roho huwaokoa."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 19,
+  "chapter": 119,
+  "verse": 105,
+  "en": {
+   "book": "Psalms",
+   "text": "Thy word is a lamp unto my feet, and a light unto my path."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Neno lako ni taa ya miguu yangu, Na mwanga wa njia yangu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 23,
+  "chapter": 41,
+  "verse": 10,
+  "en": {
+   "book": "Isaiah",
+   "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "usiogope, kwa maana mimi ni pamoja nawe; usifadhaike, kwa maana mimi ni Mungu wako; nitakutia nguvu, naam, nitakusaidia, naam, nitakushika kwa mkono wa kuume wa haki yangu."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 60,
+  "chapter": 2,
+  "verse": 24,
+  "en": {
+   "book": "1 Peter",
+   "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."
+  },
+  "sw": {
+   "book": "1 Petro",
+   "text": "Yeye mwenyewe alizichukua dhambi zetu katika mwili wake juu ya mti, tukiwa wafu kwa mambo ya dhambi, tuwe hai kwa mambo ya haki; na kwa kupigwa kwake mliponywa."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 19,
+  "chapter": 118,
+  "verse": 24,
+  "en": {
+   "book": "Psalms",
+   "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Siku hii ndiyo aliyoifanya Bwana, Tutashangilia na kuifurahia."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 43,
+  "chapter": 14,
+  "verse": 27,
+  "en": {
+   "book": "John",
+   "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid."
+  },
+  "sw": {
+   "book": "Yohana",
+   "text": "Amani nawaachieni; amani yangu nawapa; niwapavyo mimi sivyo kama ulimwengu utoavyo. Msifadhaike mioyoni mwenu, wala msiwe na woga."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 40,
+  "chapter": 9,
+  "verse": 35,
+  "en": {
+   "book": "Matthew",
+   "text": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Naye Yesu alikuwa akizunguka katika miji yote na vijiji, akifundisha katika masinagogi yao, na kuihubiri habari njema ya ufalme, na kuponya magonjwa yote na udhaifu wa kila aina."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 46,
+  "chapter": 10,
+  "verse": 31,
+  "en": {
+   "book": "1 Corinthians",
+   "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God."
+  },
+  "sw": {
+   "book": "1 Wakorintho",
+   "text": "Basi, mlapo, au mnywapo, au mtendapo neno lo lote, fanyeni yote kwa utukufu wa Mungu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 66,
+  "chapter": 21,
+  "verse": 4,
+  "en": {
+   "book": "Revelation",
+   "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
+  },
+  "sw": {
+   "book": "Ufunuo wa Yohana",
+   "text": "Naye atafuta kila chozi katika macho yao, wala mauti haitakuwapo tena; wala maombolezo, wala kilio, wala maumivu hayatakuwapo tena; kwa kuwa mambo ya kwanza yamekwisha kupita."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 41,
+  "chapter": 5,
+  "verse": 34,
+  "en": {
+   "book": "Mark",
+   "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague."
+  },
+  "sw": {
+   "book": "Marko",
+   "text": "Akamwambia, Binti, imani yako imekuponya, enenda zako kwa amani, uwe mzima, usiwe na msiba wako tena."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 46,
+  "chapter": 13,
+  "verse": 4,
+  "en": {
+   "book": "1 Corinthians",
+   "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,"
+  },
+  "sw": {
+   "book": "1 Wakorintho",
+   "text": "Upendo huvumilia, hufadhili; upendo hauhusudu; upendo hautakabari; haujivuni;"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 47,
+  "chapter": 4,
+  "verse": 16,
+  "en": {
+   "book": "2 Corinthians",
+   "text": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day."
+  },
+  "sw": {
+   "book": "2 Wakorintho",
+   "text": "Kwa hiyo hatulegei; bali ijapokuwa utu wetu wa nje unachakaa, lakini utu wetu wa ndani unafanywa upya siku kwa siku."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 41,
+  "verse": 3,
+  "en": {
+   "book": "Psalms",
+   "text": "The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Bwana atamtegemeza alipo mgonjwa kitandani. Katika ugonjwa wake umemtandikia."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 6,
+  "chapter": 24,
+  "verse": 15,
+  "en": {
+   "book": "Joshua",
+   "text": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD."
+  },
+  "sw": {
+   "book": "Yoshua",
+   "text": "Nanyi kama mkiona ni vibaya kumtumikia Bwana, chagueni hivi leo mtakayemtumikia; kwamba ni miungu ile ambayo baba zenu waliitumikia ng'ambo ya Mto, au kwamba ni miungu ya wale Waamori ambao mnakaa katika nchi yao; lakini mimi na nyumba yangu tutamtumikia Bwana."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 46,
+  "verse": 1,
+  "en": {
+   "book": "Psalms",
+   "text": "God is our refuge and strength, a very present help in trouble."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Mungu kwetu sisi ni kimbilio na nguvu, Msaada utakaoonekana tele wakati wa mateso."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 2,
+  "chapter": 23,
+  "verse": 25,
+  "en": {
+   "book": "Exodus",
+   "text": "And ye shall serve the LORD your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee."
+  },
+  "sw": {
+   "book": "Kutoka",
+   "text": "Nanyi mtamtumikia Bwana, Mungu wenu, naye atakibarikia chakula chako, na maji yako; nami nitakuondolea ugonjwa kati yako."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 20,
+  "chapter": 16,
+  "verse": 3,
+  "en": {
+   "book": "Proverbs",
+   "text": "Commit thy works unto the LORD, and thy thoughts shall be established."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Mkabidhi Bwana kazi zako, Na mawazo yako yatathibitika."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 6,
+  "chapter": 1,
+  "verse": 9,
+  "en": {
+   "book": "Joshua",
+   "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest."
+  },
+  "sw": {
+   "book": "Yoshua",
+   "text": "Je! Si mimi niliyekuamuru? Uwe hodari na moyo wa ushujaa; usiogope wala usifadhaike; kwa kuwa Bwana, Mungu wako, yu pamoja nawe kila uendako."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 14,
+  "chapter": 7,
+  "verse": 14,
+  "en": {
+   "book": "2 Chronicles",
+   "text": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land."
+  },
+  "sw": {
+   "book": "2 Mambo ya Nyakati",
+   "text": "ikiwa watu wangu, walioitwa kwa jina langu, watajinyenyekesha, na kuomba, na kunitafuta uso, na kuziacha njia zao mbaya; basi, nitasikia toka mbinguni, na kuwasamehe dhambi yao, na kuiponya nchi yao."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 45,
+  "chapter": 12,
+  "verse": 10,
+  "en": {
+   "book": "Romans",
+   "text": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;"
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "Kwa pendo la udugu, mpendane ninyi kwa ninyi; kwa heshima mkiwatanguliza wenzenu;"
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 27,
+  "verse": 14,
+  "en": {
+   "book": "Psalms",
+   "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Umngoje Bwana, uwe hodari, Upige moyo konde, naam, umngoje Bwana."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 23,
+  "chapter": 58,
+  "verse": 8,
+  "en": {
+   "book": "Isaiah",
+   "text": "Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the LORD shall be thy rereward."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "Ndipo nuru yako itakapopambazuka kama asubuhi, na afya yako itatokea mara; na haki yako itakutangulia; utukufu wa Bwana utakufuata nyuma ukulinde."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 60,
+  "chapter": 5,
+  "verse": 7,
+  "en": {
+   "book": "1 Peter",
+   "text": "Casting all your care upon him; for he careth for you."
+  },
+  "sw": {
+   "book": "1 Petro",
+   "text": "huku mkimtwika yeye fadhaa zenu zote, kwa maana yeye hujishughulisha sana kwa mambo yenu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 36,
+  "chapter": 3,
+  "verse": 17,
+  "en": {
+   "book": "Zephaniah",
+   "text": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+  },
+  "sw": {
+   "book": "Sefania",
+   "text": "Bwana, Mungu wako, yu katikati yako shujaa awezaye kuokoa; Atakushangilia kwa furaha kuu, Atakutuliza katika upendo wake, Atakufurahia kwa kuimba."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 6,
+  "verse": 2,
+  "en": {
+   "book": "Psalms",
+   "text": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Bwana, unifadhili, maana ninanyauka; Bwana, uniponye, mifupa yangu imefadhaika."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 40,
+  "chapter": 22,
+  "verse": 37,
+  "en": {
+   "book": "Matthew",
+   "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Akamwambia, Mpende Bwana Mungu wako kwa moyo wako wote, na kwa roho yako yote, na kwa akili zako zote."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 45,
+  "chapter": 8,
+  "verse": 18,
+  "en": {
+   "book": "Romans",
+   "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
+  },
+  "sw": {
+   "book": "Warumi",
+   "text": "Kwa maana nayahesabu mateso ya wakati huu wa sasa kuwa si kitu kama utukufu ule utakaofunuliwa kwetu."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 66,
+  "chapter": 22,
+  "verse": 2,
+  "en": {
+   "book": "Revelation",
+   "text": "In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations."
+  },
+  "sw": {
+   "book": "Ufunuo wa Yohana",
+   "text": "katikati ya njia kuu yake. Na upande huu na upande huu wa ule mto, ulikuwapo mti wa uzima, uzaao matunda, aina kumi na mbili, wenye kutoa matunda yake kila mwezi; na majani ya mti huo ni ya kuwaponya mataifa."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 40,
+  "chapter": 22,
+  "verse": 39,
+  "en": {
+   "book": "Matthew",
+   "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Na ya pili yafanana nayo, nayo ni hii, Mpende jirani yako kama nafsi yako."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 50,
+  "chapter": 1,
+  "verse": 6,
+  "en": {
+   "book": "Philippians",
+   "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
+  },
+  "sw": {
+   "book": "Wafilipi",
+   "text": "Nami niliaminilo ndilo hili, ya kwamba yeye aliyeanza kazi njema mioyoni mwenu ataimaliza hata siku ya Kristo Yesu;"
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 107,
+  "verse": 20,
+  "en": {
+   "book": "Psalms",
+   "text": "He sent his word, and healed them, and delivered them from their destructions."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Hulituma neno lake, huwaponya, Huwatoa katika maangamizo yao."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 43,
+  "chapter": 13,
+  "verse": 34,
+  "en": {
+   "book": "John",
+   "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another."
+  },
+  "sw": {
+   "book": "Yohana",
+   "text": "Amri mpya nawapa, Mpendane. Kama vile nilivyowapenda ninyi, nanyi mpendane vivyo hivyo."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 43,
+  "chapter": 16,
+  "verse": 33,
+  "en": {
+   "book": "John",
+   "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
+  },
+  "sw": {
+   "book": "Yohana",
+   "text": "Hayo nimewaambieni mpate kuwa na amani ndani yangu. Ulimwenguni mnayo dhiki; lakini jipeni moyo; mimi nimeushinda ulimwengu."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 40,
+  "chapter": 8,
+  "verse": 17,
+  "en": {
+   "book": "Matthew",
+   "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "ili litimie lile neno lililonenwa na nabii Isaya, akisema, Mwenyewe aliutwaa udhaifu wetu, Na kuyachukua magonjwa yetu."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 58,
+  "chapter": 13,
+  "verse": 16,
+  "en": {
+   "book": "Hebrews",
+   "text": "But to do good and to communicate forget not: for with such sacrifices God is well pleased."
+  },
+  "sw": {
+   "book": "Waebrania",
+   "text": "Lakini msisahau kutenda mema na kushirikiana; maana sadaka kama hizi ndizo zimpendezazo Mungu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 147,
+  "verse": 11,
+  "en": {
+   "book": "Psalms",
+   "text": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Bwana huwaridhia wao wamchao, Na kuzitarajia fadhili zake."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 23,
+  "chapter": 40,
+  "verse": 29,
+  "en": {
+   "book": "Isaiah",
+   "text": "He giveth power to the faint; and to them that have no might he increaseth strength."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "Huwapa nguvu wazimiao, humwongezea nguvu yeye asiyekuwa na uwezo."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 48,
+  "chapter": 6,
+  "verse": 9,
+  "en": {
+   "book": "Galatians",
+   "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not."
+  },
+  "sw": {
+   "book": "Wagalatia",
+   "text": "Tena tusichoke katika kutenda mema; maana tutavuna kwa wakati wake, tusipozimia roho."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 56,
+  "chapter": 2,
+  "verse": 13,
+  "en": {
+   "book": "Titus",
+   "text": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;"
+  },
+  "sw": {
+   "book": "Tito",
+   "text": "tukilitazamia tumaini lenye baraka na mafunuo ya utukufu wa Kristo Yesu, Mungu mkuu na Mwokozi wetu;"
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 47,
+  "chapter": 12,
+  "verse": 9,
+  "en": {
+   "book": "2 Corinthians",
+   "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me."
+  },
+  "sw": {
+   "book": "2 Wakorintho",
+   "text": "Naye akaniambia, Neema yangu yakutosha; maana uweza wangu hutimilika katika udhaifu. Basi nitajisifia udhaifu wangu kwa furaha nyingi, ili uweza wa Kristo ukae juu yangu."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 19,
+  "chapter": 19,
+  "verse": 14,
+  "en": {
+   "book": "Psalms",
+   "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Maneno ya kinywa changu, Na mawazo ya moyo wangu, Yapate kibali mbele zako, Ee Bwana, Mwamba wangu, na mwokozi wangu."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 43,
+  "chapter": 14,
+  "verse": 3,
+  "en": {
+   "book": "John",
+   "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also."
+  },
+  "sw": {
+   "book": "Yohana",
+   "text": "Basi mimi nikienda na kuwaandalia mahali, nitakuja tena niwakaribishe kwangu; ili nilipo mimi, nanyi mwepo."
+  }
+ },
+ {
+  "theme": "healing",
+  "book": 19,
+  "chapter": 73,
+  "verse": 26,
+  "en": {
+   "book": "Psalms",
+   "text": "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Mwili wangu na moyo wangu hupunguka, Bali Mungu ni mwamba wa moyo wangu Na sehemu yangu milele."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 55,
+  "chapter": 1,
+  "verse": 7,
+  "en": {
+   "book": "2 Timothy",
+   "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+  },
+  "sw": {
+   "book": "2 Timotheo",
+   "text": "Maana Mungu hakutupa roho ya woga, bali ya nguvu na ya upendo na ya moyo wa kiasi."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 19,
+  "chapter": 121,
+  "verse": 2,
+  "en": {
+   "book": "Psalms",
+   "text": "My help cometh from the LORD, which made heaven and earth."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Msaada wangu u katika Bwana, Aliyezifanya mbingu na nchi."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 19,
+  "chapter": 37,
+  "verse": 5,
+  "en": {
+   "book": "Psalms",
+   "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass."
+  },
+  "sw": {
+   "book": "Zaburi",
+   "text": "Umkabidhi Bwana njia yako, Pia umtumaini, naye atafanya."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 5,
+  "chapter": 31,
+  "verse": 8,
+  "en": {
+   "book": "Deuteronomy",
+   "text": "And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed."
+  },
+  "sw": {
+   "book": "Kumbukumbu la Torati",
+   "text": "Naye Bwana, yeye ndiye atakayekutangulia, atakuwa pamoja nawe, hatakupungukia wala kukuacha; usiogope wala usifadhaike."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 2,
+  "chapter": 20,
+  "verse": 8,
+  "en": {
+   "book": "Exodus",
+   "text": "Remember the sabbath day, to keep it holy."
+  },
+  "sw": {
+   "book": "Kutoka",
+   "text": "Ikumbuke siku ya Sabato uitakase."
+  }
+ },
+ {
+  "theme": "hope",
+  "book": 23,
+  "chapter": 43,
+  "verse": 2,
+  "en": {
+   "book": "Isaiah",
+   "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "Upitapo katika maji mengi nitakuwa pamoja nawe; na katika mito, haitakugharikisha; uendapo katika moto, hutateketea; wala mwali wa moto hautakuunguza."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 23,
+  "chapter": 26,
+  "verse": 3,
+  "en": {
+   "book": "Isaiah",
+   "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee."
+  },
+  "sw": {
+   "book": "Isaya",
+   "text": "Utamlinda yeye ambaye moyo wake umekutegemea Katika amani kamilifu, kwa kuwa anakutumaini."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 62,
+  "chapter": 1,
+  "verse": 9,
+  "en": {
+   "book": "1 John",
+   "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+  },
+  "sw": {
+   "book": "1 Yohana",
+   "text": "Tukiziungama dhambi zetu, Yeye ni mwaminifu na wa haki hata atuondolee dhambi zetu, na kutusafisha na udhalimu wote."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 40,
+  "chapter": 7,
+  "verse": 12,
+  "en": {
+   "book": "Matthew",
+   "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."
+  },
+  "sw": {
+   "book": "Mathayo",
+   "text": "Basi yo yote myatakayo mtendewe na watu, nanyi watendeeni vivyo hivyo; maana hiyo ndiyo torati na manabii."
+  }
+ },
+ {
+  "theme": "daily_living",
+  "book": 20,
+  "chapter": 15,
+  "verse": 1,
+  "en": {
+   "book": "Proverbs",
+   "text": "A soft answer turneth away wrath: but grievous words stir up anger."
+  },
+  "sw": {
+   "book": "Mithali",
+   "text": "Jawabu la upole hugeuza hasira; Bali neno liumizalo huchochea ghadhabu."
+  }
+ }
+]
