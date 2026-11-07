@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "sources": {
+    "step-hebrew": {
+      "name": "STEP Bible: TAHOT, TBESH, TEHMC",
+      "url": "https://github.com/STEPBible/STEPBible-Data",
+      "license": "CC BY 4.0",
+      "description": "Tyndale House / STEP Bible. Hebrew and Aramaic text, segmented tokens, morphology and abridged BDB. Bundled snapshot has no recorded upstream commit. Cantillation and source formatting were simplified by build_interlinear.py."
+    },
+    "step-greek": {
+      "name": "STEP Bible: TAGNT, TBESG, TEGMC",
+      "url": "https://github.com/STEPBible/STEPBible-Data",
+      "license": "CC BY 4.0",
+      "description": "Tyndale House / STEP Bible. Amalgamated Greek text and morphology. TBESG uses corrected Abbott-Smith where available, with supplementary definitions. Bundled snapshot has no recorded upstream commit."
+    },
+    "strongs": {
+      "name": "Open Scriptures: Strong's Hebrew and Greek dictionaries",
+      "url": "https://github.com/openscriptures/strongs",
+      "license": "CC-BY-SA (digital edition; version not stated in source header)",
+      "description": "Greek JSON copyright 2009 Open Scriptures; Hebrew JSON copyright 2010 Open Scriptures. Greek XML: Ulrik Petersen; Hebrew corrections/transliterations: David Instone-Brewer and David Troidl. Underlying historical Strong works date from 1890/1894. Digital edition carries its own CC-BY-SA notice. Exact license version and the original bundled snapshot must be resolved before release. Source derivations and KJV lists are historical opinions, not independent verse-specific analysis."
+    },
+    "editorial": {
+      "name": "Imani za Msingi bilingual study help",
+      "url": "",
+      "license": "Project-authored explanatory text",
+      "description": "AI-assisted editorial drafts prepared against the bundled lexical evidence. No independent Hebrew, Greek or Kiswahili linguistic review is recorded."
+    }
+  },
+  "lexemes": {
+    "H7225G": {
+      "en": {"text": "Beginning: the initial part or starting point. This extended entry concerns beginning; related uses such as the best portion are distinguished in the source.", "senses": ["beginning", "first part"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H7225G; compare the separately identified H7225H."},
+      "sw": {"text": "Mwanzo: sehemu ya kwanza au mahali jambo linapoanzia. Ingizo hili linahusu mwanzo; matumizi yanayohusu sehemu iliyo bora yametofautishwa katika chanzo.", "senses": ["mwanzo", "sehemu ya kwanza"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H7225G; H7225H ni ingizo tofauti."}
+    },
+    "H1254A": {
+      "en": {"text": "To create, shape or form. The source distinguishes uses by Hebrew verb stem; the occurrence's morphology and sentence determine which use applies.", "senses": ["create", "shape", "form"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H1254A, Qal and Niphal subsections."},
+      "sw": {"text": "Kuumba au kufanya kitu kiwepo au kipate umbo. Chanzo hutofautisha matumizi kulingana na muundo wa kitenzi cha Kiebrania; sarufi na sentensi ya aya huongoza maana inayofaa.", "senses": ["kuumba", "kufanya kipate umbo"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H1254A, sehemu za Qal na Niphal."}
+    },
+    "H0430G": {
+      "en": {"text": "God. This extended entry identifies the use referring to God. Its plural grammatical form must be considered together with the verb and the surrounding sentence.", "senses": ["God"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H0430G identifies God; the wider Strong family also includes other uses."},
+      "sw": {"text": "Mungu. Ingizo hili maalumu linatambua matumizi yanayomhusu Mungu. Umbo lake la kisarufi la wingi linahitaji kusomwa pamoja na kitenzi na sentensi inayolizunguka.", "senses": ["Mungu"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H0430G; matumizi mengine yapo katika familia pana ya Strong."}
+    },
+    "H8064": {
+      "en": {"text": "Heaven, heavens or sky: the visible sky where the stars are seen, and by extension the dwelling place of God. This Hebrew noun has a dual form only; no singular form is in use.", "senses": ["heaven", "heavens", "sky"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H8064; the noun is grammatically dual, with no attested singular."},
+      "sw": {"text": "Mbingu au anga: anga linaloonekana ambapo nyota huonekana, na kwa maana pana, mahali anapokaa Mungu. Nomino hii ya Kiebrania ina umbo la wingi-mbili tu; hakuna umbo la umoja linalotumika.", "senses": ["mbingu", "anga"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H8064; kisarufi nomino hii ipo katika umbo la wingi-mbili pekee, bila umoja unaotumika."}
+    },
+    "H0776G": {
+      "en": {"text": "Land or earth: the whole earth as against heaven, a specific territory or country, the ground underfoot, or those who live on the land, depending on the passage.", "senses": ["earth", "land", "ground", "country"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H0776G; the source lists many related senses distinguished by context."},
+      "sw": {"text": "Nchi au dunia: dunia yote kwa ujumla ikilinganishwa na mbingu, eneo au nchi fulani, ardhi chini ya miguu, au wakaaji wa nchi hiyo, kulingana na kifungu husika.", "senses": ["dunia", "nchi", "ardhi"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H0776G; chanzo kinaorodhesha maana nyingine zinazohusiana, zinazotofautishwa kwa muktadha."}
+    },
+    "H2142": {
+      "en": {"text": "To remember or bring to mind; in some constructions, to remind or mention. The verb form and its object help distinguish these uses.", "senses": ["remember", "recall", "remind", "mention"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H2142, Qal/Niphal/Hiphil subdivisions."},
+      "sw": {"text": "Kukumbuka au kuweka jambo akilini; katika miundo mingine, kukumbusha au kutaja. Umbo la kitenzi na jambo linalohusika husaidia kutofautisha matumizi haya.", "senses": ["kukumbuka", "kukumbusha", "kutaja"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H2142, sehemu za Qal/Niphal/Hiphil."}
+    },
+    "H7676": {
+      "en": {"text": "Sabbath. The source includes the Sabbath day and related calendrical uses; the passage identifies the particular observance intended.", "senses": ["Sabbath", "Sabbath year", "week"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "Bundled TBESH H7676; uses are listed separately in the source."},
+      "sw": {"text": "Sabato. Chanzo kinajumuisha siku ya Sabato na matumizi mengine ya kalenda; kifungu chenyewe hutambulisha maadhimisho yanayokusudiwa.", "senses": ["Sabato", "mwaka wa Sabato", "juma"], "status": "draft", "sources": ["step-hebrew", "editorial"], "evidence": "TBESH H7676; kila matumizi yameorodheshwa kando katika chanzo."}
+    },
+    "G3056": {
+      "en": {"text": "A word or expression of thought; also speech, a message, an account or reasoning. The source gives several senses, which must be distinguished by context.", "senses": ["word", "speech or message", "account", "reasoning"], "status": "draft", "sources": ["step-greek", "editorial"], "evidence": "Bundled TBESG and Strong's G3056. This summary does not select a sense for any specific verse."},
+      "sw": {"text": "Neno au namna wazo linavyoelezwa; pia usemi, ujumbe, taarifa au hoja. Chanzo kina maana kadhaa ambazo zinahitaji kutofautishwa kwa kuzingatia muktadha.", "senses": ["neno", "usemi au ujumbe", "taarifa", "hoja"], "status": "draft", "sources": ["step-greek", "editorial"], "evidence": "TBESG na Strong G3056. Muhtasari huu hauchagui maana kwa aya fulani."}
+    },
+    "G0026": {
+      "en": {"text": "Love, goodwill or esteem; the source also records the plural use for fellowship meals. The noun alone does not define every kind or expression of love.", "senses": ["love", "goodwill", "love-feast (plural use)"], "status": "draft", "sources": ["step-greek", "strongs", "editorial"], "evidence": "Bundled TBESG and Strong's G0026."},
+      "sw": {"text": "Upendo, nia njema au heshima kwa mwingine; chanzo pia kinarekodi matumizi ya wingi yanayohusu milo ya ushirika. Nomino hii pekee haielezi kila namna ya upendo.", "senses": ["upendo", "nia njema", "mlo wa ushirika (matumizi ya wingi)"], "status": "draft", "sources": ["step-greek", "strongs", "editorial"], "evidence": "TBESG na Strong G0026."}
+    },
+    "G5485": {
+      "en": {"text": "Grace, favour or graciousness; also gratitude in appropriate constructions. The relationship between giver and recipient and the surrounding words guide the sense.", "senses": ["grace or favour", "graciousness", "gratitude"], "status": "draft", "sources": ["step-greek", "strongs", "editorial"], "evidence": "Bundled TBESG and Strong's G5485."},
+      "sw": {"text": "Neema, fadhili au wema unaoonyeshwa kwa mwingine; pia shukrani katika miundo inayofaa. Uhusiano wa mtoaji na mpokeaji pamoja na maneno yanayolizunguka huongoza maana.", "senses": ["neema au fadhili", "wema kwa mwingine", "shukrani"], "status": "draft", "sources": ["step-greek", "strongs", "editorial"], "evidence": "TBESG na Strong G5485."}
+    },
+    "G4520": {
+      "en": {"text": "Sabbath keeping or Sabbath rest. The source records the occurrence in Hebrews 4:9. Its role in the argument needs to be read with the surrounding discussion of rest.", "senses": ["Sabbath keeping", "Sabbath rest"], "status": "draft", "sources": ["step-greek", "editorial"], "evidence": "Bundled TBESG G4520; the source cites Hebrews 4:9."},
+      "sw": {"text": "Kushika Sabato au pumziko la Sabato. Chanzo kinarekodi matumizi katika Waebrania 4:9. Nafasi yake katika hoja inahitaji kusomwa pamoja na maelezo yanayoizunguka kuhusu pumziko.", "senses": ["kushika Sabato", "pumziko la Sabato"], "status": "draft", "sources": ["step-greek", "editorial"], "evidence": "TBESG G4520; chanzo kinataja Waebrania 4:9."}
+    }
+  },
+  "occurrences": {}
+}
