@@ -1,0 +1,3135 @@
+{
+  "hymnal": "NZK",
+  "count": 220,
+  "hymns": [
+    {
+      "id": "NZK-1",
+      "number": 1,
+      "title": "MTAKATIFU, MTAKATIFU, MTAKATIFU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nU Mtakatifu! Mungu mwenyezi!\nAlfajiri sifa zako tutaimba;\nU Mtakatifu , Bwana wa huruma,\n==Mungu wa vyote hata milele.==",
+        "2\nU Mtakatifu! Na malaika\nWengi sana wanakuabudu wote;\nElfu na maelfu wanakusujudu\nWa zamani na hata milele.",
+        "3\nU Mtakatifu! Ingawa giza\nLakuficha fahari tusiione,\nU Mtakatifu! Wewe peke yako,\nKamili kwa uwezo na pendo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-2",
+      "number": 2,
+      "title": "TWAMSIFU MUNGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTwamsifu Mungu, Mwana wa upendo\nAliyetufia na kupaa juu.",
+        "Chorus\nAleluya! Usifiwe, Aleluya! Amin;\nAleluya! Usifiwe, utabariki.",
+        "2\nTwamsifu Mungu, Roho mtakatifu,\nAkatufunulia Mwokozi wetu.",
+        "3\nTwamsifu Mwana, aliyetufia\nAmetukomboa na kutuongoza.",
+        "4\nTwamsifu Mungu wa neema yote\nAliyetwaa dhambi, akazifuta.",
+        "5\nTwamshe tena, tujaze na pendo.\nMoyoni uwashe moto wa Roho."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-3",
+      "number": 3,
+      "title": "MUNGU ATUKUZWE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu atukuzwe kwa mambo makuu, \nUpendo wake ulitupa Yesu,\nAliyejitoa maisha yake,\nTuwe nao uzima wamilele.",
+        "Chorus\nMsifu, msifu, dunia sikia;\nMsifu, msifu, watu wafurahi;\nNa uje kwa Baba, kwa yesu Mwana,\nUkamtutukuze kwa mambo yote.",
+        "2\nWokovu kamili, zawadi kwetu,\nAhadi ya Mungu kwa ulimwengu;\nWanaomwamini na kuungama,\nMara moja wale husamehewa",
+        "3\nAlitufundisha mambo makuu, \nAlihakikisha wokovu wetu,\nLakini zaidi, ajabu kubwa,\nYesu atakuja na tutamwona."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-4",
+      "number": 4,
+      "title": "JINA LA YESU SALAMU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nJina la Yesu, salamu! Lisujidieni,\nNinyi mbinguni, hukumu, Na enzi mpeni\nNinyi mbinguni, hukumu, Na enzi mpeni",
+        "2\nEnzi na apewe kwenu, watetea dini;\nMkuzeni Bwana wenu, Na enzi mpeni\nMkuzeni Bwana wenu, Na enzi mpeni",
+        "3\nEnyi mbegu ya rehema nanyi msifu;\nMmeponywa kwa neema, Na enzi mpeni\nMmeponywa kwa neema, Na enzi mpeni",
+        "4\nWenye dhambi kumbukeni ya msalabani\nKwa furaha msifuni, Na enzi mpeni\nKwa furaha msifuni, Na enzi mpeni.",
+        "5\nKila mtu duniani msujudieni\nKote-kote msifuni, Na enzi mpeni\nKote-kote msifuni, Na enzi mpeni.",
+        "6\nSisi na wao pamoja tu mumo sifani.\nMilele sifa ni moja, na `mpeni`\nMilele sifa ni moja, na `enzi mpeni`"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-5",
+      "number": 5,
+      "title": "NA TUMWABUDU MFALME MTUKUFU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNa tumwabudu  huyu Mfalme,\nSifa za nguvu zake zivume;\nNi ngao, ni ngome, Yeye milele,\nNdizo sifa zake kale na kale.",
+        "2\nTazameni ulimwengu huu,\nUlivyoumwa, ajabu kuu;\nSasa umewekwa pahali pake,\nHata utimize majira yake.",
+        "3\nKwa ulinzi wako, kwetu Bwana,\nTwakushukuru, U mwema sana;\nHupewa chakula kila kiumbe,\nKila kitu kila mahali pake.",
+        "4\nWanadamu tu wanyange sana,\nTwakutumaini wewe, Bwana;\nKamwe haupunguiwsako wema,\nMkoombozi wetu, Rafiki mwema."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-6",
+      "number": 6,
+      "title": "KUMEKUCHA KWA UZURI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKumekucha kwa uzuri. Nafumbua macho;\nBaba amenihifadhi, Ni wake moto.",
+        "2\nBwana niwe leo kutwa Ulinzini mwako;\nNisamehe dhambi, niwe Mikononi mwako.",
+        "3\nRoho wako anikae moyoni daima;\nAnitakase, nione Uso wako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-7",
+      "number": 7,
+      "title": "MUNGU MSAADA WETU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu Msaada wetu tangu miaka yote;\nNdiwe tumaini letu la zamani zote.",
+        "2\nKivuli cha kiti chako ndiyo ngome yetu,\nWatosha mkono wako ni ulinzi wetu.",
+        "3\nKwanza havijakuwako nchi na milima,\nNdiwe Mungu; chini yako twakaa salama.",
+        "4\nNa miaka elfu ni kama siku moja kwako;\nUtatulinda daima, tu wenyeji wako.",
+        "5\nBwana msaada wetu tangu miaka yote,\nMlinzi wetu na ngome, daima, milele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-8",
+      "number": 8,
+      "title": "UJE UKOMBOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUnisikie ninapolia, Uje. M-kombozi;\nMoyo wangu hukutazamia, Uje. M-kombozi.",
+        "Chorus\nNimepotea mbali na kwangu, Nimetanga peke yangu;\nUnichukulie sasa kwako: Uje M-kombozi.",
+        "2\nSina pahali pa kupumzika, Uje M-kombozi\nUnipe raha, nuru, uzima, Uje M-kombozi.",
+        "3\nNimechoka, njia ni ndefu Uje, M-kombozi\nMacho yako kuona nataka, Uje M-kombozi.",
+        "4\nBwana daima hutanidharau, Uje, M-kombozi\nKilio changu utanijibu, Uje, M-kombozi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-9",
+      "number": 9,
+      "title": "MWUMBAJI , MFALME",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMwumbaji, Mfalme, Vitu vyote vyako;\nNi kwa ukarimu wako; Ninabarikiwa,\nNi kwa ukarimu wako, Ninabarikiwa.",
+        "2\nUliyeniumba, Nakutegemea;\nSina budi kuzisifu Hisani zako kuu,\nSina budi kuzisifu Hisani zako kuu.",
+        "3\nNitatoa nini? Kwanza vyote vyako,\nUpendo wako wadai Moyo wa shukrani,\nUpendo wako wadai Moyo wa shukrani.",
+        "4\nNipewe neema, Niwe na uwezo\nWa kuishi kwako, Bwana: Siku zangu,zako,\nWa kuishi kwako, Bwana: Siku zangu,zako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-10",
+      "number": 10,
+      "title": "KRISTO WA NEEMA YOTE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKristo wa neema zote imbisha moyo wangu\nMifulizo ya Baraka inaamsha shangwe kuu.\nUnifunze nikupende, nikuandame kote,\nMoyo wangu ukajaefuraha na tumaini.",
+        "2\nNamshukuru sana Bwana, aniwezesha huku.\nSalama aniongoza hata kule nyuumbani.\nYesu alinitafuta njiani mbali kwake,\nAkatoa damu yake nipone hatarini.",
+        "3\nKweli mimi mwiwa mkubwa wa neema daima;\nWema wako unifunge zaidi kwako Bwana.\nIli nisivutwe tena kukuacha, ee Mponya,\nNitwalie moyo wangu uwe wako kamili."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-11",
+      "number": 11,
+      "title": "JINA LA BWANA LI HERI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSauti zote ziimbe, jina la Yesu li heri !\nSifa za mfalme Mungu, jina la Yesu li heri !",
+        "Chorus\nJina li heri, jina li heri, jina la Yesu li heri.\nJina li heri, jina li heri, jina la Yesu li heri",
+        "2\nHofu zote la tuliza, jina la Yesu li heri !\nMwenye dhambi hukubali, jina la Yesu li heri.",
+        "3\nHuvunja nguvu za dhambi, jina la Yesu li heri.\nDamu yake hutakasa, jina la Yesu li heri.",
+        "4\nSauti yake ni tamu, jina la Yesu li heri.\nWakaburini husikia, jina la Yesu li heri.",
+        "5\nLugha maelf(u) zitaimba, jina la Yesu li heri.\nAstahili Mwana-Kondoo,  jina la Yesu li heri."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-12",
+      "number": 12,
+      "title": "MSIFU MUNGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "Msifu Mungu wa neema,\nEnyi viumbe po pote;\nWa juu pia sifuni\nBaba, Mwana naye Roho!\nAmin!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-13",
+      "number": 13,
+      "title": "YESU UJE KWETU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUmetuahidi kwamba wawili watatu , Kwajina lako wakija,\nUtabariki; Kwa hivi leo twapiga magoti nyumbani pako.",
+        "Chorus\nYesu uje kwetu Utubariki;\nYesu uje kwetu Uwe karibu.",
+        "2\nUmekuwa nasi siku nyingine, Tunakuhitaji mpaka mwisho.\nUje Mwokozi, tupe neema; ‘Tusikie Yesu, utubariki.",
+        "3\nUje utawale sauti zetu: Nyimbo, nazo sala uziagize;\nImani izidi, ikamilike; Pendo liwe safi, na njia nuru."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-14",
+      "number": 14,
+      "title": "NITEMBEE NAWE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNitembee nawe mungu Alivyo tembea Henok;\nMkonop wangu uushike: Unene nami kwa pole;\nIngawa njia siioni, Yesu nitembee nawe.",
+        "2\nSiwezi tembea pekee: pana dhoruba mbinguni;\nMitego ya miguu, elfu; Adui wengi hufichwa;\nUitulize bahari, Yesu nitembee nawe.",
+        "3\nUkinishika mkono Anasa kwangu hasara;\nKwa nguvu nitasafiri; `Tautwika msalaba;\nHata mji wa Sayuni Yesu nitembee nawe."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-15",
+      "number": 15,
+      "title": "NENA MUNGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNena rohoni Yesu, Nena kwa upole\nSema kwangu kwa pendo, \"Huachwi upweke.\"\nFungua moyo wangu, Nisikie mara;\nJaza roho na sifa, Sifa zako Bwana.",
+        "Chorus\nKila siku unene, Vile kwa upole,\nNong`oneza kwa pole wa pendo:\n\"Daima utashinda, Uhuru ni wako.\"\nNisikie maneno; \"Huachwi upweke.\"",
+        "2\nNena kwa wana wako, waonyeshe njia, \nWajaze kwa furaha, Fundisha kuomba;\nWajifunze kutoa Maisha kamili,\nWahimize ufalme, Tumwone mwokozi.",
+        "3\nNena kama zamani, Ulipoitoa\nSheria takatifu: Niiweke pia;\nNipate kutukuza Wewe Mungu wangu,\nMapenzi yoko tena, Daima kusifu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-16",
+      "number": 16,
+      "title": "NINAKUHITAJI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBwana ninakuhitaji! Nimpofu, maskini;\nUnishike mkononi, Kwako napata nguvu.",
+        "Chorus\nKila saa, kila saa Bwana ninakuhitaji;\nKila saa, kila saa, Unilinde kila saa.",
+        "2\nUnivike na mavazi Ya usikivu wako;\nNguo zangu ni machafu, Nazitamani zako.",
+        "3\nWewe ukiniongoza Nitakwenda salama;\nNenda nami siku zote, U nuru na uzima.",
+        "4\nNa ikiwa m-beleni Sehemu yangu ngumu,\nAu ikiwa furaha, Unilinde kila saa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-17",
+      "number": 17,
+      "title": "SI MIMI, KRISTO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSi mimi, Kristo astahili sifa; Si mimi, Kristo ajulikane;\nSi mimi, Kristo katika maneno Si mimi, Kristo kwa kila tendo",
+        "2\nSi mimi, Kristo, kuiponya huzuni; Kristo pekee, kufuta machozi;\nSi mimi, Kristo, kubeba mzigo; Si mimi, Kristo, hupunga hofu.",
+        "3\nKristo pekee, pasipo kujisifu; Kristo pekee, na nisizungumze\nKristo pekee, na hakuna kiburi; Kristo pekee, sifa yangu ife.",
+        "4\nKristo pekee, mahitaji atoe Si mimi, Kristo, kisima changu;\nKristo pekee, kwa mwili na kwa moyo. Si mimi, Kristo, hata milele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-18",
+      "number": 18,
+      "title": "MWOKOZI, KAMA MCHUNGA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMwokozi, kama mchunga Utuongoze leo;\nUtutume malishoni; Fanya tayari boma.\nBwana Yesu, peke yako Umetuvuta kwako.",
+        "2\nTu wakouwe rafiki, Uwe mlinzi wetu;\nKundi lako ulilinde, Tusivutwe na dhambi;\nBwana Yesu, tusike, Tukiomba, samehe.",
+        "3\nUmetuahidi kwamba Utakubali watu,\nUtawahurumia na Utawapa neema;\nBwana Yesu, tunapenda kuwa wako, mapema."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-19",
+      "number": 19,
+      "title": "MSALABANI PA MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMsalabani pa Mwokozi Hapo niliomba upozi,\nMoyo wangu ulitakaswa, Na asifiwe.",
+        "Chorus\nNa asifiwe, Na asifiwe,\nAlinikomboa kwa damu, Na asifiwe.",
+        "2\nChini ya mti msumbufu Niliomba utakatifu,\nAlinikomboa kwa damu, Na asifiwe.",
+        "3\nKwa ajabu nina okoka, Yesu anakaa moyoni;\nMtini alinifia, Na asifiwe.",
+        "4\nDamu ya Yesu ya dhamani Huniokoa makosani;\nHuniendesha wokovuni, Na asifiwe."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-20",
+      "number": 20,
+      "title": "MUNGU WETU YEYE MWAMBA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu wetu yeye mwamba, Kimbilio taabuni;\nMsaada penye shida ulio karibu sana.",
+        "Chorus\nMwambna wetu kutupumzisha, yu kivuli kuburudisha \nYu Mwongozi katika njia, kimbilio taabuni.",
+        "2\nMchana usiku, yule kimbilio taabuni,\nHivyo hatutaogopa, kwani yu karibu sana.",
+        "3\nIwayo yote, Yeye tu kimbilio taabuni,\nTwamjua Yeye Mlinzi aliye karibu sana.",
+        "4\nMungu wetu Ficho kwetu, kimbilio taabuni,\nSiku zote uwe Boma lililo karibu sana."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-21",
+      "number": 21,
+      "title": "BABA TWAKUJIA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBaba twakujia, Uwe msaada;\nUwe kimbilio, twakusihi.\nDunia ni giza tukitengwa nawe;\nFufariji hapa, Baba yetu.",
+        "Chorus\nBaba twakujia, tu dhaifu,\nusitugeue, tusikie.",
+        "2\nSalama tulinde, kati ya taabu;\nUwe raha yetu mashakani.\nRoho ya sumbuka, Baba tujalie;\nTwakuomba sana, tupe nguvu.",
+        "3\nNeema utupe, tukubali kwako;\nMoyo wetu Linda, safarini;\nTuongoe mbele, tupate kushinda\nNa kufika ng`ambo, kule kwako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-22",
+      "number": 22,
+      "title": "USINIPITE MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUsinipite , Mwokozi, unisikie;\nUnapozuru wengine, usinipite.",
+        "Chrous\nBwana, Bwana, unisikie;\nUnapozuru wengine, usinipite.",
+        "2\nKiti chako cha rehema, nakitazama;\nMagoti napiga pale, nisamehewe.",
+        "3\nSina ya kutegemea, ila wewe tu;\nUso wako uwe kwangu, nakuabudu.",
+        "4\nWewe tu u mfariji: sina mbinguni,\nWala duniani pote, Bwana mwingine."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-23",
+      "number": 23,
+      "title": "YESU FURAHA YA MOYO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu, furaha ya moyo!Hazina ya pendo, na nuru.\nYote yatupendezayo, yasilinganishwe nawe.",
+        "2\nKweli yako ya daima, wawajibu wakuitao,\nNi siku zote u mwema kwao wakutafutao.",
+        "3\nU Mkate wa uzima, kupokea ni baraka,\nTwanywa kwako u kisima roho zikiburudika.",
+        "4\nMwokozi twakutamani, kwako roho hutulia;\nTwakushika kwa imani, nawe watubariki.",
+        "5\nYesu, ndiwe kwetu mwanga, tufurahishe daima;\nGiza ya dhambi fukuza uwe mwanga wa uzima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-24",
+      "number": 24,
+      "title": "JINA LAKE YESU TAMU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nJina lake Yesu tamu Tukilisikia,\nHutupoza, tena hamu Hutuondolea,",
+        "2\nRoho iliyo umia kwalom hutibika,\nChakula, njaani pia; Raha, tukichoka.",
+        "3\nJina hili nimsingi, Ngao, Ngoma,\nMwamba, Kwa hili napata ungi, kwangu ni akiba.",
+        "4\nYesu, Mchunga, Rafiki, Mwalimu,\nKuhani, Mwanzo, Mwisho, na Amana, Mali yangu yote!",
+        "5\nMoyo wangu hauwezi kukusifu kweli;\nIla sifa zangu hizi, Bwana, zikubali."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-25",
+      "number": 25,
+      "title": "TAJI MVIKENI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTaji mvikeni Taji nyingisana, kondoo mwake Kitini,\nBwana wa mabwana; Nami tamsifu Alikufa kwangu,\nNi mfalme mtukufu, Seyidi wa mbingu.",
+        "2\nTaji mvikeni Mwanawa bikira; Anazovaa kicwani\nAliteka nyara; Shilo wa manabii Mchunga wa watu\nShina na tanzu vya Yese Wa Bethilehemu.",
+        "3\nTaji mvikeni Bwana wa mapenzi; Jeraha zake nishani\nNi vito vya enzi, Mbingu haina Hta malaika\nAwezaye kuziona pasipo kushangaa!",
+        "4\nTaji mvikeni Bwana wa Salama; Kote-kote duniani\nVita vitakoma; Nayo enzi yake Itaendelea,\nChini ya miguu yake, Maua humea."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-26",
+      "number": 26,
+      "title": "TUPE AMANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu mtukufu Aliyeumba Pepo kuvuma Na radi kali;\nToa neema unapotawala, Tupe amni, Bwana wa wema.",
+        "2\nMungu wa neema, Nchi imeacha Amri tukufu Na Neno\nLako; Hasira zoko Zitaharibu, , Tupe amni, Bwana wa wema.",
+        "3\nMwumbaji wa haki, Watu wabaya Wamedharau Utukufu\nWako; Lakini wema wako utadumu; Endesha wema Bwana wa wema.",
+        "4\nTunakutolea Ibada safi Kwa ajili ya Wokovu wako;\nHivi tunaziimba sifa zako; Wako uwezo na utukufu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-27",
+      "number": 27,
+      "title": "TENA, MWOKOZI, TWALITUKUZA JINA LAKO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTena, Mwokozi, twalitukuza jina lako lenye kupendeza,\nTwangojea neno la amani, Kabla hatujakwenda nyumbani.",
+        "2\nTupe amani njiani mwetu, Wewe umwanzo, umwisho wetu;\nDhambini kamwe isiingie Midomo ikutaye wewe.",
+        "3\nUtupe amani usiku huu, Ili gizani kuwe nuru kuu.\nTulinde kwa kuwa kwako Bwana. Usiku nisawa na mchana.",
+        "4\nTupe amani ulimwenguni Ndiyo dawa yetu majonzini;\nNa ikitwita sauti yako, Tupe amani milele kwako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-28",
+      "number": 28,
+      "title": "JINA LA THAMANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nJina lake Yesu tamu, Lihifadhi moyoni;\nLitakufariji ndugu,Enda nalo popote.",
+        "Chorus\nJina la Thamani,\n(Thamani)  (thamani)\nTumai la dunia\nJina la thamani - - tamu!)\nFuraha ya mbinguni.",
+        "2\nJina la Yesu lafaa Kama ngao vitani.\nMajaribu yakisonga, Omba kwa jina hili.",
+        "3\nJina hili la thamani Linatufurahisha, \nNapotukaribisha, Na tunapomwimbia.",
+        "4\nMwisho wa safari yetu Tutakapomsujudu.\nJina hili tutasifu Furaha ya mbinguni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-29",
+      "number": 29,
+      "title": "YESU, NAKUPENDA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu nakupenda, u mali yangu, Anasa za dhambi sitaki kwangu:\nNa mwokozi aliyeniokoa Sasa nakupenda, kuzidi pia.",
+        "2\nMoyo umejaa mapenzi tele Kwa vile ulivyonipenda mbele,\nUhai wako ukanitolea Sasa nakupenda, kuzidi pia.",
+        "3\nUlipoangikwa msalabani Tusamehewe tulio dhambini;\nTaji ya miiba uliyoivaa, Sasa nakupenda, kuzidi pia.",
+        "4\nMawanda mazuri na masikani Niyatzamapo huko mbinguni,\n`Tasema na taji nitakayovaa, Sasa nakupenda, kuzidi pia."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-30",
+      "number": 30,
+      "title": "YESU UNIPENDAYE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "Yesu unipendaye kwako nakimbilia,\nNi wewe utoshaye mwovu akinijia.\nYafiche ubavuni mwako maisha yangu;\nNifishe bandarini, wokoe moyo wangu.",
+        "2\nNgome nyingine sina; nategemea kwako,\nUsinitupe Bwana, nipe neema yako,\nNinakuamania, kuniweshesha;\nShari wanikingia, vitani wanitosha.",
+        "3\nNakutaka mpaji, vyote napata kwako;\nNiwapo muhitaji, utanijazi vyako;\nNao waangukao wanyonge wape nguvu;\nPoza wauguao, uongoze vipofu.",
+        "4\nBwana umeniosha moyo kwa damu yako;\nNeema ya kutosha yapatikana kwako;\nKwako Bwana naona kisima cha uzima;\nMwangu moyoni, Bwana, bubujika daima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-31",
+      "number": 31,
+      "title": "NIIMBE PENDO LAKE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNiimbe (niimbe) pendo lake,\nPendo la (pendo la) Yesu Bwana;\nSababu (sababu) alitoka\nKwa Baba, akafa.",
+        "Chorus\nNiimbe (niimbe) pendo lake;\nSifa kuu (sifa kuu) nitatoa;\nAkafa (akafa) niwe hai, - -\nNiimbe pendo lake.",
+        "2\nMachozi 9machozi) alitoa\nIjapo (ijapo) sijalia;\nMaombi (maombi) yangu bado,\nAniombeapo.",
+        "3\nUpendo (upendo) kubwa huo!\nDunia (dunia) haijui\nSamaha (samaha) kwa makosa\nKubwa kama yangu.",
+        "4\nHapana (hapana) tendo jema\nAmbalo (ambalo) nilitenda,\nNataka (nataka) toka leo\nNimwonyeshe pendo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-32",
+      "number": 32,
+      "title": "TANGU KUAMINI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNinao wimbo mzuri, Tangu kuamini;\nWa mkombozi, Mfalme, Tangu kuamini.",
+        "Chorus\nTangu kuamini, Jina lake `tasifu,\nTangu kuamini, Nitalisifu Jina lake.",
+        "2\nKristo anitosha kweli, Tangu kuamini,\nMapenzi yake napenda, Tangu kuamini.",
+        "3\nNinalo shuhuda sawa, Tangu kuamini,\nLinalofukuza shaka, Tangu kuamini.",
+        "4\nNinalo kao tayari, Tangu kuamini,\nNililorithi kwa Yesu, Tangu kuamini."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-33",
+      "number": 33,
+      "title": "KARIBU SANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKaribu sana univute, karibu sana daima niwe.\nBwana napenda unishike, Unilinde nisitengwe nawe,\nUnilinde nisitengwe nawe.",
+        "2\nKaribu sana, sina kitu, Sina sadaka kwa Bwana Yesu,\nIsipokuwa moyo wangu: Uutakase katika damu,\nUutakase katika damu.",
+        "3\nKaribu sana wewe, wewe nami, Nitafurahi kuacha\nDhambi- - Anasa zote na kiburi: Nipe Yesu niliye msulibi,\nNipe Yesu niliye msulibi.",
+        "4\nKaribu sana, hata mwisho. Hata mbinguni nisimamapo:\nDaima dawamu niwepo Nitakapoona uso wako,\t    \nNitakapoona uso wako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-34",
+      "number": 34,
+      "title": "HADITHI KISA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNipe habari za Yesu, Kwangu ni tamu sana;\nKisa chake cha dhamani Hunipendeza sasa.\nJinsi malaika wengi walivyoimba sifa,\nAlipoleta amani kwa watu wa dunia.",
+        "Chorus\nNipe habari za Yesu, Kaza moyoni mwangu;\nKisa chake cha dhamani Hunipendeza sasa.",
+        "2\nKisa cha alivyofunga Peke yake jangwani.\nJinsi alivyolishinda jaribu la shetani;\nKazi aliyoifanya, Na siku za huzuni,\nJinsi walivyotesa: Yote ni yaajabu!",
+        "3\nHabari za msalaba Aliposulubishwa:\nJinsi walivyomzika Akashinda kaburi.\nKisa chake cha rehema. Upendo wake kwangu,\nAliye toa maisha Nipokee wokovu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-35",
+      "number": 35,
+      "title": "NIMEKOMBOLEWA NA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNimekombolewa na Yesu na sasa nimefurahi;\nKwa bei ya mauti yake mimi ni mtoto wake.",
+        "Chorus\nKombolewa! Nakombolewa na damu;\nKombolewa! mimi mwana wake kweli.",
+        "2\nKukombolewa nafurahi, kupita lugha kutamka;\nKulionyesha pendo lake, mimi ni mtoto wake.",
+        "3\nNitamwona Mfalme wangu, katika uzuri wake;\nAmbaye najifurahisha katika torati yake.",
+        "4\nNajua taji imewekwa mbinguni tayari kwangu;\nMuda kitambo atakuja, ili alipo, niwepo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-36",
+      "number": 36,
+      "title": "SIKU KUU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNi siku kuu siku ile ya kumkiri Mwokozi!\nMoyo umejaa tele, kunyamaza hauwezi.",
+        "Chorus\nSiku kuu! Siku kuu ya kuoshwa dhambi zangu kuu!\nHukesha na kuomba tu, aniongoza miguu.\nSiku kuu! siku kuu ya kuoshwa dhambi zangu kuu!",
+        "2\nTumekwisha patina, mimi mbwake, yeye mbwangu,\nNa sasa nitamwandama, nikiri neno la Mungu.",
+        "3\nMoyo tulia kwa Bwana, kiini cha raha yako:\nHuna njia mbili tena: uwe naye, yote ndako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-37",
+      "number": 37,
+      "title": "PENDO LAKO, EE MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPendo lako , Ee Mwokozi, Hushinda pendo zote!\nKaa nasi, ndani yetu, Furaha ya mbinguni.\nYesu, u rehema tupu, Safi, na kusamehe,\nMfariji mwenye huzuni Ziondoe machozi.",
+        "2\nRoho yako ya upendo Tuma kwa kundi lako;\nHebu tuirithi raha, Iliyoahidiwa.\nUondoe moyo mbaya, U Mwanzo, tena Mwisho;\nTimiza imani yetu, Ilituwekwe `huru.",
+        "3\nYesu, uje kwetu sasa, Tupokee huruma;\nRudi kwetu, tena kamwe Usituache pekee.\nTungekutukuza leo, pamoja na malaika,\nImba na kutoa sifa, Ingia kwa ibada.",
+        "4\nSasa, Bwana, kazi yako, Imalize moyoni;\nTakasa hekalu lako, Wokovu kamilisha!\nSafisha viumbe vyako Katika wakati huu;\nTupumzike `toka dhambi, Tuingie mbinguni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-38",
+      "number": 38,
+      "title": "NASIFU SHANI YA MUNGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNasifu shani ya Mungu, mweneza bahari,\nMuumba pia wa mbingu, jua, nyota, mwezi,\nNi tukufu yako shani, mtengeza mambo\nYa nyakati na zamani, yasiyo na mwisho.",
+        "2\nKadri ya nionayo, ya kusifu Mungu;\nNchi niikanyagayo, na hayo mawingu;\nHakuna hata unyasi, usiokuza;\nNa upepo wavumisha,  au kutuliza.",
+        "3\nNami kwa mkono wako, naongozwa sawa,\nNi pato nikusifupokukwomba ni dawa;\nUmenizingira nyuma, na mbele baraka;\nMaarifa ya ajabu! Yanishinda mimi!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-39",
+      "number": 39,
+      "title": "ATI, KUNA MVUA NJEMA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nAti, kuna mvua njema yenye neema;\nWatu wanaona vyema Bwana, huninyeshei?",
+        "Chorus\nNa mimi? Na mimi? Bwana, huninyeshei?",
+        "2\nSinipite, Baba mwema; dhambini nimezama:\nRehema ni za daima; Bwana hunionyeshi?",
+        "3\nSinipite, Yesu mwema; niwe nawe daima,\nNatamani kukwandama: Bwana, hunichukui?",
+        "4\nSinipite, Roho mwema, Mpaji wa uzima,\t\nNawe shahidi wa wema, Bwana wema hunipi?"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-40",
+      "number": 40,
+      "title": "NIJAZE SASA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNjoo, Roho Mtukufu uoshe moyo wangu,\nUtakase nia yangu, njoo, nijaze sasa.",
+        "Chorus\nRoho Mtukufu, njoo, nijaze sasa.\nUtakase nia yangu, njoo, nijaze sasa.",
+        "2\nUjalize moyo wangu Ijapo sikuoni,\nNami ninakuhitaji, njoo, nijaze sasa.",
+        "3\nNimejaa udhaifu, ninainamia kwako;\nRoho Mtukufu sasa, nitilie na nguvu.",
+        "4\nUnioshe, nifariji, niponye nibariki,\nUnijaze moyo wangu: ndiwe mwenye uwezo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-41",
+      "number": 41,
+      "title": "ROHO MTAKATIFU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nRoho Mtakatifu, Kiongozi amini;\nUtushike mkono Tulio wasafiri;\nUtupe kusikia Sauti ya upole;\n\"Msafiri, fuata, Naongoza nyumbani.\"",
+        "2\nWewe ndiwe rafiki, Msaada karibu;\nTusoiache shakani; Nukiwa gizani\nUtupe kusikia Sauti ya upole;\n\"Msafiri, fuata, Naongoza nyumbani.\"",
+        "3\nSiku zetu za kazi, Zikiwa zimekwisha,\nWala hatuna tama Ila mbingu na sala:\nUtupe kusikia Sauti ya upole;\n\"Msafiri, fuata, Naongoza nyumbani.\""
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-42",
+      "number": 42,
+      "title": "EWE ROHO WA MBINGUNI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nEwe Roho wa Mbinguni, Maombi sikia!\nMakao yako yafanye Mioyoni mwetu.",
+        "2\nKama nuru, tupenyeze, Giza uondoe;\nSiri yako tuione, Na amani yako.",
+        "3\nKama moto, tusafishe, Choma dhambi yetu;\nRoho zetu zote ziwe Hekalu la Bwana.",
+        "4\nKama umande, na uje, Utuburudishe,\nMoyo `kavu utakuwa Ni wenye  baraka.",
+        "5\nKama upepo Ee Roho, Katika Pente koste\nUkombozi utangaze, Kwa kila taifa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-43",
+      "number": 43,
+      "title": "FURAHA GANI!",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nFuraha gain na ushiriki, Nikimtegemea Yesu tu!\nBaraka gain, tena amani, Nikimtegemea Yesu tu!",
+        "Chorus\nTegemea, salama bila hatari;\nTegemea, tegemea  Mwokozi Yesu.",
+        "2\nNitaiweza njia nyembamba, Nikimtegemea Yesu tu;\nNjia `tazidi kuwa rahisi, Nikimtegemea Yesu tu.",
+        "3\nSina sababu ya kuogopa, Nikimtegemea Yesu tu;\nAtakuwa karibu daima, Nikimtegemea Yesu tu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-44",
+      "number": 44,
+      "title": "URAFIKI WA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nHakuna rafiki kama Yesu, Hakuna, hakuna!\nTabibu mwingine wa rohoni, Hakuna, hakuna!",
+        "Chorus\nYesu ajua shida zetu; Daima ataongoza\nHakuna rafiki kama Yesu, Hakuna, hakuna!",
+        "2\nWakati ambapo hapo yeye, Hapana, hapana!\nWala giza kututenga naye, Hapana, hapana!",
+        "3\nAliye sahauliwa naye, Hakuna, hakuna!\nMkosaji asiyempenda, Hakuna, hakuna!",
+        "4\nKipawa kama Mwokozi wetu, Hakuna, hakuna!\nAmbaye atanyimwa wokovu, Hakuna, hakuna!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-45",
+      "number": 45,
+      "title": "MWANGA UMO MOYONI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMlimani pana mwanga, Mwanga wa jua zuri\nShambani na baharini Jua tukufu liko;\nMwanga uliyo mkubwa Umo moyoni mwangu,\nKwa kuwa Yesu alipo Hapa pana mwangaza.",
+        "Chorus\nMwangaza ulio mzuri. Mwanga umo moyoni;\nAkiwapo Bwana Yesu Pana mwanga moyoni.",
+        "2\nKama mavazi kikuu, Ninavua huzuni:\nNguo nzuri za kuvaa, Umenipa za kuvaa.\nNakuandama rohoni Hatanyumba ya juu\nIliyopambwa vizuri Katika pendo lako.",
+        "3\nUlinikomboa Yesu; Maisha yangu, mali,\t\nVyote nivyako, Mwokozi Daima nikusifu.\nNakuandama rohoni Hatanyumba ya juu\nIliyopambwa vizuri Katika pendo lako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-46",
+      "number": 46,
+      "title": "MIGUUNI PAKE YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMiguuni pake Yesu, Maneno yake tamu;\nPahali palipo heri, Niwepo kila siku.\nMiguuni pake Yesu, Nakumbuka upendo\nNahisani vyake kwangu, Vimenivuta moyo.",
+        "2\nMiguuni pake Yesu, Hapa pahali bora\nPakuweka dhambi zangu, Pahali pa pumziko.\nMiguuni pake Yesu, Hapa nafanya sala,\nKwake napewa uwezo, Faraja na nehema.",
+        "3\nUnibariki Mwokozi, Ni miguuni pako,\nUnitazame kwa pendo, Nione uso wako.\nNipe Bwana nia yake, Ili ionekane\nNimekaa na Mwokozi, Aliye haki yangu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-47",
+      "number": 47,
+      "title": "NI HERI KIFUNGO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNi heri kifungo Kinachotufunga\nMioyo yetu kwa upendo Pendo la Kikristo",
+        "2\nM-bele ya Baba Tunatoa sala;\nHofu, nia, masumbufu Yetu ni moja.",
+        "3\nTunavishiriki Matata na shida,\nNa mara nyingi twatoa Chozi la fanaka.",
+        "4\nTunapoachana Moyoni twalia;\nLakini tutakutana M-wisho mbinguni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-48",
+      "number": 48,
+      "title": "NINAKUPENDA ZAIDI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNinakupenda zaidi, Ya vyote vingine;\nKwani umenipa raha, Na amani, Bwana.",
+        "Chorus\nNusu haijatangazwa (tangazwa) Ya upendo wako;\t\nNusu haijatangazwa (tangazwa) Damu hutakasa (takasa).",
+        "2\nNakujua u karibu Kuliko dunia;\nKukukumbuka ni tamu Kupita kuimba.",
+        "3\nKweli wanifurahisha, Na nitafurahi;\nPasipo upendo wako Naona huzuni.",
+        "4\nItakuwaje Mwokozi, Kukaa na wewe,\nIkiwa ulimwenguni, Tuna furaha hii?"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-49",
+      "number": 49,
+      "title": "NINAYE RAFIKI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNinaye rafiki naye Alinipenda mbele;\nKwa kamba za pendo lake Nimefungwa milele.\t\nAukaza moyo wangu, Uache ugeuzi,\nNinakaa ndani yake, Yeye Kwangu, milele.",
+        "2\nNinaye Rafiki ndiye, Aliyenifilia;\nAlimwaga damu yake, Kwa watu wote pia.\nSina kitu mimi tena, Nikiwa navyo tele,\nPia vyote ni amana, Ndimi wake milele.",
+        "3\nNinaye Rafiki naye, Uwezo amepewa;\nAtanilinda mwenyewe, Juu `tachukuliwa;\nNikitazama mbinguni, Hupata nguvu tele;\nSasa natumika chini, Kisha juu milele.",
+        "4\nNinaye Rafiki naye, Yuna na moyo mwema;\nNi Mwalimu, Kiongozi, Mlinzi wa daima;\nNi nani wa kunitenga, Na mpenzi wa mbele?\nKwake nimetia nanga, ndimi wake milele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-50",
+      "number": 50,
+      "title": "MUNGU NAWE NANYI DAIMA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu nawe nanyi daima; hata twonane ya pili,\nAwachunge kwa fadhili, Mungu nawe nanyi daima.",
+        "Chorus\nHata twonane juu, hata twonane tena kwake;\nHata twonane juu, Mungu nawe nanyi daima.",
+        "2\nMungu nawe nanyi daima; awafunike mabawa,\nAwalishe, awakuze; Mungu nawe nanyi daima.",
+        "3\nMungu nawe nanyi daima; kila wakati wa shida\nAwalinde hifadhini; Mungu nawe nanyi daima.",
+        "4\nMungu nawe nanyi daima; awabariki na pendo\nAmbalo halina mwisho; Mungu nawe nanyi daima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-51",
+      "number": 51,
+      "title": "KUWA NA YESU MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu Mwokozi, kwa hakika, Hjinipa furaha na amani;\nMrithi wa wokovu wake, Natakaswa kwa damu yake.",
+        "Chorus\nHabari hiyo wimbo wangu, Daima nitamsifu Yesu.\nHabari hiyo wimbo wangu, Daima nitamsifu Yesu.",
+        "2\t\nNijitoapo nina raha, Na kwa imani namwona Bwana;\nAniletea malaika, Wananilinda, niiokoke.",
+        "3\t\nHali na mali anitwaa, Katika Yesu nabarikiwa;\nNikimgoja kwa subira, Wema wake unanitosha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-52",
+      "number": 52,
+      "title": "NIPE BIBLIA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNipe Biblia nyota ya furaha, wapate nuru wasafirio;\nHakuna la kuzuia amani, Kwani Yesu alituokoa.",
+        "Chorus\nNipe Biblia neno takatifu, Nuru yako itaniongoza,\nSheria na ahadi na upendo, Hata mwisho vitaendelea.",
+        "2\nNipe Biblia nihuzunikapo ikinijaza moyoni dhambi ;\nNipe neno zuri la Bwana Yesu, Nimwone Yesu Mwokozi wangu.",
+        "3\nNipe Biblia nipate kuona, hatari zilizo duniani;\nNuru ya neno lake Bwana Yesu, Itaangaza njia ya kweli.",
+        "4\nNipe Biblia taaa ya maisha; Mfariji tunapofiliwa;\nUnionyeshe taa ya mbinguni, Nione utukufu wa Bwana"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-53",
+      "number": 53,
+      "title": "NAPENDA KUHUBIRI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNapenda kuhubiri habari ya Yesu,\nYa Bwana wa fahari na pendo zake kuu.\nKuhubiri napenda kwa hali na mali:\nMwanyewe nimeonja, najua ni kweli.",
+        "Chorus\nNapenda kuhubiri kisa cha Bwana Yesu.\nYa Bwana wa fahari na pendo zake kuu.",
+        "2\nNapenda kuhubirimambo ya ajabu\nNa tukiya fikiri yapita dhahabu.\nKuhubiri napenda ya yaliyonifaa:\nNami sasa napenda hayo kwa kuimba.",
+        "3\nNapenda kuhubiri, hunifurahisha\nTamu yake habari haiwezi kwisha.\nNapenda kuhubiri wa gizani nao;\nHawana muhubiri wa kweleza chuo.",
+        "4\nKuhubiri napenda hata wajuao;\nKusikia hupenda kama wenzi wao.\nNakao kwenye fahari nikiimba wimbo.\nNitaimba habari za Mwokozi huyo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-54",
+      "number": 54,
+      "title": "NATAKA NIMJUE YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNataka nimjue Yesu, na nizidi kumfahamu,\nNijue pendo lake tu, wokovu wake kamili.",
+        "Chorus\nZaidi, zaidi,nimfahamu Yesu\nNijue upendo wake, wokovu wake kamili.",
+        "2\nNataka nione Yesu, na nizidi kusikia\nAnenapo kitabuni, kujidhihirisha kwangu.",
+        "3\nNataka tena zaidi, daima kupambanua\nMapenzi yake, nifanye yale yanayompendeza.",
+        "4\nNataka nikae naye, kwa mazungumzo matamu.\nNizidi kuwaonyesha wengine wokovu wake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-55",
+      "number": 55,
+      "title": "TWAPANDA MAPEMA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTwapanda mapema na mchana kutwa\t\nMbegu za fadhili hata jioni\nTwangojea sasa siku za kuvuna;\nTutashangilia wenye mavuno.",
+        "Wenye mavuno wenye mavuno,\nTutasha ngilia wenye mavuno;\nWenye mavuno wenye mavuno,\nTutasha ngilia wenye mavuno.",
+        "2\nTwapanda mwangani  na kwenye kivuli\nTusishindwe na baridi na pepo\nPunde itaisha kazi yetu hapa\nTutashangilia wenye mavuno.",
+        "3\nTwapana kwa Bwana mbegu kila siku.\nTujapoona taabu nahuzuni; \nTuishapo shinda atatupokea:\nTutashangilia wenye mavuno."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-56",
+      "number": 56,
+      "title": "WAPONNYE WATU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nWalio kifoni, nenda waponye. Uwatoe walio shimoni;\nWanaoanguka uwainue; Habari njema uwajulishe.",
+        "Chorus\nWalio kifoni waokoeni, Mwokozi yuko huwangojea",
+        "2\nWajapokawia anangojea Awasubiri waje tobani;\nMwokozi hawezi kuwadharau, Huwasame he tangu zamani:",
+        "3\nNa ndani ya moyo wa wanadamu Huwapo shida, tena huzuni;\nLakini kwa Yesu kuna rehema Kuwaponya na kuwaokoa.",
+        "4\nWalio kifoni, nenda waponye Kazi ni  yetu, zawadi iko;\nNguvu kuhubiri Bwana hutoa Kwa subira tuwavute sasa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-57",
+      "number": 57,
+      "title": "USIKATAE KAZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUsiikatae kazi yake Bwana; Ukae tayari kuifanya kazi;\nUende po pote Mungu akwitapo,\nNawe utaona furaha kazini",
+        "Chorus\nNjoo, We! Usikatae; Njoo, We! Uifanye kazi;\nUsiikatae kazi yake Bwana, Ili hatimaye usikatazwe juu.",
+        "2\nUsiikatae kazi yake Bwana; Kwa nini kawia? Fanya kazi leo.\nMavuno meuoe, Wachache wavuni,\t\nOnyesha furaha Kwa kazi ya Bwana.",
+        "3\nUsiikatae kazi yake Bwana; Kukataa pendo Kwako ni hatari.\nSaa ya rehema, Yesu akiomba,\nZiungame dhambi, Zifutwe mbinguni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-58",
+      "number": 58,
+      "title": "ZITAKUWA NYOTA TAJINI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nLeo nina fikiria nchi nzuri Ninayotaka kuiona;\nNisimamapo karibu na Mwokozi, Tajini zitakuwa nyota?",
+        "Chorus\nSijui tajini mwangu kama nyota \nZitang`aa kila wakati!\nNitakapoamka katika majumba\nZitakuwa nyota Tajini?",
+        "2\nKwa nguvu za Bwana nitafanya kazi, Nitavuta roho za watu,\nIli niwe na nyota katika taji, Bwana anapotupa tunu.",
+        "3\nNitakuwa na furaha nikimwona, Kuweka miguuni pake\nWatu walio vutwa kwa ajili ya Kazi yangu na Roho yake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-59",
+      "number": 59,
+      "title": "FANYENI KAZI ZENU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nFanyeni kazi zenu, usiku si mbali;\nKesheni saa zenu vumilieni;\nKwa Yesu tumikeni na hiyo injili.\nSana wahubirini watu wa mbali.",
+        "2\nFanyeni kazi zenu, giza yasongea;\nNawengi wenzi wenu wamo gizani.\nMsipoteze moja dakika ni hizi:\nBwana atarejea mwisho wa kazi.",
+        "3\nFanyeni kazi zenu, hivi jua lachwa;\nWote walio kwenu apenda Mungu:\nNa sisi tumjuaye tuwafundishe\nIli Yesu ajaye tumfurahishe."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-60",
+      "number": 60,
+      "title": "NITAKWENDA UTAKAPONITUMA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPengine sio milimani Utakaponiita\nPengine sio baharini Wala palipo vita;\nLakini unaponiita, Na njia siijui.\nBwana, nitajibu, ni tayari Kwanda uniagizapo.",
+        "Chorus\nUkiwa pamoja nami, Bwana, Mlimani, baharini,\nNiende utakaponiita; Na fuata uendako.",
+        "2\nPengine leo kuna neno, Neno tamu la pendo,\nAmbalo Yesu anataka Ninene kwa upole;\nUkiwa pamoja nami, Bwana, Nitamtafuta leo\nYele aliyepotea mbali: Nitasema upendavyo",
+        "3\nPahali pako bila shaka Pa kuvuna shambnani,\nKazi niwezayo kufanya Kwa Yesu Mkombozi;\nHivi nikikutegemea, Kwa kuwa wanipenda,\nMapenzi yako nitafanya, Na niwe upendavyo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-61",
+      "number": 61,
+      "title": "BWANA NAMI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNimemwona rafiki wa thamani kubwa,\nAnanipenda kwa ‘pole, kwa pendo amini:\nKuishi kute ngwa naye, la, huki siwezi,\nTunakaa pamoja: Bwana nami.",
+        "2\nPengine nimechoka,\tmimi mdhaifu,\nNdipo ninamtegemea, alivyoalika;\nHuniongoza njiani, pahali pa nuru,\nTwatembea pamoja: Bwana nami.",
+        "3\nNamweleza huzuni, na fura ha yangu,\nVile ninavyosumbua, vinavyopendeza;\nHuniagiza kutenda, yanayonipasa,\nTwazungumza pamoja: Bwana nami.",
+        "4\nAjua natamani, kuwavuta watu,\nHivyo ananipeleka, kutangaza Neno;\nNitangaze pendo lak, kwa niniakafa;\nTwahubiri pamoja: Bwana nami."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-62",
+      "number": 62,
+      "title": "NAPENDA KITABU CHAKE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNapenda kitabu chake, kilichotoka mbinguni,\nBarua kwangu ya Bwana Ujumbe wake wa`pendo.",
+        "2\nHumo ndani ya kitabu Sura ya Yesu naona;\nKaratasi zimekuwa, Wayo zake za Mwongozi.",
+        "3\nMapenzi yake Mwumbaji, Kubwe la asali tamu;\nNatamani kuuonja, Ule mkate wa uzima.",
+        "4\nMapenzi Yake Mwumbaji, Yanafunuliwa humo;\nHazina kuu ya hekima, Utajiri wa ajabu.",
+        "5\nMwangaza wa ulimwengu Angaza humo moyoni!\nUwe mwandamizi pote, Taa ya hatua zangu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-63",
+      "number": 63,
+      "title": "NIUONAPO MSALABA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNiuonapo msalaba, Kristo aliponifilia;\nKwangu pato ni hasara. Kiburi nakichukia.",
+        "2\nNa nisijivune, Bwana, Ila kwa sadaka yako;\nUpuzi sitaki tena, Zi chini ya damu yako.",
+        "3\nTangu kichwa hata nyayo, Zamwagwa pendo na hamu,\nNdako pweke hamu hiyo. Pendo zako zimetimu.",
+        "4\nVitu vyote vya dunia, Si sadaka ya kutosha;\nPendo zako zaniwia, Nafsi, mali, na maisha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-64",
+      "number": 64,
+      "title": "PIGA PANDA YA INJILI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPiga panda ya Injili, onyesha watu wote;\nIli anayesikia atubu, aokoke.",
+        "Chorus\nPiga panda ya Injili, upige kwa nguvu;\nMungu amekuagiza mateka wawe huru.",
+        "2\nUpige vilimani, kwa kila tambarare;\nPande zote, miji yote isikie Injili.",
+        "3\nUipige mipakani, barabarani pia;\nIwatangazie wote, wanakwitwa na Baba.",
+        "4\nUipige! Watu wengi wataka wawe huru;\nWaambie kwamba Yesu asema \"Njoni kwangu.\""
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-65",
+      "number": 65,
+      "title": "TWENDENI ASKARI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTwendeni askari, Watu wa Mungu;\nYesu yuko mbele, Tumwandame juu;\nAmetangulia Bwana vitani,\nTwende mbele kwani ndiye amini.",
+        "Chorus\nTwendeni Askari, Watu wa Mungu; \nYesu yuko mbele, Tumwandame juu;",
+        "2\nJeshi la shetani, likisikia\nJina la Mwokozi, litakimbia; \nKelele za shangwe zivume pote;\nNdugu, inueni zenu sauti.",
+        "3\nKweli kundi dogo, watu wa Mungu,\nLa mababa yetu ni letu fungu;\nHatutengwi nao, moja imani;\nTumaini moja, na moja dini.",
+        "4\nHaya mbele watu nasi njiani,\nInueni myoyo, nanyi sifuni;\nHeshima na sifa yake Mfalme;\nJuu hata chini sana zivume."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-66",
+      "number": 66,
+      "title": "ROHO YANGU AMKA SASA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nRoho yangu amka sasa, mara jitahidi;\nShindano ni lake Bwana, zawadi ni taji.",
+        "2\nSauti ni yake Mungu inayokuita;\nNdiyo aliyekirimu taji ya uzima.",
+        "3\nMashaidi ndio wengi wanao kuona;\nYa nyuma usifikiri bali mwendo kaza.",
+        "4\nBwana umetuanzisha katika shindano;\nKwa vile tunaposhinda ushindi ni wako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-67",
+      "number": 67,
+      "title": "KESHA ROHO YANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKesha roho yangu, adui maelfu\nHujaribu kuangusha, kuvuta dhambini.",
+        "2\nUkeshe, uombe, ili ushindwe;\nFanya vita kila siku, omba msaada.",
+        "3\nKushinda ni bado: ulinde silaha;\nUsiache kupigana hata una taji."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-68",
+      "number": 68,
+      "title": "TUSIMAME IMARA MWAMBANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUmtetee Mungu duniani ijapo pepo kali za vuma;\nMwambani pekee pana nguvu Dhambi ikimea.",
+        "Chorus\nTusimame imara katika mwamba,\nMwamba wa Kristo pekee;\nNdipo salamini tutasimama\nKule kitini pa enzi.",
+        "2\nItetee haki kwa bidii, kwa moyo mnyofu wa imani;\nMwambani pekee utashinda wingi wa upotovu.",
+        "3\nItetee kweli, itadumu, ijapo kawia itashinda;\nMwambani pekee pana raha yaishapo tufani."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-69",
+      "number": 69,
+      "title": "CHA KUTUMAINI SINA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nCha kutumaini sina ila damu yake Bwana, \nSina wema wa kutosha Dhambi zangu kuziosha.",
+        "Chorus\nKwake Yesu nasimama,\nNdiye mwamba: ni salama;\nNdiye mwamba: ni salama;",
+        "2\nNjia yangu iwe ndefu yeye hunipa wokovu;\nMawimbi yakinipiga nguvuzake ndizo nanga.",
+        "3\nDamu yake na sadaka nategemea daima,\nYote chini yakiisha Mwokozi atanitosha.",
+        "4\nNikiitwa hukumuni, Rohoni nina amani;\nNikivikwa haki yake sina hofu mbele zake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-70",
+      "number": 70,
+      "title": "WAPENZI WA BWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nWapenzi wa Bwana ije raha yenu! Imbeni nyimbo za raha,\nImbeni nyimbo za raha; Za ibada yenu, za ibada yenu.",
+        "Chorus\nTwenenda Zayuni, mji mzuri Zayuni!\nTwenenda juu Zayuni, Ni maskani ya Mungu.",
+        "2\nWasiimbe wao wasioamini, Watoto wa Mungu ndio,\nWatoto wa Mungu ndio, Waimbao chini, waimbao chini,",
+        "3\nTwaona rohoni baraka za Mungu, Tusijafika mbinguni,\nTusijafika mbinguni, Kwenye utukufu, kwenye utukufu.",
+        "4\nTutakapomwona masumbuko basi, Huwa maji ya uzima,\nHuwa maji ya uzima,Anasa halisi, anasa halisi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-71",
+      "number": 71,
+      "title": "KESHENI KAOMBENI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKesha ukaombe panapo mafasi; \nWakati si mwingi. Kwa vile ukeshe \nMwili ni dhaifu. Adui hodari \nkaribu atakuja, Bwana wa arusi.",
+        "Chorus\nKesha, Omba, Kesha, Omba,\nKesha Kaombe gizani, mchana,\nDaima kesha.",
+        "2\nFukuza usingizi, fukuza mashaka; \nAhadi ni yako, raha ya milele \nBwana alkesha kwa ajili yako;\nJasho yeke ikawa matone ya dame.",
+        "3\nYesu umkubali awe nguvu zako; \nSilaha uzivae; adui karibu. \nSasa nafasi iko, isipite bure; \nBila kukawia masihiya kesha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-72",
+      "number": 72,
+      "title": "JENGA JUU YA MWAMBA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTuta jenga juu ya Mwamba Wa Yesu, Mwaba wa kale;\nTutavumilia kishindo Tufani ivumapo.",
+        "Chorus\nTuta jenga juu, ( tutajenga juu ya Mwamba mkuu)\nTuta jenga juu, ( tutajenga juu ya Mwamba mkuu)\nTutajenga juu ya Mwamba mkuu, Juu yake yesu.",
+        "2\nWengine hujenga katika Mchanga wa ulimwengu;\nWengine katika mawimbi Ya anasa za dhambi.",
+        "3\nJenga nawe juu ya mwamba, Msingi pekee wa kweli:\nTumai lake litadumu, Tumai la wokovu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-73",
+      "number": 73,
+      "title": "BWANA, UNIONGOZE JUU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNakaza mwendo mbinguni, kila siku napanda juu;\nNaomba nikisafiri, \"Bwana uniongoze juu.\"",
+        "Chorus\nBwana uniinue juu Kwa imani hata mbingu.\nJuu kuliko dunia; Bwana uniongoze juu.",
+        "2\nMoyo wangu hautaki Kukaa palipo shaka;\nWengine wapenda chini Nia yangu ni kupanda.",
+        "3\nNataka kupanda juu Nisishindwe na adui;\nKwa imani nasikia Sauti ya washindaji.",
+        "4\nKupanda juu nataka Niuone utukufu;\nHata mwisho nitaomba, \"Bwana uniongoze juu.\""
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-74",
+      "number": 74,
+      "title": "NIAMBIE, EE MLINZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNiambie, Ee mlinzi, Umepambazuka je!\nUtukufu wa Zayini, Pana dalili zake?\nMsafiri uondoke, Utazame mbinguni,\nKiunoni ujifunge, Ni kucha alfajiri.",
+        "2\nMlinzi inamulika Nuru njiani mwako,\nDalili za kuja kwake, Kwamba siku karibu;\nPanda itakapolia Itawaamsha wafu,\nWatakatifu wa Mungu, Kuwapa kutokufa.",
+        "3\nMlinzi, ione nuru Ya mwaka wa Sabato;\nSauti zinatangaza Ufalme ni karibu;\nMsafiri ninaona Mlima wa Zayuni,\nMji wa Yerusalemi Nayo fahari yake.",
+        "4\nKwenye mji wa dhahabu Anaketi mfalme\nKatika kiti kizuri: huku anatawala.\nPana amani po pote, Mashamba husitawi;\nNa ardhi ina rutuba; Mito ni mitulivu.",
+        "5\nMlinzi, twaribia Nchi iliyo nzuri;\nTwende mbele, tufurahi, Nchi inachangamka,\nSikieni kuna wimbo Wa waliookoka;\nKaza mwendo, Ujiunge Na kundi Kubwa hili."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-75",
+      "number": 75,
+      "title": "MSINI IMARA, NINYI WA BWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMsingi imara, ninyi wa Bwana,\nUmewekwa kwenu kwa neno lake.\nNini zaidi atasema Bwana, \nImaniyenu ipate kuzidi?",
+        "2\nWambiwapo vuka maji ya giza,\nMito ya mashaka haitazidi;\n`Takuwapo nawe, nikuwezeshe,\nShida upatazo zisikutishe!",
+        "3\nUtakapopishwa ndani ya moto\nNguvu nitakupa, upate pato;\nHuteketezwi, ila taka zako.\nNazitasalia dhambi zako.",
+        "4\nNa mtu aliye nitegemea\nNguvu za Jehanamu zijapotisha,\nKamwe kwa adui sitamtia;\nMtu wangu kamwe sitamwacha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-76",
+      "number": 76,
+      "title": "MRITHI UFALME",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMrithi ufalme, kwani walala?\nKaribu wokovu wasinzia?\nAmka, simama, uvae silaha, \nHaraka sana, saa zapita.",
+        "2\nMrithi ufalme mbona `kawia? \nM-bona hupokei zawadi?\nHaya, uvae, Mwokoziyuaja; \nHaraka, umlaki afikapo.",
+        "3\nMataifa makuu ya dunia! \nYapigana kujiangusha;\nUsisihofu dalili, mrithi; \nIshara zote hazikawii.",
+        "4\n`Sitazame anasa za dunia,\nKwani hayo yapita upesi;\nZivunje kamba zinazokufunga;\nMrithi ufalme, njoo` karudi.",
+        "5\nInua kichwa, tazama mbele tu,\nM-falme aja na utukufu;\nJua laonekana milimani,\nWarithi ufalme furahini."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-77",
+      "number": 77,
+      "title": "HABARI ZA USIKU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nJe! Mkinzi ukutani \nWa mji wa Zayuni, \nHabari zake usiku? \nAsubuhi karibu? \nKuna dalili za kupambazuka? \nKuna dalili za kupambazuka?",
+        "2\nKatika safari yetu \nTwaona nchi kavu? \nTutalala baharini? \nBandari bado mbali? \nKweli, kweli tutaona ufalme? \nKweli, kweli tutaona ufalme?",
+        "3\nTunaona nuru yake \nNyota ya asubuhi; \nNyota, tukufu na safi \nInang`aa mbinguni; \nFurahini, wokovu u karibu. \nFurahini, wokovu u karibu.",
+        "4\nTumetazama ramani, \nKweli pwani si mbali; \nTwende mbele, kwa upesi \nTutaona bandari; \nFurahini, imbeni nyimbo zenu,\nFurahini, imbeni nyimbo zenu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-78",
+      "number": 78,
+      "title": "MPAKA LINI BWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMpaka lini Bwana, Utakaa mbali?\nKumetuchosha moyo kukawia hivi.\nUtatujia lini, Ili tufurahi\nKatika ile nuru, kuja kutukufu?",
+        "2\nMpaka lini Yesu, Utaacha watu\nUliowakomboa, Wawe na mashaka?\nWachache waamini, Kwamba utarudi;\nWachache wa tayari, Bwana kukulaki.",
+        "3\nWaamshe watu wako, Tangaza kilio:\n\"Mwe watakatifu, Bwanayu karibu!\"\nUtatujia lini, Ili tufurahi\nKatika ile nuru, Kutukufu?"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-79",
+      "number": 79,
+      "title": "NATAKA IMANI HII",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNataka Imani hii: Imani imara,\nAmbayo haitetemi Kitu chote \nWakati wa shida, \nWakati wa shida.",
+        "2\nIsiyonung`unika Huzuni, taabu; \nLakini katika saa ya matata \nHumwamini Mungu, \nHumwamini Mungu.",
+        "3\nImani inayo ng`aa katika tufani; \nIsiyoogopa giza, wala shida, \nNjaa na Hatari, \nNjaa na hatari.",
+        "4\nHaiogopi dunia, Kudharau kwake; \nHaiangushwi na hila, na uwongo \nDhambi na ogofyo, \nDhambi na ogofyo.",
+        "5\nBwana, nipe imani hii, Hivi nitaweza \nKuonja hapa chini ulimwenguni, \nKurithi furaha, \nKurithi furaha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-80",
+      "number": 80,
+      "title": "TUPE MOTO WA INJILI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTupe moto wa uhai Uliowaka zamani, \nUliowaongoza juu Wazee watakatifu.",
+        "2\nWapi roho iliyokaa Moyoni mwa Ibrahimu? \nKadhalika ndugu Paulo Aliwezeshwa na moto.",
+        "3\nNeema yako haina Nguvu siku hizi sawa \nKama wakati wa Musa, Ayubu na wa Eliya?",
+        "4\nZamani za kale, Bwana, Kumbuka na kwa rehema, \nZihuishe roho zetu Kwa Roho Mtakatifu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-81",
+      "number": 81,
+      "title": "SIKU SITA ZIMEPITA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSiku sita zimepita, Sabato tena karudi; \nShangilie roho yangu, itukuze kwa busara.",
+        "2\nMsifuni awapaye pumziko tamu wachovu, \nKwake roho yatulizwa, kupita siku nyingine.",
+        "3\nMoyo wetu ufurahi, na kutoa mashukuru; \nUjalizwe raha ile, yasipitikwa kamwe.",
+        "4\nRaha hiyo ya rohoni, ni amana ya pumziko \nAmbalo limewekwa juu, kikomo cha masumbuko."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-82",
+      "number": 82,
+      "title": "NI SIKU YA FURAHA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNi siku ya furaha, ni siku ya nuru; \nNasi twaona raha, Kuja kushukuru; \nLeo watu wa Mungu, wadogo, wakubwa, \nHukaribia mbingu, lilipo baraka.",
+        "2\nLeo, ndiyo bandari, nasi twawasili, \nHiyo bustani nzuri, ya nyingi fadhili: \nKijito cha baridi kimefanya ziwa, \nNa kiu ikizidi, twanywa maridhawa.",
+        "3\nLeo ngazi na iwe ifakayo juu, \nMawazo na yasiwe ya duniani tu; \nLeo ni kujilisha chakula cha mbingu, \nNa kujifurahisha kwa mambo ya Mungu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-83",
+      "number": 83,
+      "title": "EWE SKULI YA SABATO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nEwe skuli ya Sabato, \nU pazuri sana; \nMoyo wangu wanivuta, \nNije kwako leo.",
+        "Chorus\nSabato . . . ni nzuri . . . \nSabato . . . ni nzuri . . . \nMoyo wangu wanivuta, \nNije kwako leo.",
+        "2\nMoyo wangu mpotovu, \nHapa una raha; \nNdipo nimwonapo Yesu, \nNije kwako leo.",
+        "3\nHapa Yesu mwenye pendo \nAniita pole: \nNimtolee moyo Yeye, \nNije kwako leo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-84",
+      "number": 84,
+      "title": "IKUMBUKE SABATO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nIkumbuke kote Sabato ya Bwana, \nSiku tamu na bora, kupita nyingine; \nYatuletea raha, na furaha kweli, \nMwanga wake hungaza, urembo wa Yesu.",
+        "Chorus\nKaribie, karibie, Sabato tamu; \nKaribie, Yesu pia, Bwana wa raha.",
+        "2\nItakase kweli, ukamsifu leo, \nYeye aliye sema \"Mimi ndiye njia\"; \nNasi tukimfuata mkombozi hapa. \nAtatunywesha tele maji ya uzima.",
+        "3\nSiku ya nderemo! Tupishe wakati, \nTukimwimbia Yesu Rafiki Mpendwa; \nMponya wetu leo, U mwema ajabu! \nUkae kwetu, Bwana, moyoni daima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-85",
+      "number": 85,
+      "title": "SALAMA TUMEPITA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSalama tumepita, safarini juma hii, \nTumwendee Mwokozi, atubariki sasa: \nSiku hiyo ya raha, siku bora ya juma; \nSiku hiyo ya raha, siku bora ya juma.",
+        "2\nUtupe nuru leo toka hazina yako; \nOndoa dhambi zetu, tupokee na pendo; \nMikono yapumzika, tuishi ndani yako, \nMikono yapumzika, tuishi ndani yako.",
+        "3\nTwakusanyika hapa, tusifu jina lako; \nUkaribie kwetu, tupe neema Bwana; \nUtamu tusikize, wa raha ya milele: \nUtamu tusikize, wa raha ya milele:",
+        "4\nInjili yako leo, ishike wenye dhambi; \nItupe nguvu nyingi, iponye wenye shida; \nMioyo yetu shangaza, vyakula utulishe, \nMioyo yetu shangaza, vyakula utulishe."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-86",
+      "number": 86,
+      "title": "UKARIBIE TENA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUkaribie tena, ewe siku ya raha; \nRoho yakusalimu kama mwanga wa mbingu.",
+        "2\nRaha yako tulivu, yafurahisha moyo; \nYatuliza taabu, hata waisha mwendo.",
+        "3\nEe siku takatifu, sifa na maombi, \nNa kutuhekimisha, baraka yako kubwa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-87",
+      "number": 87,
+      "title": "SIKU YA SABATO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSiku ya Sabato, siku takatifu, \nWatu wako Mungu wetu, waipenda sana.",
+        "2\nUlitakasa, uliibariki, \nSiku hiyo ya Sabato, siku yako Bwana.",
+        "3\nNasi tubariki tukikuabudu, \nKatika siku ya raha, siku yako Bwana.",
+        "4\nHalafu mbinguni, pamoja na Wewe. \nTunataka kuzishika Sabato za Bwana."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-88",
+      "number": 88,
+      "title": "SIKU HII YA SABATO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSiku hii ya Sabato, Tamu kufikiri \nJuu ya Mungu na Mbingu Kuacha dunia.",
+        "2\nTamu kusikia Neno Toka mhubiri \nAnayefundisha toba, Tupate uzima.",
+        "3\nKatika vita na dhambi, Ikiwa twashindwa, \nYeye atatupa nguvu Aonaye moyo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-89",
+      "number": 89,
+      "title": "ASUBUHI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBwana asubuhi kucha nitakuinua \nSauti yangu kuomba, nipate baraka.",
+        "2\nNakuomba roho yako niongozwe nayo; \nNifanye yanipasayo, na mapenzi yako.",
+        "3\nWanaokutegemea, U Mlinzi wao; \nMatumaini wanayo, utayatimiza.",
+        "4\nNa kwa wingi wa fadhili, Nyumbani mwako juu \nNitaingia na wimbo, Pale kusujudu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-90",
+      "number": 90,
+      "title": "MAPYA NI MAPENZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMapya ni mapenzi hayo, \nAsubuhi tuonayo; \nSaa za giza hulindwa, \nKwa uzima kuamka.",
+        "2\nKila saku, mapya pia, \nRehema, wema na afya, \nWokovu na msamaha, \nMawazo mema, furaha.",
+        "3\nTukijitahidi leo \nNa mwendo utupasao, \nMungu atatueleza \nYatakayompendeza.",
+        "4\nMamboyetu ya dunia \nBwana atayang'aria, \nMatata atageuza \nYawe kwetu ya baraka.",
+        "5\nYaliyo madogo, haya \nBwana tukimfanyia, \nYatosha: tutafaidi \nHuvuta kwake zaidi.",
+        "6\nEwe Bwana, siku zote, \nTusaidie kwa yote: \nMwendo wetu wote vivyo, \nUwe kama tuombavyo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-91",
+      "number": 91,
+      "title": "KAA NAMI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKaa nami, ni usiku tena;\nUsiniache gizani, Bwana;\nMsaada wako haukomi;\nNili peke yangu kaa nami.",
+        "2\nSiku zetu hazikawi kwisha;\nSioni la kunifurahisha;\nHakuna ambacho hakikomi;\nUsiye na mwiso, kaa nami.",
+        "3\nNina haja nawe kila saa;\nSina mwingine wa kunifaa;\nMimi nitaongozwa na nani\nIla wewe Bwana, kaa nami.",
+        "4\nSichi neno uwapo karibu;\nNipatalo lote si taabu;\nKifo na kaburi haviumi;\nNitashinda kwako kaa nami.",
+        "5\nNilalapo nikuone wewe,\nGizani mote nimulikiwe;\nNuru za mbinguni hazikomi;\nSiku zangu zote kaa nami."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-92",
+      "number": 92,
+      "title": "MAGHARIBI JUA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMagharibi jua limekwisha kushuka,\nMwezi na nyota sasa vinamsifu Muumba wa usiku",
+        "Chorus\nMungu Mtukufu, Mungu Mkuu,\nWote juu mbinguni, na wanadamu chini Twakusifu.",
+        "2\nMpaji wa uhai, ukaaye mbinguni.\nUtuifadhi sisi, tufahamu gizani, U karibu.",
+        "3\nMapenzi yako makuu yawe nasi usiku,\nTuli usingizini, kucha vivyorohoni tushukuru.",
+        "4\nNa utakapo kuja na nguvu kutawala,\nMungu wangu kubali kunichukua mimiulko juu.",
+        "Baba, Mwana, Roho, Mungu wetu,\nWote juu mbinguni, na wanadamu chini twakusifu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-93",
+      "number": 93,
+      "title": "JUA LA ROHONI MWANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nJua la rohoni mwangu, mpendwa Mwokozi wangu;\nUsiku  giza hapana, ukiwa karibu Bwana",
+        "2\nNikipata usingizi, nijaze fikira hizi,\nNitamu sana, nilale pendoni mwako milele.",
+        "3\nKaa nami, ewe Bwana, usiku kama mchana,\nNisiishi mbali nawe; ni uhai kuwa nawe.",
+        "4\nKama mtotomnyonge ameshawishwa atange,\nMtafute Ewe Bwana, ujirudishie tena.",
+        "5\nWagonjwa wape amani, waneemeshe maskini,\nWaliao, Mtulizi, wape wote usingizi.",
+        "6\nAsubuhi tutokapo, tukaribie tulipo;\nTwingiapo duniani tuwe mwako mkononi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-94",
+      "number": 94,
+      "title": "PO POTE MASHAMBA YAJAA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPopote mashamba yajaa tele nafaka pevu, \nPopote yang`aa meupe bondeni na nyandani.",
+        "Chorus\nMwenye mavuno twasihi upeleke wavuni,\nWayakusanye mazao, hata kazi yaishe.",
+        "2\nWapeleke uchaoni, waende na jotoni,\nHata jua lishukapo wakusanye ko kote.",
+        "3\nEnyi wakazi wa Bwana yaleteni mazao,\nNa jioni ingieni kwake na furaha kuu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-95",
+      "number": 95,
+      "title": "ZILETENI ZAKA KWA HAZINA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSikieni neno la Mungu wetu, zileteni zaka kwa hazina\nLeteni na mioyo yenu yote; mibaraka itakuja.",
+        "Chorus\nZileteni zaka kwa hazina, kanijaribu sasa nazo;\nNitakupeni mibaraka, zaidi ya nafasi ya kupewa.",
+        "2\nWakati Roho Mtakatifu kwako? Uzilete zaka kwa hazina\nUkae karibu na Bwana wako, ndipo utabarikiwa.",
+        "3\nJe,una kasoro na Bwana wako? Uzilete zaka kwa hazina,\nUzilete kama alivyo sema, Ndipo utabarikiwa.",
+        "4\nUshukuru Bwana na moyo wote, unapo leta zaka ghalani;\nUsadiki ahadi zake zote, ndipo utabarikiwa.",
+        "5\nTuimbe sote nyimbo za furaha, tunapoleta  zaka ghalani\nTwimbe kabisa na furaha kubwa, kwani tutabarikiwa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-96",
+      "number": 96,
+      "title": "MALI YAKO SASA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMali yako sasa, Bwana, tutatoa;\nHatuna yaliyo yetu, Yote ni vipaji.",
+        "2\nSisi watumishi, Twaungama deni;\nTungeirudisha kwake, Iliyo ya Bwana.",
+        "3\nUtusaidie, Upendo kujua,\nKwa ajili yao wote Walio gizani.",
+        "4\nNeno tumaini Na tegemea:\nKwamba lote tufanyalo, Tulifanye kwako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-97",
+      "number": 97,
+      "title": "SIOSHWI DHAMBI ZANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSioshwi dhambi zangu? Bila damu yake Yesu,\nHapendezewi dhambi zangu? Bila damu yake Yesu.",
+        "Chorus\nHakuna kabisa Dawa ya makosa\nYa kututakasa ila Damu yake Yesu.",
+        "2\nLa kunisafi sina, Ila Damu yake Yesu.\nWala udhuru tena, ila Damu yake Yesu.",
+        "3\nSipati patanishwa, Bila damu yake Yesu,\nHukumu yanitisha, Bila damu yake Yesu.",
+        "4\nSipati tumaini, Bila damu yake Yesu,\nWema wala amani Bila damu yake Yesu.",
+        "5\nYashinda ulimwengu, Iyo, damu yake Yesu,\nNa kutufikisha juu, Iyo, damu yake Yesu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-98",
+      "number": 98,
+      "title": "NILIKUPA WEWE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNilikupa wewe, damu ya moyoni,\nIli wokolewe, winuke ufuni.",
+        "Chorus\nNimekunyima ni wewe? Umenipa nini?\nNimekunyima ni wewe? Umenipa nini?",
+        "2\nNilikupa miaka yangu duniani;\nUpate inuka, kuishi mbinguni.",
+        "3\nNimekuiletea, huku duniani;\nPendo na wokovu, zatoka mbinguni.",
+        "4\nNipe siku zako, udumu mwangani;\nNa taabu yako, wingie rahani.",
+        "Nafsi, nafsi, pendo, mali, twae Imanweli.\nNafsi, nafsi, pendo, mali, twae Imanweli."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-99",
+      "number": 99,
+      "title": "TWENDE KWA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTwende kwa Yesu mimi nawe, Njia atwonya tuijue\nImo Chuoni na mwenyewe, Hapa asema, njoo!",
+        "Chorus\nNa furaha tutaiyona, Mioyo ikitakata sana,\nKwako Mwokozi kuonana, Na milele kukaa.",
+        "2\n\"Wana na waje,\" atwambia, Furahini kwa kusikia;\nNdiye Mwokozi wetu hasa, Na tumtii, njoni.",
+        "3\nWangojeani? Leo yupo; Sikiza sana asemapo;\nHuruma zake zitwitapo, Ewe kijana, njoo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-100",
+      "number": 100,
+      "title": "KUWATAFUTA WASIOWEZA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKuwatafuta wasioweza, Kuomba wamrejee Yesu,\nKuwaambia maneno yake, \"Njooni kwangu, nawapenda\".",
+        "Chorus\nNitakwenda (Nitakwenda) niwatafute\nWapotevu (wapotevu) wageuke, \nWaingie (Waingie) Katika zizi\nLa Mwokozi (La Mwokozi) Yesu Kristo",
+        "2\nKuwatafuta wasioweza, Waonyeshwe Mwokozi wetu;\nKuwaongoza, wapate wote uzima ule wa milele.",
+        "3\nKazi hiyo nataka kufanya, Leo nimesikia mwito;\nKuwainua waangukao, waletwe kwake yesu Njia."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-101",
+      "number": 101,
+      "title": "YESU AKWITA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\t\nYesu Akwita, Akwita wewe, Uje leo, uje leo,\nKwani kusita, akwita wewe, Unatanga upeo.",
+        "Chorus\nMsiskie, msikie,\nYesu akwita, ujitoe moyo sasa.",
+        "2\nWaiochoka, na wapumzike, Uje leo, uje leo,\nWenye mizigo, wenye huzuni, Wapate mapumziko.",
+        "3\nAnakungoja uliye yote, Uje leo, uje leo,\nUliyekosa, usijifiche: Woshwe, uvikwe nguo.",
+        "4\nYesu asihi wakawiao, Waje leo, waje leo,\nWafurahi waaminio; Amka, upesi, Njoo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-102",
+      "number": 102,
+      "title": "MLANGO PA MOYO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMlangoni pa moyo; Mgeni! (Amesimama) \nAmesimama pale, Mgeni! (Amesimama) \nUmkaribishe sasa, \nUmkaribishe Mwana \nWa Baba wa upendo: Mgeni! (Umkaribishe)",
+        "2\nMoyo wako kwa Bwana, Fungua. (Fungulieni) \nAsikuache mbali, Fungua. (Fungulieni) \nUmkubali Rafiki, \nRoho atafariji \nNaye atakutunza: Fungua. (Fungukieni)",
+        "3\nUsikie sauti Ya Bwana. (Uisikie) \nUyachague mambo Ya Bwana. (Mambo ya Bwana) \nUfungue mlango, \nUsimwambie bado: \nJina lake tumai---- Yu Bwana. (Jina la Bwana)",
+        "4\nNa ufungue moyo, Kwa Bwana (Fungulieni) \nUtapewa msaada, Wa Bwana (Msaada wetu) \nUzuri utavikwa \nDhambi ataondoa, \nUkifungua moyo. Kwa Bwana (Fungulieni)"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-103",
+      "number": 103,
+      "title": "NJONI KWANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu huita kwa upole mwingi, atwita wewe nami; Moyoni mwetu hungoja, hukesha, Hukungojea wewe.",
+        "Chorus\n\"Njoni kwangu, Mliochoka, njoni: Yesu huita kwa upole mwingi, Akwita, \"uje kwangu\"",
+        "2\nAtuombeapo usikawie, Hutuombea sisi; Usidharau wema ma huruma, Huruma kwetu sisi.",
+        "3\nSiku za maisha hupota hima, Hupita kwako, kwangu; Usiku waja, kifo kinakuja, Huja kwako na kwangu.",
+        "4\nFikiri juu ya upendo wake, Upendo kwako, kwangu; Dhambi zetu amekwisha samehe. Masamaha ni yetu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-104",
+      "number": 104,
+      "title": "YESU ALINIITA , NJOO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu aliniita, \"Njoo, Raha iko kwangu,\nKichwa chako ukilaze kituani mwangu.\"\nNilikwenda kwake mara, Sana nilichoka;\nNikapata kwake raha na furaha.",
+        "2\nYesu aliniita, \"Njoo, Kwangu kuna maki:\nMaji ya Uzima, bure, unywe uwe hai.\"\nNilikwenda kwake mara na maji nikanywa:\nNaishi kwake na kiu kamwe sina tena.",
+        "3\nYesu aliniita, \"Njoo, Dunia i giza,\nUkinitazama, nuru `takungarizia.\"\nNilikwenda kwake mara, Yeye jua langu,\nNi kila wakati mwanga safarini mwangu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-105",
+      "number": 105,
+      "title": "MCHUNGAJI MPENZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMchungaji mpenzi hukuita uje\nKatika zizi lake panapo salama;\nAkina wanawake, waume vijana,\nYesu aliye kweli, huwaita kwake.",
+        "Chorus \nHuita kwa moyo wa huruma, \"Uliyepotea uje kwangu\"\nHivi kukungoja anadumu, Bwana Yesu Mchunga.",
+        "2\t\nAkatoa maisha kwa ajili yetu;\nAtaka wapotevu waje kwake sasa;\nTusijihatirishe; Kwake tu salama;\nSikia wito wake, Mchungaji wetu.",
+        "3\t\nTusikawie tena, adui Shetani,\nKama mbwa wa mwitu, atatuharibu;\nTunaitwa na Yesu, Mkombozi wetu,\nTuingie zizini, panapo nafasi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-106",
+      "number": 106,
+      "title": "HUNA KITU KWA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUkitafuta mali, Huna wasaa kwa Yesu?\nKwa matendo ya haki Huna wasaa kwa Yesu?\nAnasa za dunia, Mambo yako ya raha\nHaya unatafuta; Huna wasaa kwa Yesu?",
+        "2\nMambo yanakusonga: Kwakehuna nafasi? \nWatekwa na dunia, Kwake huna nafasi?\nHumwona m-langoni, Anapopiga hodi?\nDaima hukusihi: Kwake huna nafasi?",
+        "3\nSa-a ni za thamani, Kwake hamnayo kazi\nWala hamfanyi bidii, Kwake hamnayo kazi? \nHamkufikia kwao Waliomo shimoni\nNa waliopotea? Kwake hamnayo kazi?",
+        "4\nNa wazaa majani tu? Huna tunda kwa Yesu?\nMikono I mitupu, Huna tunda kwa Yesu?\nHuna chembe kwa ghala Kazi yako kulipa; \nWala huna furaha Unapomwona Yesu?"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-107",
+      "number": 107,
+      "title": "SAUTI NI YAKE BWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSauti ni yake Bwana, \"Kwenda nani tayari?\"\nMavuno yanakawia, Nani atayavuna?\nKwa kudumu anaita, Zawadi atatoa;\nNani atakayejibu, \"Nipo Bwana nitume.\"",
+        "2\nKama huwezi safari, Hata nchi za mbali,\nPana watu karibuni, Wasiomjua Yesu;\nKama huwezi kusema, Jinsi ya malaika,\nWaweza kuutangaza, Upendo wa Mwokozi.",
+        "3\t\nIngawa huwezi kuwa, Mkesha mlangoni,\nUkiwatolea watu, Nafasi ya uzima;\nKwa sala na kwa sadaka, Watoa msaada,\nKama Harun mwaminifu, Kuinua mikono.",
+        "4\nRoho za watu zikifa, Bwana akikuita,\nUsiseme kwa uvivu, \"Hakuna kazi kwangu\".\nKwa furaha anza kazi, Ile aliyokupa,\nUkajibu mara moja, \"Nipo Bwana nitume\"."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-108",
+      "number": 108,
+      "title": "TUMESIKIA MBIU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTumesikia mbiu: Yesu huokoa; Utangazeni kote, Yesu huokoa.\nTiini amri hiyo: nchini baharini. Enezeni mbiu hii: Yesu huokoa.",
+        "2\nImba nawe askari: Yesu huokoa Kwa nguvu ya kombozi, Yesu huokoa.\nImbeni wenye shida, unapoumwa moyo, Na kaburini imba: Yesu huokoa.",
+        "3\nMawimbini uenee. Yesu huokoa; Wenye dhambi jueni: Yesu huokoa;\nVisiwa na viimbie, vilindi itikeni, Na nchi shangilie: Yesu huokoa.",
+        "4\nUpepo utangaze: Yesu huokoa; Mataifa yashangaa: Yesu huokoa.\nMilimani, bondeni, sauti isikike Ya wimbo wa washindi: Yesu huokoa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-109",
+      "number": 109,
+      "title": "ANISIKIAYE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nAnisikiaye, aliye yote, sana litangae, wajue wote,\nDuniani kote neno wapate, atakaye na aje!",
+        "Chorus\nNi \"atakaye,\" ni \"atakaye\";   Pwani hata bara, na litangae: \nNi Baba mpenzi alinganaye atakaye na aje.",
+        "2\nAnijiliaye, Yesu asema, asikawe, aje hima mapema; \nNdimi Njia, kweli, ndimi uzima: atakaye na aje!",
+        "3\nAtakaye aje, ndiyo ahadi; atakaye hiyo haitarudi! \nAtakaye lake, ni la ahadi! Atakaye na aje."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-110",
+      "number": 110,
+      "title": "MLANGO WAZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMlango uko wa wema, Mlango wazi huo: \nYesu ameufungua Na hakuna kufunga",
+        "Chorus\nMlango wazi, ajabu, Uliachwa wazi kwangu? \nKwangu, Kwangu? Wazi, wazi kwangu?",
+        "2\nMlango hukaa wazi Watu waokolewe: \nMaskini na matajiri Wa mataifa yote.",
+        "3\nMaadam mlango wazi, Rafiki kaza mwendo; \nMsalaba ukubali - Amana ya upendo.",
+        "4\nMsalaba tutabeba Daima, na furaha! \n`Pendo wa Yesu hushinda. Tunainama kwake!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-111",
+      "number": 111,
+      "title": "TABIBU MKUU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTabibu mkuu huyu, Yesu mwenye huruma\nAtuletaye faraja: Yesu, Mwokozi wetu.",
+        "Chorus\nImbeni, Malaika, SIfa za Bwana wetu:\nJina la pekee kwetu, ni la Yesu Bwana.",
+        "2\nMwana Kondo-o msifuni Mwokozi; \nHatia zote na dhambi, Huziondoa Yesu.",
+        "3\nHakuna jina jingine, Linalofa-a sifa; \nA-u kutufurahisha, Isipokuwa lake.",
+        "4\nNaye atakapokuja, Na utukufu wake;\nTutafurahi milele, Kuka-a kwake Bwana."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-112",
+      "number": 112,
+      "title": "WEWE UMECHOKA SANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\t\nWewe umechoka sana? Wataka raha? \nKwake Yesu utapata - Msaada.",
+        "2\nAlama anazo Yeye? Sana! Makovu \nYa mikono, na miguu, Na mbavu.",
+        "3\nNaye amevikwa taji Kichwani Mwake? \nTaji, kweli, alivikwa - Miiba!",
+        "4\nHuku nikimfuata, Nipate nini?\nMaonjo nje, na ndani Amani.",
+        "5\nKwamba namwandama yeye, Mwisho ni nini? \nKurithi furaha naye - Milele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-113",
+      "number": 113,
+      "title": "BUBUJIKO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nDamu imebubujika, Ni ya Imanweli, \nWakioga wenye taka, Husafiwa kweli.",
+        "2\nIlimpa kushukuru Mwivi mautini; \nNami nisiye udhuru, Yanisafi ndani.",
+        "3\nKondo-o wa kuuawa, Damu ina nguvu, \nWako wote kuokoa Kwa utimilivu.",
+        "4\nBwana, tangu damu yako Kunisafi kale, \nNimeimba sifa zako, `taimba milele.",
+        "5\nBwana, umenikirimu Nisiyestahili \nKwa damu yako, sehemu Ya mali ya kweli.",
+        "6\nNikubali kukwimbia Mbinguni milele. \nMungu nitamsifia Jina lako pweke."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-114",
+      "number": 114,
+      "title": "YESU NATAKA KUTAKASWA SANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu Mwokozi ili nitakaswe, nataka moyo uwe enzi yako.\nUkiangushe kilichoinuka unioshe sasa niwe mweupe.",
+        "Chorus\t\nMweupe tu, ndiyo mweupe,\nUkiniosha nitakuwa safi.",
+        "2\t\nBwana Yesu sasa unitazame, unifanye niwe dhabihu hai.\nNajitoa kwako, na moyo, vyote; unioshe sana niwe mweupe.",
+        "3\t\nBwana kwa hiyo nakuomba sana, nakuongojea miguuni pako,\nWanaokuja hutupi kamwe, unioshe sasa niwe mweupe."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-115",
+      "number": 115,
+      "title": "NAENDEA MSALABA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNaendea msalaba, Ni mnyonge, mpofu, \nYapitayo naacha nipe msalaba tu.",
+        "Chorus\nNakutumaini tu, ewe Mwana wa Mungu; \nNainamia kwako; niponye sasa, Bwana.",
+        "2\nNakulilia sana: nalemewa na dhambi; \nPole Yesu asema: \"Nitazifuta zote.\"",
+        "3\nNatoa vyote kwako, nafasi nazo nguvu, \nRoho yangu na mwili viwe vyako milele.",
+        "4\nKwa damu yake sasa amenivuta sana, \nUpendo hubidisha, nimtafute Mwokozi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-116",
+      "number": 116,
+      "title": "MOYO SAFI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBwana ninataka hili, kwa kuwa nimechafuka, \nKwa moto au kwa maji unisafishe kabisa.",
+        "Chorus\nUnisafishe Mwokozi ndani, na nje, kwa moto \nUtakavyo: ili dhambi ife kwangu, ife kwangu.",
+        "2\t\nKupewa hekima yote, itakuwa tunu kubwa; \nLakini moyo safi ni, bora kwangu, bora kwangu!",
+        "3\nMpaka moyo ni safi siwezi kuyafahamu \nMambo mazuri ya mbingu, mambo mazuri ya mbingu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-117",
+      "number": 117,
+      "title": "WAMWENDEA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nWamwendea Yesu kwa kusafiwa. Kuoshwa kwa damu ya Kondoo? \nJe, neema yake yatumwagiwa? Waoshwa kwa damu ya Kondoo?",
+        "Chorus\nKuoshwa kwa damu Itutakasayo ya Kondoo?\nZiwe safi nguo nyeupe sana; Waoshwa kwa damu ya Kondoo?",
+        "2\nWamwandama daima Mkombozi. Waoshwa kwa damu ya Kondoo?\nYako kwa Msulubiwa  mavazi? Waoshwa kwa damu ya Kondoo?",
+        "3\nAtakapokuja Bwana-arusi Uwe safi katika damu! \nYafae kwenda mbinguni mavazi: Yaoshwa kwa damu ya Kondoo?",
+        "4\nYatupwe yalipo na takataka; Uoshwe kwa damu ya Kondoo:\nHuoni kijito chatiririka Uoshwe kwa damu ya Kondoo?"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-118",
+      "number": 118,
+      "title": "NILIPOTOKA KABISA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1                \nNilipotoka kabisa, sasa narudi;\nNikakawia dhambini, Bwana narudi.",
+        "Chorus  \nNarudi nyumbani: daima kwako. \nKwa upendo nipokee: Naja nyumbani.",
+        "2 \nNikasusurika sana, sasa narudi; \nMwenye uchungu natubu, Bwana narudi.",
+        "3 \nNimechoka maovuni, sasa narudi; \nPendo lako lanivuta, Bwana narudi.",
+        "4 \nNdilo tumaini langu, sasa narudi; \nYesu alinifilia, Bwana narudi.",
+        "5 \nDamu yake yanitosha, sasa narudi; \nUnioshe kenyekenye, Bwana narudi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-119",
+      "number": 119,
+      "title": "ALILIPA BEI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu anasema, \"Wewe huna nguvu,\nKesha ukaombe, Na uje, Mwanagu.\"",
+        "Chorus\nAlilipa bei, Nawiwa naye;\nDhambi ilitia waa, Aliiondoa.",
+        "2\nBwana, nimeona, Uwezo wako tu,\nWaweza `takasa Mioyo michafu.",
+        "3\nSina kitu chema, kudai neema,\nHivi nitafua, Mavazi kwa damu.",
+        "4\nNinaposimama, Juu ya mawingu,\nTaji nitaweka, Miguuni pa Yesu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-120",
+      "number": 120,
+      "title": "MSALABA WA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMsalaba wa Yesu, Nikae karibu; \nPale pana chemchemi Yakuponya dhambi.",
+        "Chorus\nPale msalaba Msalaba wake, \nHuo ni sifa yangu Kwa maisha yote.",
+        "2\nKaribu msalaba Nalitetemeka,\nPendo likaniona Likanirehemu.",
+        "3\nUnikumbushe, Yesu. Nikuone pale: \nNiupate upendo Na kuvutwa nao.",
+        "4\nKaribu msalaba, Kwa kutegemea, \nKukesha na kungoja, Nitakaa pale."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-121",
+      "number": 121,
+      "title": "KATIKA WENYE DHAMBI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKatika wenye dhambi, \nNdimi mkuu wao- \nIla Yesu ukaja, \nKwa dhambi alikufa,\nAkamimina damu, \nNiupate uzima.",
+        "2\nAjabu! Pendo lake! \nPendo lililo kuu, \nPendo lisilo mwisho, \nLidumulo milele- \nLililonitafuta \nIngawa sikumpenda",
+        "3\nIngawa ni mbaya \nKristo ni vyote kwangu; \nAjua haja zangu; \nHuzuni zangu, zake; \nHata katika vita, \nAkiwapo Salama."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-122",
+      "number": 122,
+      "title": "YOTE NAMTOLEA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYote namtolea Yesu, moyo wangu ni wake: \nNinavutwa na upendo, kwa hivyo, najitoa.",
+        "Chorus\nYote kwa yesu, Yote kwa Yesu,\nUpendo wako hushinda; Yesu, natoa.",
+        "2\nYote namtolea Yesu, Nainamia pake; \nNimeacha na anasa, kwako Yesu nipokee.",
+        "3\nYote namtolea Yesu, Nifanye niwe wako; \nNipe Roho yako, Bwana, anilinde daima.",
+        "4\nYote namtolea Yesu, nami naona sasa, \nFuraha ya ukombozi, nasifu jina lake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-123",
+      "number": 123,
+      "title": "YESU KWA IMANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu kwa imani, nakutumaini, peke yako\nNishike sasa, na kunitakasa, ni wako kabisa\nTangu leo.",
+        "2\nNipe nguvu pia za kusaidia moyo wangu;\nUlikufa wewe, wokovu nipewe, nakupenda wewe,\nBwana wangu.",
+        "3\nHapa nazunguka katika mashaka, na matata;\nPalipo na giza utaniongoza, hivi nitaweza,\nKufuata."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-124",
+      "number": 124,
+      "title": "UMECHOKA, JE UMESUMBUKA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUmechoka, je, umesumbuka? Mwambie Yesu sumbuko lako;\nUnayalilia yapitayo? Mwambie Yesu pekee.",
+        "Chorus\nMwambie Yesu, sumbuko lako, Yu rafiki amini, \nHakuna rafiki kama yeye, Mwambie Yesu pekee.",
+        "2\nJe, machozi ya kulengalenga? Mwambie Yesu sumbuko lako;\nWamelemewa na dhambi rohoni? Mwambie Yesu pekee.",
+        "3\nWaogopa shida na majonzi, Mwambie Yesu sumbuko lako;\nWasumbukia mambo yajayo? Mwambie Yesu pekee.",
+        "4\nKuwazia kifo kutisha? Mwambie Yesu sumbuko lako;\nWatamania ufalme wake? Mwambie Yesu pekee."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-125",
+      "number": 125,
+      "title": "UNIANGALIE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUniangalie atwambia, Yesu aliyetufia;\nMsalabani ni uzima, Hapa utaipata hazina.",
+        "Chorus\nKutazama Kalvari, Kutazama Kalvari, \nNi kupewa kuishi Kuutazama mti wa Kalvari.",
+        "2\nNinapojaribiwa ghafula, Shetani hatanitega;\nNikitazama msalaba, Nguvu nitaipata kwa Bwana.",
+        "3\nMsalaba nitautazama Kila wakati daima,\nAhadi nitategemea, Hivi kabisa sitaanguka"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-126",
+      "number": 126,
+      "title": "HAJA NAWE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNina haja nawe kila saa;\nHawezi mwingine kunifaa.",
+        "Chorus\nYesu nakuhitaji vivyo kila saa!\nNiwezeshe mwokozi, nakujia.",
+        "2\nNina haja nawe; Kaa name,\nNa maonjo haya, hayaumi.",
+        "3\nNina haja nawe; kila hali,\nMaisha ni bure, uli mbali.",
+        "4\nNina haja nawe; Nifundishe,\nNa ahadi zako, zifikishe.",
+        "5\nNina haja nawe; Mweza yote,\nNi wako kabisa, siku zote."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-127",
+      "number": 127,
+      "title": "NI SALAMA ROHONI MWANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNionapo amani kama shwari, au nionapo shida; \nKwa hali zote umenijulisha ni salama rohoni mwangu.",
+        "Chorus\nSalama rohoni,   Ni salama rohoni mwangu.",
+        "2\nIngawa shetani atanitesa, nitajipa moyo kwani, \nKristo ameona unyonge mwangu; amekufa kwa roho yangu.",
+        "3\nDhambi zangu zote, wala si nusu, huwekwa msalabani; \nWala sichukui laana yake, ni salama rohoni mwangu.",
+        "4\nEe Bwana himiza siku ya kuja, panda itakapolia: \nUtakaposhuka sitaogopa ni salama rohoni mwangu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-128",
+      "number": 128,
+      "title": "TAAMINI NITII PIA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNamwandama Bwana kwa alilonena, Njia zangu huning`azia;\nNa nikimridhisha atanidumisha, Taamini nitii pia.",
+        "Chorus\nKuamini, Njiani pweke ni hii \nYa furaha kwa Yesu: Amini ukatii.",
+        "2\nGiza sina kwangu wala hata wingu,Yeye mara huviondoa;\nOga, wasiwasi, sononeko, basi; Huamini nitii pia.",
+        "3\nMasumbuko yote, sikitiko lote; Kwa mapenzi hunilipia;\nBaa, dhara, dhiki, vivyo hubariki. Taamini nitii pia.",
+        "4\nMimi sitajua raha sawasawa Ila yote Yesu kumtoa:\nNapata fadhili na radhi kamili, Taamini nitii, pia.",
+        "5\nNitamfurahia na kumtumaini, Majumbani na njia-njia; \nAgizo natenda; nikitumwa hwenda, Huamini, nitii pia"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-129",
+      "number": 129,
+      "title": "KUMTEGEMEA MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKumtengemea Mwokozi, kwangu tamu kabisa,\nKukubali neno lake, Nina raha moyoni.",
+        "Chorus\nYesu,Yesu namwamini, Nimemwona thabiti,\nYesu,Yesu, yu thamani, Ahadi zake kweli.",
+        "2\nKumtengemea Mwokozi, Kwangu tamu kabisa,\nKuamini damu yake, Nimeoshwa kamili.",
+        "3\nKumtengemea Mwokozi, Kwangu tamu kabisa,\nKwake daima napata, uzima na amani.",
+        "4\nNafurahi kwa sababu, Nimekutengemea;\nYesu,M-pendwa rafiki, uwe nami daima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-130",
+      "number": 130,
+      "title": "YESU KWETU NI RAFIKI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu kwetu ni rafiki, hwambiwa haja pia: \nTukiomba kwa Babaye, maombi asikia:\nLakini twajikosesha,twajitweka vibaya: \nKama tulimwomba Mungu, dua alisikia.",
+        "2\nUna dhiki na maonjo? Unamashaka pia?\nHaifai kufa moyo, dua atasikia.\nHakuna mwingine Mwema, wa kutuhurumia: \nAtujua tu dhaifu: maombi asikia.",
+        "3\nJe, hunayo hata nguvu, huwezi kwendelea, \nUjapodharauliwa, ujaporushwa pia. \nWatu wakikudharau, wapendao dunia, \nHukwambata mikononi, dua atasikia."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-131",
+      "number": 131,
+      "title": "KWA MAHITAJI YA KESHO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKwa mahitaji ya kesho, Sina ombi; \nUnilinde nisitende Dhambi leo;\nNisiseme neno baya, Mkombozi, \nNisifikiri uovu, Leo hivi.",
+        "2\nNingefanya kazi sawa Nakuomba; \nNingekuwa mtu mwema Kila saa; \nMapenzi yako nifanye, Na kutii; \nNitoe mwili dhabihu, Leo hivi.",
+        "3\nKama leo ningekufa Kwa ghafula, \nNitegemee ahadi Zako Bwana.\nKwa mahitaji ya kesho Sina ombi; \nUniongeze, nishike Leo hivi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-132",
+      "number": 132,
+      "title": "BWANA NI MCHUNGA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBwana ni Mchunga, Sitahitaji;\nMajani mabichi malisho yangu.\nAnaninywesha maji matulivu;\nAtanirudisha nikipotea.",
+        "2\nNipitapo bondeni mwa mauti \nU mlinzi wangu sitaogopa;\nFimbo lako latosha kunilinda;\nUkinifariji sina hasara.",
+        "3\nKati ya mateso meza waandaa,\nNa kikombe changu kinafurika;\nUmenipaka kichwani mafuta;\nNitaulizaje zaidi kwako?",
+        "4\nWema na fadhili zinifuate \nSiku zangu zote hata milele; \nNami nitakaa nyumbani mwa Bwana \nKatika ufalme wa pendo lake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-133",
+      "number": 133,
+      "title": "POPOTE NA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPopote na Yesu nina furaha:\nAnitumako Yesu ndiyo raha. \nAsipokuwako hapanifai, \nAkiwapo Yesu, mimi sitishwi.",
+        "Chorus\nPopote, popote, sina mashaka;\nPopote na Yesu naweza kwenda.",
+        "2\nAkiwapo Yesu, si peke yangu; \nNa nijapotupwa, akali wangu;\nAjaponiongoza njia mbaya,\nNiwapo na Yesu nashukuria.",
+        "3\nAkiwapo Yesu naweza lala,\nNaweza pumzika hata kiyama;\nKisha nitakwenda kwake milele, \nAkiwapo Yesu furaha tele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-134",
+      "number": 134,
+      "title": "TAFUTA DAIMA UTAKATIFU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTafuta daima utakatifu; \nFanya urafiki na Wakristo tu;\nNena siku zote, na Bwana wako, \nBaraka uombe kwa kila jambo.",
+        "2\nTafuta daima utakatifu;\nUwe peke yako ukimwabudu;\nUkimwangalia Mwokozi wako,\nUtabadilishwa kama alivyo.",
+        "3\nTafuta daima utakatifu;\nKiongozi wako awe Yesu tu;\nKatika furaha au huzuni,\nDumu kumfuata Yesu Mwokozi.",
+        "4\nTafuta daima utakatifu;\nUmtawaze Roho moyoni mwako,\nAkikuongoza katika haki, \nHufanywa tayari kwa kazi yake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-135",
+      "number": 135,
+      "title": "KWA MAOMBI NACHANGAMKA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSaa heri ya maombi, sasa kwako tunarudi, \nSumbuku ya kuondoa, shida zetu na pungufu.\nTaabuni mara nyingi, roho zetu zimepona, \nMashaka tumeshinda, wakati wa saa tamu.",
+        "2\nSaa heri ya maombi, twapeleka dhiki zetu \nKwake aliyeahidi kubariki wenye haja.\nHuagiza tumwendee, tutegemee neno lake, \nHivyo tumwekee yote, wakati wa saa tamu.",
+        "3\nSaa heri ya maombi, tutazidi kuingia, \nBomani mwetu na ngome, hata tuishapo mwendo.\nYesu atatusikia, tutamtafuta daima, \nNa tutakapokutana tutamwona - saa tamu!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-136",
+      "number": 136,
+      "title": "NIWE KAMA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUnifundishe, Baba; Ile njia ya sala; \nUniendeshe sana, Niwe kama Yesu.",
+        "Chorus\nNiwe kama Yesu, Niwe kama Yesu, \nUniongoze, Baba; Niwe kama Yesu,",
+        "2\nUnipe pendo, Baba, Watu kuwaokoa; \nNyumbani na mjini, Niwe kama Yesu.",
+        "3\nNa unifahamishe, Wakati ndio mfupi; \nUnibidishe, Bwana, Niwe kama Yesu"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-137",
+      "number": 137,
+      "title": "SAA HERI YA SALA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSaa heri ya sala tunapojidhili,\nKama tukija kwake Yesu rafiki;\nTukiwa na imani kwamba yu mlinzi, \nWaliochoka sana watapata raha.",
+        "Chorus\nSaa ya sala, iliyo heri; \nWaliochoka sana watapata raha.",
+        "2\nSaa heri ya sala, ajapo Mwokozi, \nIli awasikie watoto wake.\nHutwambia tuweke miguuni pake \nMizigo yetu yote: tutapata raha.",
+        "3\nSaa heri ya sala, wawezapo kuja Kwa Bwana\nYesu wanaojaribiwa; \nMoyo wake mpole, atawarehemu; \nWaliochoka sana watapata raha.",
+        "4\nSaa heri ya sala tutakapopewa,\nMibaraka ya roho, tukimwamini; \nKwa kuamini kweli hatutaogopa;\nWaliochoka sana watapata raha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-138",
+      "number": 138,
+      "title": "NITAKUANDAMA KOTE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNitakuandama kote, nitakapoagizwa \nWewe ukiniongoza nami nitaandama.",
+        "Chorus\nNitakuandama kote, naam, ulinifia; \nKwa neema yako Bwana napenda kuandama.",
+        "2\nNjia ijapoparuza kwa miiba na fujo, \nUlitangulia mbele nami nitaandama.",
+        "3\nNijapokuta taabu na majaribu kote, \nNakumbuka shida yako, nami nitaandama.",
+        "4\nNijapoona ukiwa na mateso makali, \nWewe uliyatikiza nami nitaandama.",
+        "5\nIjapo wanipeleka vilindini mwa giza, \nWewe uliyetikiza nami nitaandama."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-139",
+      "number": 139,
+      "title": "UNIIMBIE TENA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUliniimbie tena, Neno la uzima;,\nUzuri wake nione, Neno la uzima;\nNeno hili zuri, lafundisha kweli.",
+        "Chorus\nManeno ya uzima ni maneno mazuri\nManeno ya uzima ni maneno mazuri",
+        "2\nKristo anatupa sote, neon la uzima:\nMwenye dhambi asikie, Neno la uzima:\nLatolewa bure, Tupate wokovu:",
+        "3\nNeno tamu la injili, Neno la uzima:\nLina amani kwa wote, Neno la uzima:\nLinatutakasa, Kwa haki ya Mwana:"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-140",
+      "number": 140,
+      "title": "HIVI NILIVYO UNITWAE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNitwae hivi nilivyo, umemwaga damu yako, \nNawe ulivyoniita, Bwana Yesu, sasa naja.",
+        "2\nHivi nilivyo; langu kujiosha roho yangu; \nNisamehe dhambi zangu, Bwana Yesu, sasa naja.",
+        "3\nHivi nilivyo; sioni kamwe furaha moyoni, \nDaima ni mashakani, Bwana Yesu, sasa naja.",
+        "4\nHivi nilivyo kipofu, maskini na mpungufu; \nWewe ndiwe u tajiri, Bwana Yesu, sasa naja.",
+        "5\nHivi nilivyo, mimi tu, Siwezi kujiokoa; \nNa wewe hutanikataa, Bwana Yesu, sasa naja.",
+        "6\nHivi nilivyo; mapenzi yamenipa njia wazi; \nHali na mali sisazi, Bwana Yesu, sasa naja."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-141",
+      "number": 141,
+      "title": "CHINI YA MSALABA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nChini ya msalaba Nataka simama; \nNdio mwamba safarini, Wa kivuli chema;\nNi kweli kwa roho yangu Ni tuo kamili, \nTatua mzigo wangu Wakati wa hari.",
+        "2\nHapa ni pema sana, Ni ngome kamili; \nHapa yameonekana, Mapenzi ya kweli;\nKama alivyoonyeshwa Yakobo zamani.\nMsalaba umekuwa Ngazi ya mbinguni.",
+        "3\nNa Yesu Msalabani Walimkemea, \nAlikufa niokoke Niliyepotea:\nNaona ajabu sana Ya mambo mawili \nJinsi alivyonipenda Nisiyestahili.",
+        "4\nAtakayeonana Na Yesu mbinguni, \nNjia yake aanzapo Ni Msalabani;\nWokovu upo hapa tu, Mwingine hapana. \nKisha kuna furaha kuu Pamoja na Bwana."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-142",
+      "number": 142,
+      "title": "NASIKIA SAUTI YAKO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNasikia mwito, Ni sauti yako; \nNikasafiwe kwa damu Ya kwangikwa kwako.",
+        "Chorus\nNimesongea mtini pako, \nUnisafi kwa damu ya kwangikwa kwako.",
+        "2\nNi mnyonge kweli, umenipa nguvu; \nUlivyonisfi taka Ni utimilivu.",
+        "3\nYesu hunijuvya: Mapenzi imani, \nTumai, amani, rahi, hapa na mbinguni.",
+        "4\nNapata wokovu, Wema na neema; \nKwako Bwana nina nguvu Na haki daima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-143",
+      "number": 143,
+      "title": "NAAMINI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBaba sina msaada Ila kwako pekee: \nKama kwangu ungefichwa, Nifanyeje, Baba?",
+        "Chorus\nSasa hivi naamini Yesu alikufa,\nAlimwaga damu yake, Nitoke dhambini.",
+        "2\nNaamini mwana wako Nipe nguvu zako: \nNijazie mahitaji, Katika saa hii.",
+        "3\nNi furaha gani kwangu Kukuona uso! \nNijue sauti yako, Nipate neema."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-144",
+      "number": 144,
+      "title": "NI WAKO BWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNi wako, Bwana, ninasikia Unaponena nami; \nLakini, kweli, nataka kwako Nizidi kusongea:",
+        "Chorus\nBwana vuta, (vuta) nije nisongee   Sana kwako mtini. \nBwana, vuta, vuta, nije nisongee   Pa damu ya thamani.",
+        "2\nNiweke sasa nikatumike Kwa nguvu za neema; \nUyapendayo nami nipende Nizidi kukwandama.",
+        "3\nNina furaha tele kila saa Nizungumzapo nawe; \nNinanena kama kwa rafiki Nikipiga magoti."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-145",
+      "number": 145,
+      "title": "NAMTAKA BWANA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUlimwengu siutaki, Namtaka Bwana Yesu; \nDunia hunidanganya; Yesu yu mwaminifu.",
+        "Chorus\t\nRehema ni ya ajabu! Pendo bila kipimo! \nWokovu mkamilifu, Amana ya uzima!",
+        "2\nUlimwengu siutaki, Namtaka Bwana Yesu; \nKati ya dhoruba kali Yenye wimbo mtamu.",
+        "3\nUlimwengu siutaki, Namtaka Bwana Yesu; \nSafarini duniani Yeye furaha yangu.",
+        "4\nUlimwengu siutaki, Namtaka Bwana Yesu; \nMsalaba naamini, Hata namwona Yesu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-146",
+      "number": 146,
+      "title": "TWAE WANGU UZIMA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTwae wangu uzima, Sadaka ya daima;\nTwae saa na usiku, Zikutukuze huku.",
+        "2\nTwae mikono nayo, Ifanye upendavyo,\nTwae yangu miguu, Kwa wongozi wako tu.",
+        "3\nTwae sauti yangu, Niimbe kwa Mungu tu;\nItwae na midomo, Ijae neno lako.",
+        "4\nTwae dhahabu pia, Na yote ya dunia;\nTwae yangu hekima, Upendavyo tumia.",
+        "5\nNia itwae, Mungu, Haitakuwa yangu;\nTwae moyo; ni wako, Uwezo makazi yako.",
+        "6\nTwae mapenzi yangu, Sifa za moyo wangu;\nTwae kabisa nafsi, Niwe wako halisi"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-147",
+      "number": 147,
+      "title": "UISHI NDANI YANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTawala ndani yangu, Ee Yesu, Mfalme. \nUwe kwangu majibu Kwa maswala yangu;\nUishi ndani yangu, Wewe, mwongozi\nUtumishi ni wangu, Wako utukufu.",
+        "2\nHekalu nimetoa, Umelisafisha;\nSasa fahari yako Imulike ndani;\nDunia iwe kimya, Mwili sasa uwe \nMtumwa mtulivu Wa kukutii tu.",
+        "3\nViungo vyake mwili, Vyote vikungoja \nTayari vikiitwa Kwenda, kusimama; \nBila manung`uniko Au malaumu, \nAu kusumbuliwa, Pasipo majuto.",
+        "4\nNiwe na utulivu Pasipo haraka; \nTayari kungojea Maagizo yake. \nTawala ndani yangu. Ee Yesu, Mfalme, \nUwe kwangu majibu Kwa maswali yote."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-148",
+      "number": 148,
+      "title": "UNIVUTE KARIBU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUnivute karibu, Baba, Unikumbatie; \nUnisongeze kifuani, Nataka pumziko.",
+        "Chorus\nUnivute karibu (Vuta, univute karibu)   \nKwa kamba za upendo, (Kwa kamba, kamba za upendo)   \nUnivute (Kwa kamba za upendo, Univute karibu)  \nKaribu nawe. (Univute karibu)",
+        "2\nUnivute Mwokozi wangu, Na tusiachane; \nMikono yako juu yangu Leo niione.",
+        "3\nUnivute kwa Roho yako, Nifanane nawe; \nUnioshe, unihuishe, Niwe safi, huru."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-149",
+      "number": 149,
+      "title": "KUWA WAKE YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKuwa  wake Yesu, Je! Ni kusudi lako?\nUngeenda naye njia nyembamba?\nUnataka aubebe mzigo wako?\nAwe Mwongozi wako.",
+        "Chorus\nUwezo wake unakutosha\nNa damu yake itakusafi;\nKwa vile ukubali ni bora\nAfanye mapenzi yake nawe.",
+        "2\nUnataka kuitika anapokwita?\nKupata amani kwa kumpa vyote?\nWataka uwezo usianguke kamwe?\nAwe Mwongozi wako.",
+        "3\nWataka raha katika ufalme wake?\nUngeshinda kwa majaribu yote?\nUngefanya kazi yake vizuri sana?\nAwe Mwongozi wako."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-150",
+      "number": 150,
+      "title": "HACHA, MANENO MABAYA YASITOKE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nHacha, maneno mabaya Yasitoke Kinywani \nMoyo mwema uzuie Ndimi, zisichafuke",
+        "Chorus\n\"Nanyi pendeni\", Asema Yesu,   (mpendane) (mpendane)  \nKama mwanzo alivyotupenda:\n\"Nanyi pendeni\", Asema Yesu,   (mpendane) (mpendane)\nWana, tiini amri hii. (amri heri hii).",
+        "2\nPendo ni mtakatifu; Urafiki: mzuri: \nVisiharibike mara Kwa kunena vibaya.",
+        "3\nTusinene kwa hasira, Inazaa huzuni. \nPendo lako, ee Mwokozi, Inatosha tushinde."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-151",
+      "number": 151,
+      "title": "HUNIONGOZA MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nHuniongoza Mwokozi, ndipo nami hufurahi, \nNiendapo pote napo, ataniongoza papo.",
+        "Chorus\nKuongoza hunishika; kwa mkono wa hakika; \nNitaandamana naye Kristo aniongozaye.",
+        "2\nPengine ni mashakani nami pengine rahani; \nNi radhi, ijapo yote, yupo nami siku zote.",
+        "3\nMkono akinishika kamwe sitanung`unika; \nAtakachoniletea ni tayari kupokea.",
+        "4\nNikiisha kazi chini sitakimbia mauti; \nKuishinda ni ya hakika nikiongozwa na Baba."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-152",
+      "number": 152,
+      "title": "KARIBU NA WEWE, MUNGU WANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKaribu na wewe, Mungu wangu; Karibu zaidi, Bwana Wangu.\nSiku zote niwe karibu na wewe, Karibu zaidi, Mungu wangu.",
+        "2\nMimi nasafiri duniani, Pa kupumzika sipaoni,\nNilalapo niwe karibu na wewe, Karibu zaidi, Mungu wangu.",
+        "3\nYote unipayo yanivuta; Pa kukaribia nitapata;\nNa nielekezwe karibu na wewe; Karibu zaidi, Mungu wangu.",
+        "4\nNa kwa nguvu zangu nikusifu, Mwamba, uwe maji ya wokovu;\nMashakani niwe, karibu na wewe, Karibu zaid, Mungu wangu.",
+        "5\nNa nyumbani mwa juu, Baba yangu; Nikinyakuliwa toka huko,\nKwa furaha niwe pamoja na wewe, Karibu zaidi Mungu wangu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-153",
+      "number": 153,
+      "title": "FIKIRA MOJA TU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nFikira moja tu  Hurejea tena; \nNimekaribia mbingu Zaidi ya jana.",
+        "Chorus\nKaribu na kwetu mbingu, \nKaribu na kwetu sasa,   Nikwone karibu.",
+        "2\nKaribu na kwetu Na kwenye makao; \nKiti cha enzi cha Mungu, Pahali pa mto.",
+        "3\nKamilisha, Yesu, Kuamini kwangu; \nNikifika mwisho wangu, Nikwone karibu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-154",
+      "number": 154,
+      "title": "YANIPASA KUWA NAYE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYanipasa kuwa naye, Mwokozi Bwana wangu. \nAkiwa karibu nami, napata nguvu kweli.",
+        "Chorus\nMoyo hauogopi, wala kutikisika. \nNitakwenda apendapo, kwa kuwa anilinda.",
+        "2\nYanipasa kuwa naye, kwani nategemea; \nAnaweza kufariji na maneno matamu.",
+        "3\nYanipasa kuwa naye maisha yangu yote; \nYakiwapo majaribu na mashaka yo yote.",
+        "4\nYanipasa kuwa naye katika njia zangu; \nMacho yake yaongoza hatua zangu zote."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-155",
+      "number": 155,
+      "title": "NJIANI HUNIONGOZA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNjiani huniongoza Yesu wangu, Mwokozi: \nRehema hatapunguza, Milele Kiongozi. \nIna raha kwandamana Duniani daima:\nNijaposumbuka sana, yeye hutenda vyema.",
+        "2\nNjiani huniongoza Hupunguza matata; \nNikiungua hupoza. Na njaani nashiba. \nLichokapo guu langu Nguvu zikapungua. \nJiwe lilo mbele yangu hunibubujika.",
+        "3\nNjiani huniongoza Kwa pendo zilizo kuu,\nMwisho atanituliza Kwake Baba yangu juu,\nNikivikwa kutokufa, Nikae na Mwokozi, \nNitamsifu sana; sifa: \" Kweli ni Kiongozi.\""
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-156",
+      "number": 156,
+      "title": "UNIONGOZE JEHOVA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUniongoze, Yehova, Ni msafiri chini;\nNi mnyonge, u hodari, `Nilinde kwa mkono. \nUnitunze, unilinde, Unionyeshe njia!",
+        "2\nNa kisima cha uzima, Maji ya utabibu, \nFungua kwa moyo wangu, Ninywe na kuponyeka! \nUninyweshe, unilishe, Hata nimetosheka.",
+        "3\nWakati wa kuuvuta, Ule mto Yordani, \nHofu yangu ufariji, `Nione uso wako. \nNyimbo shangwe, nyimbo shangwe, Nitaimba daima."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-157",
+      "number": 157,
+      "title": "MFALME YU MLANGONI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMfalme yu mlangoni, Ndiye aliyetufia; \nMara wote wampendao atawakusanya.",
+        "Chorus\nYuaja, yuaja, mlangoni anasimama; \nAnakuja, anakuja, Kuja kwake karibu.",
+        "2\nDalili za kuja kwake Zinazidi kutimizwa; \nKaribu wateule watamlaki Bwana.",
+        "3\n`Sitafute duniani amani wala furaha,\nMpaka Bwana arudi dhambi kuondoa.",
+        "4\nTutakaa na Mwokozi Makaoni ya milele; \nDaima tutafurahi kuwa watu wake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-158",
+      "number": 158,
+      "title": "U MWENDO GANI NYUMBANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nU mwendo gain nyumbani? Mlinzi akanijibu, \n\"Usiku sasa waisha, macheo karibu.\"\nUsihuzunike tena, bali ulemee mwendo \nHata ushike ufalme kule mwangani juu.",
+        "2\nNa tena niliuliza, nchi yote ikajibu; \n\"Sasa mwendo watimika, milele karibu.\" \nUsihuzunike tena, ishara kuu zasonga \nNa viumbe vyangojea sauti ya Bwana.",
+        "3\nNikamwuliza shujaa, ndivyo kanitia moyo:\n\"Shikilia mapigano, kitambo yaisha.\" \nUsihuzunike tena, kazi ifanywe kwa moyo; \nTumeahidiwa tunu tuishapo shinda.",
+        "4\nSiyo mbali na nyumbani! Fikira tamu njiani,\nLatupoza roho, nalo lafuta machozi.\nUsihuzunike tena, kitambo tutakutana \nWenye furaha kamili nyumbani mwa Baba"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-159",
+      "number": 159,
+      "title": "ANAKUJA UPESI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nAnakuja upesi, Yesu Bwana wetu,\nMsafiri  mbali na kwao;\nAlisema dhahiri, \"Nitakuja tena\"; \nAmina; na uje, E Bwana.",
+        "Chorus\nYuaja, Yesu atarudi sasa;\nAnakuja duniani.\nWasafiri wote watapumzika,\nYesu anaporudi tena.",
+        "2\nMakaburi yote wafu wanapolala,\nYatafunguliwa tena;\nNa mamilioni pale wataondoka tena,\nWasione machozi kamwe.",
+        "3\nHatutatengana na hao tena huko;\nNyimbo nzuri tutaimba.\nWatakusanyika `toka kila kabila,\nMiguuni pa Mwana-Kondoo.",
+        "4\nAleluya Amin! Aleluya tena!\nUpendo wake unashinda!\nTutamsifu milele, hata tutashangaa,\nJinsi alivyotukomboa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-160",
+      "number": 160,
+      "title": "WATAKATIFU KESHENI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nWatakatifu kesheni, nguvu za mbingu zagonga; \nWasheni taa tayari kwa kurudi kwake Bwana.",
+        "Chorus\nYuaja, Yesu Mfalme, Yuaja mwenye fahari, \nYesu yuaja enzini Karibu Yesu, uje.",
+        "2\nPiga mbiu, tangazeni habari ya ukombozi. \nYa Mponya wa upendo nayo nguvu ya samaha.",
+        "3\nFalme nyingi zaangushwa, Panda ya saba hulia; \nTanga neema yake kabla ya kupita saa.",
+        "4\nMataifa yapotea, nchi zajaa uchungu: \nKristo anaharakisha, Unabii unatimizwa.",
+        "5\nWenye dhambi njoni sasa Kristo awapatanishe, \nMbio twaeni neema, kitambo muda waisha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-161",
+      "number": 161,
+      "title": "PIGA PANDA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPiga panda na ya makelele; Yesu yuaja tena! \nIpaze sauti, imba sana; Yesu yuaja tena!",
+        "Chorus\nAnakuja, anakuja; Yesu yuaja tena!",
+        "2\nItoe mwangwi sana vilima; Yesu yuaja tena! \nYuaja kwa utukufu mwingi, Yesu yuaja tena!",
+        "3\nItangaze mahali po pote, Yesu yuaja tena! \nMwokozi aliyetufilia, Yesu yuaja tena!",
+        "4\nKuona machafuko twajua Yesu yuaja tena! \nMataifa yakasiriana, Yesu yuaja tena!",
+        "5\nMaradhi, hofu hutuhubiri Yesu yuaja tena! \nTaabu, njaa hutulilia Yesu yuaja tena!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-162",
+      "number": 162,
+      "title": "TUMAINI LIKO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTumaini liko La thamani kuu,\nKupita anasa tupu zake ulimwengu.",
+        "2\nPana nyota nzuri: Nuru itoayo,\nKwetu wakati wa kifo Ndio ufufuo.",
+        "3\nZikiumwa roho Na hofu, mashaka,\nSauti hutuambia Mungu hutupenda.",
+        "4\nKutoka Kalwari Sauti hunena;\nNyota ni nuru ya mbingu, Tumaini letu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-163",
+      "number": 163,
+      "title": "ANAKUJA BWANA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPengine ni saa ya kupambazuka,\nMishale ya jua ipenyapo giza,\nKwamba atakuja Yesu mtukufu,\nAwapokee wake.",
+        "Bwana itakuwa lini Tutapoimba,\n\"Anakuja, Bwana Yesu, Aleluya,\nAmin, Aleluya, Amin?\"",
+        "2\nPengine mchana, pengine jioni,\nPengine usiku wa manane, giza,\nItatoweka kwa fahari akija,\nAwapokee wake.",
+        "3\nMajeshi yake yataimba \"Hosana,\"\nNa watakatifu waliotukuzwa,\nWatamsifu kwa kuwa amekuja,\nAwapokee wake.",
+        "4\nFuraha tukiitwa pasipo kufa,\nPasipo kuona maradhi, machozi;\nKuchukuliwa winguni kwa fahari,\nAkija kwa watu wake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-164",
+      "number": 164,
+      "title": "MISHALE YA NURU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUnakaribia wakati wa Kuja kwa Yesu. \nAtawachukua watu wake Nyumbani juu.",
+        "Chorus\nTunaiona mishale ya nuru Inayopenya giza; \nTunaiona mishale ya nuru Ya ufunuo.",
+        "2\nInjili inatangazwa pote kwa mataifa; \nBwana wa Arusi atakuja Na tarumbeta.",
+        "3\nPamoja na malaika zake Bwana arudi, \nAwapeleke waaminifu Wasife tena.",
+        "4\nWapenzi waliotengwa kale Watakutana; \nMachozi yao wenye huzuni Yatafutika."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-165",
+      "number": 165,
+      "title": "AHADI TAMU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nAhadi tamu kwa waamini, \nTazama nakuja upesi sana. \nUwe imara, hatari kubwa: \nNdugu usilale, bali ukeshe.",
+        "Chorus\nUihifadhi imani yako,\nDunia mpya itatolewa \nNjoo ingia furaha yangu; \nTaji zinangoja; Uwe imara.",
+        "2\nTatakesha na kutoa sala; \nAtakuja kama mwivi kwa wengi; \nYa kwamba yu karibu twajua,\nIla hatujui ni siku gani.",
+        "3\nTunategemea Neno lake,\nAmbalo latangaza kuja kwake,\nTumaini letu ni ahadi:\n\"Naja karibuni, uwe imara.\""
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-166",
+      "number": 166,
+      "title": "FURAHA KWA ULIMWENGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nFuraha kwa ulimwengu, Bwana atakuja! \nKila moyo umpokee, Viumbe imbeni, \nViumbe imbeni, Viumbe vyote imbeni.",
+        "2\nNa Bwana atatawala: Watu na waimbe; \nMit, milima na mawe Kariri furaha, \nKariri furaha, Kariri furaha kubwa.",
+        "3\nAtatawala kwa wema; Atawafundisha \nMataifa haki yake, Ajabu za pendo, \nAjabu za pendo, Ajabu za pendo lake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-167",
+      "number": 167,
+      "title": "YU HAI, YU HAI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu Bwana Mwokozi aishi milele, \nNajua kwamba Yupo pamoja na mimi; \nSauti nasikia, Rehema naona; \nWakati namhitaji, yupo nami.",
+        "Chorus\nYu hai, Yu hai,Yu hai Bwana Yesu! \nAtembea, azungumza nami siku zote. \nYu hai, Yu hai, kutoa uzima! \nHivi ndivyo nijuavyo, \nYu hai ndani yangu!",
+        "2\nUlinzi Wake upo naona dhahiri, \nMiguu ichokapo, sikati tamaa;\nNajua an`ongoza kupota dhoruba, \nSiku ya kuja kwake nitamwona."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-168",
+      "number": 168,
+      "title": "TARUMBETA YA MWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTarumbeta ya mwana itakapolia mara,\nMilele itakapopambazuka,\nNao wa haki watakapokusanyika ng`ambo,\nMajina yaitwapo, lo! - niweko.",
+        "Chorus\nMajina yaitwapo, lo! -\nMajina yaitwapo, lo! -\nMajina yaitwapo, lo! -\nMajina yaitwapo, lo! -\nNiweko.",
+        "2\nSiku ile watakatifu watakapoamka,\nNa kuondoka huru kaburini;\nWatakapokusanyika makaoni kule juu,\nMajina yaitwapo, lo! - niweko.",
+        "3\nTutende kazi kwa yesu mchana kutwa kwa bidii,\nTutangaze kote pendo lake kuu;\nNayo kazi itakapotimika hap chini,\nMajina yaitwapo, lo! - niweko."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-169",
+      "number": 169,
+      "title": "TUTASHINDAJE HUKUMUNI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nHapo Yesu atakapoita mataifa mbele yake, \nTutashindaje kwenye hukumu mbele ya kiti cha enzi?",
+        "Chorus\nAtakusanya ngano ghalani, atatupambali makapo; \nTutashindaje hukumuni siku kuu ya kiyama?",
+        "2\nJe, tutasikua neno tamu: \"vema, wewe mtumwa mwema,\" \nAma wenye uchunguna hofu tutakatazwa ufalme?",
+        "3\nAtakubali tu kwa furaha watoto wake wapendwa, \nAtawapa mavazi meupe, wakea tayari kumlaki.",
+        "4\nHivyo tukeshe, nasi tungoje, wenye taa zinazo waka; \nTutakapoitwa arusini tuwe tayari kumlaki.",
+        "5\nRoho ikielekea mbingu twangoja wenye saburi, \nHata safari yetu iishe, tukae kwake milele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-170",
+      "number": 170,
+      "title": "JINA LANGU LIMEANDIKWA JE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSitafuti mali, wala utajiri; Nataka kwa yakini nipate Mwokozi.\nChuoni mwa Ufalme, niambie Yesu, Jina langu yakini limeandikwa, je?",
+        "Chorus\nLimeandikwa, je? Jina langu huko? \nKitabuni mbinguni, limeandikwa, je?",
+        "2\nDhambi zangu ni nyingi, ni kama mchanga, Lakini damu yako, Mwokozi, yatosha;\nKwani umeahidi: zijapo nyekundu Zitakuwa nyeupe ilivyo theluji.",
+        "3\nMji mzuri sana, wa majumba makuu, Walipo malaika, mji bila ovu;\nWakaapo walio na mavazi safi, Limeandikwa sasa, jina langu huko?"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-171",
+      "number": 171,
+      "title": "HUKUMU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nImeanzishwa hukumu mbinguni; tutasimamaje pale;\nApimapo Mungu Hakimu kila wazo na tendo?",
+        "Chorus\nTutasimamaje sote katika siku kuu ile?\nDhambi zetu zitafutika ama zitatuangusha?",
+        "2\nWametangulia wafu kupimwa, Kitambo ndipo wahai;\nWatapokea neno la mwisho, Vitabuni mwa Mungu.",
+        "3\nTutasimamaje usiku ule, Siri zetu, kila moja,\nZafunuliwa toka vitabu; Yesu atusaidie!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-172",
+      "number": 172,
+      "title": "MFALME AJAPO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMfalme wetu atuita tukae karamuni kwake; \nItakuwaje nasi kule Bwana ajapo?",
+        "Chorus\nBwana ajapo, ndugu, Bwana ajapo! \nItakuwaje na sisi, Bwana akija?",
+        "2\nAtavikwa vizuri sana, taji badala ya miiba; \nKweli tokeo la fahari Bwana ajapo.",
+        "3\nKwa furaha awakubali wenye mavazi ya arusi; \nTu wa heri tukimridhisha Bwana ajapo.",
+        "4\nKutakuwako na utengo: watalia waliomwasi; \nCha kutisha kitambo kile Kristo ajapo!",
+        "5\nMfalme utupe neema sisi tunapokungoja, \nTusiogope kukuona ujapo Bwana."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-173",
+      "number": 173,
+      "title": "HATUJUI SAA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nHatujui sa-a ya kuja kwa Bwana,\nLakini dalili zasema karibu,\nAtakaporudi, -lakini kwa kweli,\nHatujui sa-a.",
+        "Chorus\nAtakuja, kwa vile tukeshe;\nAtakuja Mwokozi, Aleluya!\nAtakuja kwa fahari ya Baba yake,\n-Hatujui saa.",
+        "2\nPana nuru kwao wapendao haki,\nPana kweli katika Chuo Cha Mungu;\nUnabii hufundisha kuja kwake,\n-Hatujui saa.",
+        "3\nTutakesha tutaomba daima,\nTutafanya kazi mpaka akija;\nTutaimba na tutasoma ishara,\n-Hatujui saa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-174",
+      "number": 174,
+      "title": "TUKIMGOJEA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSijui atakapokuja, Mchana au usiku;\nLabda sa-a ya alasiri. Pengine ni alfajiri.\nHutwambia tuwe tayari, Ta-a zetu tusizime; \nIli ajapo atukute; Tuwe tukimngoja Yeye.",
+        "Chorus\nTu---kimngoje---a,   (Kukesha, tunakungoja Wewe) \nTu---kimngoja---a,   (Kukesha, tunakungoja Wewe) \nTu---kimngoja---a,   (Kukesha, tunakungoja Wewe) \nTwakesha, twamngoja Yeye.",
+        "2\nNakumbuka huruma zake, Bei ya wokovu wetu; \nAliacha nyumba tukufu Awafilie wabaya.\nNinadhani itampendeza, Kama sisi watu wake, \nTukionyesha pendo letu, Tuwe tukimngoja Yeye.",
+        "3\nEe Yesu, Mwokozi mpendwa, Wajua nalihifadhi \nTumaini la kukuona. La kukaribishwa nawe.\nUkija kwa watu wengine, Kama mhukumu wao, \nKwangu utakuwa rafiki, Nakesha, nakungojea."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-175",
+      "number": 175,
+      "title": "USO KWA USO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNitaonana na Yesu, uso kwa uso kweli; \nSiku ile shangwe tele nikimwona Mwokozi",
+        "Chorus\nTutaonana kwa macho, huko kwetu mbinguni; \nNa kwa utukufu wake  nitamwona milele.",
+        "2\nSasa siwezi kujua jinsi alivyo hasa, \nBali atakapokuja, nitamwona halisi.",
+        "3\nMbele yake yafukuzwa machozi na huzuni; \nKipotovu kitanyoshwa, fumbo  litafumbuka.",
+        "4\nUso kwa uso! Hakika palepale furaha; \nNitafurahi kabisa nikimwona Mwokozi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-176",
+      "number": 176,
+      "title": "ATI TUONANE MTONI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nAti tuonane mtoni? Maji mazuri ya mbingu; \nYanatokea mwangani, penye kiti cha Mungu.",
+        "Chorus\nNaam, tuonane mtoni! Watakatifu, kwenu ni mtoni! \nTutakutanika kule mtoni penye kiti cha Mungu.",
+        "2\nTukitembea mtoni na Yesu Mchunga wetu,\nDaima tu ibadani usoni pake kwetu.",
+        "3\nTukisafiri mtoni tutue ulemeao\nWema wa Mungu yakini; una taji na yao!",
+        "4\nKwang`ara sana mtoni cha Mwokozi ni kioo, \nMilele hatuachani tumsifu kwa nyimbo.",
+        "5\nKaribu sana mtoni, karibu tutawasili, \nMara huwa furahani na amani ya kweli."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-177",
+      "number": 177,
+      "title": "KAZI YANGU IKIISHA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKazi yangu ikisha,nami nikiokoka;\nNa kuvaa kutokuharibika,\nNitamjua mwokozi nifikapo ng`amboni;\nAtakuwa wa kwanza kunilaki.",
+        "Chorus\nNitamjua,Nitamjua,nikimwona uso kwa uso;\nNitamjua,Nitamjua,kwa alama za misumari.",
+        "2\nFuraha nitapata nikiona makao`\nBwana aliyotuandalia;\nNitamsifu Mwokozi kwa rehama na pendo;\nVilivyonipa pahali mbinguni.",
+        "3\nNao waliokufa katika Bwana Yesu,\nNitawaona tena huko juu;\nLakini nifikapo kwake huko mbinguni,\nNataka kumwona Mwokozi kwanza.",
+        "4\nMilangoni mwa mji Bwana atanipisha,\nPasipo machozi wala huzuni.\nNitauimba wimbo wa milele;lakini\nNataka kumwona mwokozi kwanza."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-178",
+      "number": 178,
+      "title": "UKINGONI MWA TORDANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUkingoni mwa Yordani ninaangalia \nBara nzuri ya Kanaani, ninayotamani.",
+        "Chorus\nTutakaa pamoja na Yesu, Katika pwani yenye raha; \nTutaimba wimbo wa Musa na Kondoo, Milele hata milele.",
+        "2\nBara ile ina nuru, nuru ya milele;\nKristo, Jua, hutawala, hufukuza giza.",
+        "3\nNitapafikia lini na kubarikiwa,\nPenye ufalme wa Baba, na kumwona uso?",
+        "4\nFuraha yangu rohoni ni  kuchukuliwa;\nSiyaogopi mawimbi katika Yordani."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-179",
+      "number": 179,
+      "title": "WATAFURAHI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nWavunaji watafurahi, pale watakaporudi,\nWakiyaleta mavuno hata Yerusalemu.",
+        "Chorus\nFuraha wataipata, furaha hata milele,\nFuraha, wataipata, wakati wa mavuno.",
+        "2\nNa siku ile tutaimba, kumshukuru na kumsifu,\nBwana Yesu Jumbe wetu, kule Yerusalemu.",
+        "3\nWavunaji watafurahi makaoni mwa milele,\nYaliyowekwa tayari kule Yerusalemi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-180",
+      "number": 180,
+      "title": "PANA MAHALI PAZURI MNO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPana mahali pazuri mno, Twapaona kwa mbali sasa; \nBaba yetu angoja pale, Amepanga makao yetu.",
+        "Chorus\nKitambo tu bado, Tutakutana ng`ambo pale. \nKitambo tu bado, Tutakutana ng`ambo pale.",
+        "2\nTutaimba pale kwa moyo Nyimbo tamu za wenye heri. \nNa rohoni hatutaona Tena haja ya kupumzika.",
+        "3\nKwa baba yetu mkarimu Tutatoa shukrani sana. \nKwa kipaji cha pendo lake Na baraka anazotupa."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-181",
+      "number": 181,
+      "title": "TUTAKAA MAHALI PA MAJI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMahali pa maji mazuri maji ya uzima; \nAnapotungoja Yesu tutakaribishwa.",
+        "Chorus\nMahali pa maji mazuri, penye maji ya uzima; \nTutakaa na Mwokozi, chemchemi ya uzima.",
+        "2\nTunapochoka safarini, tamu kupumzika. \nPanapo maji ya uzima yatufurahisha.",
+        "3\nUna kiu? Uje kwa Yesu, utaburudishwa; \nYesu yu maji ya uzima, unywe,uokoke."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-182",
+      "number": 182,
+      "title": "HAPANA GIZA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMchana hauishi Mjini mzuri;\nMji hautapita; Na hapana giza.",
+        "Chorus\nMachozi yatafutwa, Kifo hapana pale; \nHawahesabu siku, Na hapana giza.",
+        "2\nMilango ni ya lulu, Mjini mzuri;\nDhahabu njia zake; Na hapana giza.",
+        "3\nMilango haifungwi Mjini mzuri; \nMto ni wa uzima Na hapana giza.",
+        "4\nHawahitaji jua Mjini mzuri, \nMwana Kondoo nuru; Na hapana giza."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-183",
+      "number": 183,
+      "title": "YESU ANAPORUDI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nFuraha na raha tutapata, Furaha na raha tutapata, \nFuraha na raha tutapata Yesu anaporudi.",
+        "Chorus\nYesu anaporudi (rudi) Yesu anaporudi (rudi); \nFuraha na raha tutapata Yesu anaporudi.",
+        "2\nTutaimba nyimbo za shangwe kuu, Tutaimba nyimbo za shangwe kuu, \nTutaimba nyimbo za shangwe kuu Yesu anaporudi.",
+        "3\nHapana machozi arudipo, Hapana machozi arudipo, \nHapana machozi arudipo, kwa wateule wake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-184",
+      "number": 184,
+      "title": "PANAPO PENDO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nVitu vyote ni sawa, panapo pendo:\nKila sauti tamu, panapo pendo\nPana amani pale, na furaha nyumbani,\nSiku zote salama panapo pendo.",
+        "Chorus\nPanapo upendo - Siku zote salama\nPanapo pendo.",
+        "2\nFuraha I nyumbani, panapo pendo:\nHapana machukizo, panapo pendo;\nChakula ni kitamu, mashamba yasitawi,\nMaisha ni kamili, panapo pendo.",
+        "3\nHata mbinguni juu, pana furaha\nWakiona upendo nyumbani mwetu.\nMacho yapendezwa na viumbe vya Mungu,\nNaye Mungu huona, panapo pendo.",
+        "4\nEe Yesu niwe wako, wako kabisa,\nNdipo patakuwako Pendo nyumbani;\nNitakaa salama, sitafanya dhambi:\nNitabarikiwa tu panapo pendo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-185",
+      "number": 185,
+      "title": "MUNGU, MAPENZI MAKAMILIFU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu u mapenzi mtakatifu Yapitayo fahamu za watu \nTwanyenyekea sisi wapungufu, Wape baraka wapenzi wetu.",
+        "2\nEwe Mapenzi yasiyopimika Twawaombea kitini Mwako, \nWape mapenzi yasiyotindika, Waliooana mbele yako.",
+        "3\nEwe uhai, wewe u dhamana Ya imani na matumaini, \nWape kuvumilia hapa sana  Wasiche maumivu mwishoni.",
+        "4\nWape furaha hiyo iwezayo kutia nuru kwenye huzuni, \nWape amani hiyo itakwayo Katika matata duniani.",
+        "5\nWaende mbele kusaidiana Maisha yao ulimwenguni; \nHata mwisho, ni kuja kwake Yesu, Wafurahi milele mbinguni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-186",
+      "number": 186,
+      "title": "HATUTAAGANA TENA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTuonanapo na rafiki sote twafurahi, \nIla tumepaswa mwishowe kuagana tena.",
+        "Chorus\nHatutaagana tena nyumbani mbinguni, \nKwenye nchi tamu juu, Hatutaagana.",
+        "2\nTwatumaini kwa furaha tutaonana juu \nNa rafiki tulioaga tuishapo shinda.",
+        "3\nKule hatutatamka kamwe neno la kuaga, \nTutaimba daima tena nyimbo za furaha."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-187",
+      "number": 187,
+      "title": "KUFARIKI NAYE YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKufariki naye Yesu! Usingizi wewe heri; \nRaha isiyofujika kwa majozi na adui.",
+        "2\nKufariki naye Yesu! Lo! Ya kubwaga simanzi \nNa kulala na amani hata Bwana awatuze.",
+        "3\nKufariki naye Yesu! Heri watakaoamshwa, \nWataona siku ile utukufu wake Bwana.",
+        "4\nKufariki naye Yesu! Wataamka aitapo; \nWatapasua kaburi na kutoka watukufu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-188",
+      "number": 188,
+      "title": "WIMBI LITAKASALO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nWimbi la damu ya Yesu Linatutakasa; \nAliumia kusudi Tupate uzima.",
+        "Chorus\t\nWimbi la damu naona, Naingia, natakaswa! \nBwana asifiwe sana, Hutakasa, hutakasa.",
+        "2\nDamu inasema kwangu, Nasikia mvuto; \nInasema, moyo wangu Hutakaswa nayo.",
+        "3\nNaondoka kutembea Kwa nuru ya mbingu; \nMavazi yamesafishwa; Moyoni ni Yesu.",
+        "4\nNeema ni ya ajabu, Kutakaswa ndani! \nNa kuwa naye Yesu tu, Aliye Mwokozi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-189",
+      "number": 189,
+      "title": "TUBATIZE UPYA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMimina upya nguvu toka juu; \nTupe pendo lako, ewe Mwokozi.",
+        "Chorus\nTwakusihi sana Yesu Mwokozi,\nTubatize upya, kwa Roho leo.",
+        "2\nKwako twalia, wenye maovu, \nOsha moyo wetu, ututakase.",
+        "3\nKipaji cha juu, kitume kwetu, \nTubariki sasa, utufariji.",
+        "4\nIsikilize, kwa moyo wazi, \nSauti ya Roho; ubarikiwe."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-190",
+      "number": 190,
+      "title": "RAHA YANGU YOTE, BWANA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nRaha yangu yote, Bwana, I mbavuni pako; \nMimi sina haja tena ila kifo chako.",
+        "2\nMwokozi uliyekufa, nawe ndiwe Mungu, \nKifo chako ni kwa dhambi, ziondoe zangu.",
+        "3\nNioshe na niwe wako, nawe uwe wangu; \nNioshe damuni mwako liwe fungu langu.",
+        "4\nNioshe si miguu tu, osha tangu nyayo, \nHata kichwa changu juu, na ndani ya moyo,",
+        "5\nNa iwe kafara damu nifanyapo kazi, \nHata imani itimu, nikwone,Mwokozi."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-191",
+      "number": 191,
+      "title": "MKATE WA MBINGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMkate wa mbingu mega kwetu;\nUlivyotoa kwa thenashara. \nKatika kitabu, twakuona. \nMoyo unatweta kukutana.",
+        "2\nNeno la ukweli libariki; \nTusikie mwito wa upole. \nVizuizi vyote vitakoma. \nTena tutapata uungwana.",
+        "3\nUzima na nguvu, utanena; \nNakimbiliza tu kufuata. \nLakini mnyonge ndiye mimi; \nNaye Mshindaji ndiye wewe!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-192",
+      "number": 192,
+      "title": "MWAMBA WENYE IMARA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMwamba wenye imara,kwako nitajificha!\nMaji hayo na damu yaliyotoka humu,\nHunisafi na dhambi,Hunifanya m-shindi.",
+        "2\nKwa kazi zote pia sitimizi sheria,\nNijapofanya bidii,nikilia na kudhii,\nHayaishi makosa;ndiwe wa kuokoa.",
+        "3\nSina cha mkononi,naja msalambani,\nNili tupu,nivike;ni mnyonge,nishike;\nNili mchafu,naja,nioshe nisijafa.",
+        "4\nNikungojapo chini,na kwenda kaburini,\nNipaapo mbinguni na kukwona enzini,\nRoho yangu na iwe rahani mwako wewe"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-193",
+      "number": 193,
+      "title": "SAUTI YAKE MCHUNGAJI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSauti ya Mchungaji, ninasikia jangwani, \nKondoo waliopotea anwaita warudi.",
+        "Chorus\nLeteni, leteni, leteni toka dhambini; \nLeteni, leteni, waleteni kwa Yesu.",
+        "2\nNani atakeyekwenda amsaidie Mchungaji, \nAwarudishe zizini, wasife bure gizani?",
+        "3\nUsikose kusikis sauti ya Mchungaji, \n\"Kondoo waliopotea nwnda na kuwatafuta.\""
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-194",
+      "number": 194,
+      "title": "TWAOMBA BARAKA ZAKO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nTwaomba, Bwana, umpokee Kama mhudumu; \nAmbaye anjitoa Kuwa mtumishi.",
+        "2\nTwaomba, Bwana, umpokee Kama mhudumu; \nNeno lako alitoe, Mwangaza kung`aa.",
+        "3\nMwokozi wetu, twaomba, na umwandikie \nKitabuni mwako juu Mjumbe wa injili.",
+        "4\nSilaha zake apewe Kumshinda adui; \nVitabuni awe hohari, Mpaka mauti.",
+        "5\nYeye ashindaye, Bwana, Kwa rehema yako, \nIle taji ya dhahabu, Nawe utampa"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-195",
+      "number": 195,
+      "title": "MSINGI WA KANISA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMsingi wa Kanisa Ndiye Yesu Bwana;\nKiumbe chake kipya Akipenda sana; \nKutaka ‘kitafuta Alishuka chini, \nNaye kwa haja yake, Akafa Mtini.",
+        "2\nLina kila kabila Kisha ndiyo moja \nWokovu wake una Mwokozi ndiyo moja; \nUzazi ni umoja. Moja tumaini. \nChakula ni kimoja. Moja tumaini.",
+        "3\nWatu hustaajabu Kwa mashaka yote. \nYaipatayo nje Hata ndani mwote; \nIla watakatifu Humwomba, wakikesha  \nUsiku ni kilio. Asubuhi raha.",
+        "4\nMashaka na taabu Hata vita vyake. \nVyangoja matimizo Ya amani yake. \nNdipo kwa macho yetu Twone utukufu \nKanisa ya kushinda itastarehe juu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-196",
+      "number": 196,
+      "title": "VITO VYA THAMANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKitambo Bwana yuaja, atafute kote \nVito vya thamani kubwa: mali yake kuu.",
+        "Chorus\nKama nyota tajini vitang`aa sana, \nVito vizuri kweli vyenye thamani.",
+        "2\nKaribu atakusanya vito kwa ufalme, \nVizuri vinavyong`aa: mali yake kuu.",
+        "3\nWatoto wote wadogo wampendao Yesu, \nNdiyo vito ving,vyo: mali yake kuu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-197",
+      "number": 197,
+      "title": "ANIPENDA NI KWELI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nAnipenda ni kweli: Mungu anena hili; \nSisi wake watoto kutulinda si zito.",
+        "Chorus\nYesu Mwokozi ananipenda;\nKweli hupenda, Mungu  amesema.",
+        "2\nKwa kupenda akafa niokoke na kufa: \nAtazisafi taka sana ataniweka.",
+        "3\nAnipenda kabisa; niuguapo sasa, \nAnitunza mbinguni niliyelala chini.",
+        "4\nKunipenda haachi tu sote hapa chini, \nBaada ya mashaka kwake tanipeleka"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-198",
+      "number": 198,
+      "title": "KAZA SANA MACHO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNilinawa mikono safi asubuhi,\nItende kazi kutwa kwa Yesu, Yesu Mwokozi.",
+        "Chorus\t\nKaza sana macho njiani kote,\nUtende kwa Yesu kazi njema tu.",
+        "2\nNatega masikio nitambue wasaa,\nMikono na itende upole daima.",
+        "3\nMacho yangu yachunga mikono kazini;\nIlindwe maovuni impendeze Yesu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-199",
+      "number": 199,
+      "title": "UPENDO NI FURAHA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUpendo ni furaha, ni kweli desturi;\nYake kuzisahihisha, njia zetu zote.",
+        "Chorus\nYu pendo: tu watoto wake,\nYu pendo, Mwana wa Mungu!",
+        "2\nNa sisi tupendane  kama Baba Mungu,\nAmri yake ndiyo hii, kupendana sana.",
+        "3\nDuniani huzuni, ugonjwa mauti;\nKwa pendo tuwafariji, wenye mahitaji.",
+        "4\nNa atakapokuja kutuchukua juu;\nTutaimba milele pendo lake Yesu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-200",
+      "number": 200,
+      "title": "BABA YETU ALIYE MBUNGUNI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nBaba yetu aliye mbinguni,\nAmenifurahisha yakini.\nKuniaambia mwake Chuoni,\nYa kuwa name Yesu pendoni.",
+        "Chorus\nAnipenda Mwokozi Yesu,\nAnipenda, Anipenda; \nAnipenda Mwokozi Yesu,\nAnipenda mimi.",
+        "2\nNimuachapo kutanga mbali,\nYeye yu vivyo, hupenda kweli:\nHunirejea kwake moyoni,\nKweli yu name Yesu pendoni.",
+        "3\nAnipenda! Nami ninampenda,\nKwa wokovu alionitenda;\nAlinifilia msalabani,\nKwa kuwa name Yesu pendoni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-201",
+      "number": 201,
+      "title": "HUNIPENDA PIA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMungu huona videge wanaoanguka;\nAkiwapenda videge, vile hunipenda.",
+        "Chorus\nHunipenda, hunipenda, hunipenda pia;\nNajua ananipenda niliye mdogo.",
+        "2\nRangi ya namna nzuri hupamba maua;\nAkiyapenda maua, vile hunipenda.",
+        "3\nMungu aliyeviumba videge, maua,\nHatasahau watoto, kweli huwapenda."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-202",
+      "number": 202,
+      "title": "SIKIA MLIO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSikia mlio! Pesa koponi \nZinalialia - zote kwa Yesu.",
+        "Chorus\t\nKuanguka kuanguka pesa koponi,\nKila moja kwako, Yesu zipokee.",
+        "2\nHuanguka pesa toka mikono: \nSadaka kwa Yesu ya kundi dogo.",
+        "3\nTulio wadogo tuna haba tu; \nTuishapo kua pendo `tazidi.",
+        "4\nWenye mali chache tumpe moyo; \nKwa furaha tupu atakubali"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-203",
+      "number": 203,
+      "title": "YA SABA NI KWA YESU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nSiku sita fanya kazi, Ya saba ni kwa Yesu. \nHapo tunapopumzika, kwani ni yake Yesu.",
+        "Chorus\nMoja, mbili, tatu, nne, tano, sita, zote kwetu; \nLakini tutakumbuka, Ya saba ni kwa Yesu!",
+        "2\nHuonyesha ya kufanya, Kwa kuwa ni ya Yesu, \nNa atuonyesha njia, tutamfuata Yesu.",
+        "3\nTuombe kila Sabato, Na kujifunza kwake; \nTutamtii daima, tutakaa na Yesu"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-204",
+      "number": 204,
+      "title": "KUWA NA YESU NYUMBANI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKuwa na Yesu nyumbani, Furaha nyingi, \nFuraha nyingi, furaha nyingi. \nKuwa na Yesu nyumbani. \nFuraha nyingi, furaha nyingi.",
+        "2\nYesu yu ndani ya Baba, Nyumba salama, \nNyumba salama, nyumba salama; \nYesu yu ndani ya Baba. \nNyumba salama, nyumba salama.",
+        "3\nYesu yu ndani ya Mama, Nyumba salama, \nNyumba salama, nyumba salama; \nYesu yu ndani ya Mama. \nNyumba salama, nyumba salama",
+        "4\nYesu ndani ya watoto, Nyumba salama, \nNyumba salama, nyumba salama; \nYesu yu ndani ya watoto. \nNyumba salama, nyumba salama."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-205",
+      "number": 205,
+      "title": "MSIFU MUNGU EE WATOTO",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMsifu Mungu, Ee watoto wote, Yu pendo, Yu pendo; \nMsifu, Msifu, Ee watoto wote Mungu ni upendo.",
+        "2\nTunampenda, Ee watoto wote, Yu pendo, Yu pendo, \nTunampenda, Ee watoto wote Mungu ni upendo.",
+        "3\nTumikeni, Ee watoto wote. Yu pendo, Yu pendo, \nTumikeni, Ee watoto wote Mungu ni upendo."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-206",
+      "number": 206,
+      "title": "MWOKOZI WANGU ANIPENDA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMwokozi wangu alinipenda, \nMaovu ayanitengi naye, \nAlijitoa, kuniponya, \nSasa mimi wake.",
+        "Chorus\nMimi wake kabisa, \nNaye Yesu wangu, \nSi kwa wakati huu tu, \nBali na milele.",
+        "2\nDhambi nilijidhili sana, \nYesu akaja kunikomboa, \nAkanitoa sumbukoni, \nSasa mimi wake.",
+        "3\nFuraha nyingi moyoni mwangu, \nBwana Yesu kunifanya huru, \nKunitwaa kwa damu yake, \nSasa mimi wake."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-207",
+      "number": 207,
+      "title": "NANI AFANYA MAUA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNani ayafanya maua, maua, \nNani ayafanya, Mungu juu.",
+        "2\nNani apambaye machweo, machweo, \nNani ayapamba, Ni Mungu.",
+        "3\nNani afanya theluji, theluji, \nNani aifanya, ni Mungu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-208",
+      "number": 208,
+      "title": "MUNGU AFANYA UPINDE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNani afanya upindi, \nNamjua, namjua \nMungu afanya upindi \nNampenda kwa hiyo.",
+        "2\nMungu atuma upindi \nNi bora mweupe, \nMungu atuma upindi, \nKwamba yu karibu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-209",
+      "number": 209,
+      "title": "NAKUPENDA SANA KUFIKA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNapenda sana kufika, skuli ya Sabato \nNapenda sana kufika, skuli ya Sabato",
+        "2\nNapenda sana kuimba, habari za Yesu, \nNapenda sana kuimba, siku ya Sabato",
+        "3\nNapenda sana kutoa, sadaka kwa Yesu, \nNapenda sana kutoa, siku ya Sabato",
+        "4\nNapenda sana kuomba, kwa Yesu, kwa Yesu, \nNapenda sana kuomba, siku ya Sabato",
+        "5\nNapenda sana kujua, maneno ya Yesu, \nNapenda sana kujua, siku ya Sabato",
+        "6\nNapenda sana kusema, Fungu la kariri, \nNapenda sana kusema, siku ya Sabato"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-210",
+      "number": 210,
+      "title": "ROHO WA MUNGU WANGU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nRoho wa Mungu wangu, Nakuhitaji! \nRoho wa Mungu wangu, Nakuhitaji! \nUnilinde na unijaze; \nRoho wa Mungu wangu, Nakuhitaji!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-211",
+      "number": 211,
+      "title": "MOYONI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMoyoni, moyoni; Ingia moyoni, Yesu. \nNjoo leo, njoo kukaa, Ingia moyoni Bwana. \nMoyoni, moyoni, Angaza moyoni Yesu, \nNg'aa leo siku zote, Angaza moyoni Bwana."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-212",
+      "number": 212,
+      "title": "MTAZAME MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMtazame Mwokozi, \nUsoni Mwake mzuri, \nMambo ya dunia hugeuka, \nUsowake tukiuona."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-213",
+      "number": 213,
+      "title": "NIWE NAO UZURI WA MWOKOZI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNiwe nao uzuri wa Mwokozi, \nNazo huruma Zake na usafi, \nRoho Mtakatifu anibadilishe, \nAonekane Yesu ndani yangu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-214",
+      "number": 214,
+      "title": "NATAKA NIWE TAYARI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nNataka niwe tayari, Bwana, \nNataka niwe tayari, Bwana, \nFuraha za ulimwengu ni bure;\nNilinde hata uje!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-215",
+      "number": 215,
+      "title": "ULIMWENGU WATAKA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nUlimwengu wataka kumwona Yesu; \nUlimwengu wataka kumwona Yesu. \nAnaleta furaha, shangilio kutosha, \nUlimwengu wataka kumwona Yesu."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-216",
+      "number": 216,
+      "title": "MOYONI NIJAZE",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nMoyoni 'nijaze, \nNa Roho wa Yesu; \nNataka kujitoa, \nMoyoni 'nijaze."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-217",
+      "number": 217,
+      "title": "OMBA SANA ASUBUHI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nOmba sana asubuhi, \nOmba sana mchana, \nOmba sana na jioni, \nBwana hutusikia.",
+        "2\nMungu hujibu maombi, \nAsubuhi na mchana, \nHata hutungojea tena, \nWakati wa jioni.",
+        "3\nNa tuimbe asubuhi. \nTena saa za mchana. \nHivi tutafurahi Naye. \nPumziko la jioni."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-218",
+      "number": 218,
+      "title": "YESU MWOKOZI MPENDWA",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nYesu Mwokozi Mpendwa. \nHakuna mwingine! \nYesu Mwokozi Mpendwa, \nYesu Mwokozi Mpendwa, \nNakutazama wewe pekee, \nYesu Mwokozi Mpendwa, \nNinakutafuta; \nWewe u mali yangu. \nSasa na milele."
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-219",
+      "number": 219,
+      "title": "PAMBAZUKA NURU",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nPambazuka nuru, \nSiku mpya yaja, \nBasi amkeni na kuimba, \nNinyi nyote! \nPambazuka nuru, \nSiku mpya yaja, \nYesu atakaporudi kama Mfalme!"
+      ],
+      "hymnalId": "NZK"
+    },
+    {
+      "id": "NZK-220",
+      "number": 220,
+      "title": "KWA HERI",
+      "key": "",
+      "author": "",
+      "stanzas": [
+        "1\nKwa heri, Mungu awalinde; \nKwa heri, na awaongoze; \nKwa heri, na kuwapa amani, \nBwana awabariki."
+      ],
+      "hymnalId": "NZK"
+    }
+  ]
+}

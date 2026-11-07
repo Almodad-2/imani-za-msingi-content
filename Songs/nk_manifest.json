@@ -1,0 +1,3651 @@
+{
+  "hymnal": "NK",
+  "count": 405,
+  "hymns": [
+    {
+      "id": "NK-1",
+      "number": 1,
+      "title": "Msifu Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-2",
+      "number": 2,
+      "title": "Viumbe Vyote",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-3",
+      "number": 3,
+      "title": "Tena Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-4",
+      "number": 4,
+      "title": "Kumwabudu Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-5",
+      "number": 5,
+      "title": "Na Utukufu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-6",
+      "number": 6,
+      "title": "Zayuni Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-7",
+      "number": 7,
+      "title": "Mwumbaji Mfalme",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-8",
+      "number": 8,
+      "title": "Milele Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-9",
+      "number": 9,
+      "title": "Mbele Ya Yehova",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-10",
+      "number": 10,
+      "title": "Msifuni Bwana Enyi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-11",
+      "number": 11,
+      "title": "Wastahili Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-12",
+      "number": 12,
+      "title": "Tumekusanyika",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-13",
+      "number": 13,
+      "title": "Wakristo Imbeni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-14",
+      "number": 14,
+      "title": "Bwana Asubuhi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-15",
+      "number": 15,
+      "title": "Mapya Ni Mapenzi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-16",
+      "number": 16,
+      "title": "Ombi La Jioni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-17",
+      "number": 17,
+      "title": "Baba Twashukuru",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-18",
+      "number": 18,
+      "title": "Magharibi Jua",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-19",
+      "number": 19,
+      "title": "Kaa Nami",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-20",
+      "number": 20,
+      "title": "Tutokapo Tubariki / Watoto Wa Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-21",
+      "number": 21,
+      "title": "Nawe Nanyi Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-22",
+      "number": 22,
+      "title": "Tubariki Tutokapo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-23",
+      "number": 23,
+      "title": "Mtakatifu, Mtakatifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-24",
+      "number": 24,
+      "title": "Msifuni Baba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-25",
+      "number": 25,
+      "title": "Mungu Mtukufu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-26",
+      "number": 26,
+      "title": "Nasifu Shani Ya Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-27",
+      "number": 27,
+      "title": "Na Tumwabudu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-28",
+      "number": 28,
+      "title": "Bwana Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-29",
+      "number": 29,
+      "title": "Msaada Wetu Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-30",
+      "number": 30,
+      "title": "Wewe U Mwaminifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-31",
+      "number": 31,
+      "title": "Mungu Yu Mwema",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-32",
+      "number": 32,
+      "title": "Za Baba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-33",
+      "number": 33,
+      "title": "Rafiki Kama",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-34",
+      "number": 34,
+      "title": "Mwokozi Wangu Yun",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-35",
+      "number": 35,
+      "title": "Mungu Anakujali",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-36",
+      "number": 36,
+      "title": "Bwana Ananijali",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-37",
+      "number": 37,
+      "title": "Ninajua Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-38",
+      "number": 38,
+      "title": "Neema Ya Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-39",
+      "number": 39,
+      "title": "Neema Ya Ajabu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-40",
+      "number": 40,
+      "title": "Neema Ikaniokoa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-41",
+      "number": 41,
+      "title": "Vitu Vyote Vinape",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-42",
+      "number": 42,
+      "title": "Dunia Ya Baba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-43",
+      "number": 43,
+      "title": "Bwana Upepo Wa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-44",
+      "number": 44,
+      "title": "Katika Bethlehemu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-45",
+      "number": 45,
+      "title": "Kwa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-46",
+      "number": 46,
+      "title": "Nenda Ukatangaze / Wewe Umechoka",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-47",
+      "number": 47,
+      "title": "Malaika Wanaimba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-48",
+      "number": 48,
+      "title": "Katika",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-49",
+      "number": 49,
+      "title": "Njooni Waminifu / Watakatifu Kesheni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-50",
+      "number": 50,
+      "title": "Leo, Milele",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-51",
+      "number": 51,
+      "title": "Nipe Habari Za Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-52",
+      "number": 52,
+      "title": "Niuonapo Msalaba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-53",
+      "number": 53,
+      "title": "Pale Msalabani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-54",
+      "number": 54,
+      "title": "Ulikuwepo Pale",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-55",
+      "number": 55,
+      "title": "Msalaba Wa Kale",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-56",
+      "number": 56,
+      "title": "Alleluya Msifu Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-57",
+      "number": 57,
+      "title": "Christo Amefufuka",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-58",
+      "number": 58,
+      "title": "Sikia Hadithi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-59",
+      "number": 59,
+      "title": "Niimbe Pendo Lake",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-60",
+      "number": 60,
+      "title": "Je Yesu Hunijali",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-61",
+      "number": 61,
+      "title": "Lo Ajabu Kupata / Watafarijiwa Na",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-62",
+      "number": 62,
+      "title": "Ananipenda Kweli",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-63",
+      "number": 63,
+      "title": "Baraka Za Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-64",
+      "number": 64,
+      "title": "Baba Yetu Aliye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-65",
+      "number": 65,
+      "title": "Alilipa Bei / Wimbi La Damu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-66",
+      "number": 66,
+      "title": "Anipenda Ni Kweli",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-67",
+      "number": 67,
+      "title": "Pendo Lake Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-68",
+      "number": 68,
+      "title": "Pendo Lako Ee",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-69",
+      "number": 69,
+      "title": "Ninaye Rafiki",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-70",
+      "number": 70,
+      "title": "Taji Mvikeni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-71",
+      "number": 71,
+      "title": "Asubuhi Ya Furaha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-72",
+      "number": 72,
+      "title": "Saa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-73",
+      "number": 73,
+      "title": "Piga Panda",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-74",
+      "number": 74,
+      "title": "Vito Vya Thamani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-75",
+      "number": 75,
+      "title": "Pengine Ni Saa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-76",
+      "number": 76,
+      "title": "Na Raha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-77",
+      "number": 77,
+      "title": "Mishale Ya Nuru",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-78",
+      "number": 78,
+      "title": "Mfalme Yu Mlangoni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-79",
+      "number": 79,
+      "title": "Mfalme Wetu Atuita",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-80",
+      "number": 80,
+      "title": "Uso Kwa Uso",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-81",
+      "number": 81,
+      "title": "Anakuja Upesi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-82",
+      "number": 82,
+      "title": "Tarumbeta Ya Mwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-83",
+      "number": 83,
+      "title": "Jina Lake Yesu Tamu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-84",
+      "number": 84,
+      "title": "Muumbaji Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-85",
+      "number": 85,
+      "title": "Mungu Atukuzwe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-86",
+      "number": 86,
+      "title": "Tumwimbie Mkombo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-87",
+      "number": 87,
+      "title": "Kwa Nini Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-88",
+      "number": 88,
+      "title": "Jina La Ajabu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-89",
+      "number": 89,
+      "title": "Jina La Bwana Li Heri",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-90",
+      "number": 90,
+      "title": "Jina La Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-91",
+      "number": 91,
+      "title": "Jina La Yesu Salamu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-92",
+      "number": 92,
+      "title": "Watu Wote Tumsifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-93",
+      "number": 93,
+      "title": "Yu Hai, Yu Hai",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-94",
+      "number": 94,
+      "title": "Msifu Msifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-95",
+      "number": 95,
+      "title": "Hunipenda Pia",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-96",
+      "number": 96,
+      "title": "Tabibu Mkuu Huyu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-97",
+      "number": 97,
+      "title": "Twimbeni Haleluya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-98",
+      "number": 98,
+      "title": "Nataka Nimjue Yesu / Wavunaji Watafurahi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-99",
+      "number": 99,
+      "title": "Msalaba Pa Mwokozi / Watu Waitaji Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-100",
+      "number": 100,
+      "title": "Ninampenda Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-101",
+      "number": 101,
+      "title": "Moyoni Mwangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-102",
+      "number": 102,
+      "title": "Twamsifu Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-103",
+      "number": 103,
+      "title": "Yesu Ni Mwema",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-104",
+      "number": 104,
+      "title": "Roho Mtakatifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-105",
+      "number": 105,
+      "title": "Njoo Roho Mtukufu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-106",
+      "number": 106,
+      "title": "Roho Mtamu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-107",
+      "number": 107,
+      "title": "Ati Kuna Mvua",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-108",
+      "number": 108,
+      "title": "Tupe Moto",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-109",
+      "number": 109,
+      "title": "Mkate Wa Mbingu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-110",
+      "number": 110,
+      "title": "Nipe Biblia",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-111",
+      "number": 111,
+      "title": "Napenda Kitabu Chake",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-112",
+      "number": 112,
+      "title": "Mpe Yesu Moyo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-113",
+      "number": 113,
+      "title": "Maji Ya Uzima",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-114",
+      "number": 114,
+      "title": "Mtazame Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-115",
+      "number": 115,
+      "title": "Atafuta Kuwaokoa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-116",
+      "number": 116,
+      "title": "Anisikiaye Aliye Yote",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-117",
+      "number": 117,
+      "title": "Baba Twakujia",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-118",
+      "number": 118,
+      "title": "Roho Asema Njoo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-119",
+      "number": 119,
+      "title": "Mpe Moyo Wako",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-120",
+      "number": 120,
+      "title": "Mkaribishe Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-121",
+      "number": 121,
+      "title": "Sita Rudi Nyuma",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-122",
+      "number": 122,
+      "title": "Twende Kwa Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-123",
+      "number": 123,
+      "title": "Univute Karibu Baba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-124",
+      "number": 124,
+      "title": "Uliniimbie Tena",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-125",
+      "number": 125,
+      "title": "Njoo Kwake Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-126",
+      "number": 126,
+      "title": "Njooni Kwangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-127",
+      "number": 127,
+      "title": "Nipe Moyo Wako",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-128",
+      "number": 128,
+      "title": "Nani Anayebisha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-129",
+      "number": 129,
+      "title": "Yesu Akwita Leo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-130",
+      "number": 130,
+      "title": "Nasikia Mwito",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-131",
+      "number": 131,
+      "title": "Mwokozi Yu Karibu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-132",
+      "number": 132,
+      "title": "Mlango Uko Wazi / Yesu Asimama",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-133",
+      "number": 133,
+      "title": "Mchungaji Mpenzi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-134",
+      "number": 134,
+      "title": "Yesu Asimama",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-135",
+      "number": 135,
+      "title": "Niguze Unapopita",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-136",
+      "number": 136,
+      "title": "Nilikupa Wewe Nisu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-137",
+      "number": 137,
+      "title": "Mtazame Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-138",
+      "number": 138,
+      "title": "Mlangoni Pa Moyo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-139",
+      "number": 139,
+      "title": "Maisha Ni Mafupi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-140",
+      "number": 140,
+      "title": "Njoo Kwake / Yesu Apita Leo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-141",
+      "number": 141,
+      "title": "Nilipotoka Kabisa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-142",
+      "number": 142,
+      "title": "Yesu Apita Leo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-143",
+      "number": 143,
+      "title": "Yesu Aliniita Njoo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-144",
+      "number": 144,
+      "title": "Kuna Nguvu Ya Ajabu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-145",
+      "number": 145,
+      "title": "Wamwendea Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-146",
+      "number": 146,
+      "title": "Katika Wenye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-147",
+      "number": 147,
+      "title": "Mlango Wazi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-148",
+      "number": 148,
+      "title": "Sioshwi Dhambi Zang",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-149",
+      "number": 149,
+      "title": "Mwamba Wenye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-150",
+      "number": 150,
+      "title": "Karibu Sana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-151",
+      "number": 151,
+      "title": "Kani Inua Kwa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-152",
+      "number": 152,
+      "title": "Yesu Nataka Kuta",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-153",
+      "number": 153,
+      "title": "Yesu Nakupenda",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-154",
+      "number": 154,
+      "title": "Nitwae Hivi Nilivyo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-155",
+      "number": 155,
+      "title": "Ulimwengu Siutaki",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-156",
+      "number": 156,
+      "title": "Bwana Ninataka Hili",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-157",
+      "number": 157,
+      "title": "Chini Ya Msalaba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-158",
+      "number": 158,
+      "title": "Damu Ya Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-159",
+      "number": 159,
+      "title": "Ni Wako Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-160",
+      "number": 160,
+      "title": "Msalaba Wa Yesu / Ombi La Jioni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-161",
+      "number": 161,
+      "title": "Mwokozi Kama",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-162",
+      "number": 162,
+      "title": "Niongoze Kalwari",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-163",
+      "number": 163,
+      "title": "Twae Wangu Uzima",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-164",
+      "number": 164,
+      "title": "Neema Ya Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-165",
+      "number": 165,
+      "title": "Wimbi La Damu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-166",
+      "number": 166,
+      "title": "Tubatize Upya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-167",
+      "number": 167,
+      "title": "Uzaliwe Tena",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-168",
+      "number": 168,
+      "title": "Kuokolewa Kwa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-169",
+      "number": 169,
+      "title": "Ninaye Rafiki",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-170",
+      "number": 170,
+      "title": "Jina Jipya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-171",
+      "number": 171,
+      "title": "Kunifia Mimi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-172",
+      "number": 172,
+      "title": "Kalwari",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-173",
+      "number": 173,
+      "title": "Uniangalie",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-174",
+      "number": 174,
+      "title": "Japo Dhambi Ni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-175",
+      "number": 175,
+      "title": "Bwana Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-176",
+      "number": 176,
+      "title": "Damu Imebubujika",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-177",
+      "number": 177,
+      "title": "Nimekombolewa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-178",
+      "number": 178,
+      "title": "Nimekombolewa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-179",
+      "number": 179,
+      "title": "Nani Atakayek",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-180",
+      "number": 180,
+      "title": "Naendea Msalaba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-181",
+      "number": 181,
+      "title": "Nilipoteza Muda",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-182",
+      "number": 182,
+      "title": "Ninakupenda Zaidi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-183",
+      "number": 183,
+      "title": "Nitamwimbia",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-184",
+      "number": 184,
+      "title": "Mlimani Pana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-185",
+      "number": 185,
+      "title": "Mkombozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-186",
+      "number": 186,
+      "title": "Mwokozi Wa Ajabu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-187",
+      "number": 187,
+      "title": "Tumesikia Mbiu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-188",
+      "number": 188,
+      "title": "Tazama Nasimama",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-189",
+      "number": 189,
+      "title": "Tangu Kuamini",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-190",
+      "number": 190,
+      "title": "Kristo Wa Neema",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-191",
+      "number": 191,
+      "title": "Upendo Wa Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-192",
+      "number": 192,
+      "title": "Ni Heri Kifungo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-193",
+      "number": 193,
+      "title": "Twapanda Mapema",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-194",
+      "number": 194,
+      "title": "Angaza Angaza",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-195",
+      "number": 195,
+      "title": "Kuwatafuta",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-196",
+      "number": 196,
+      "title": "Kaza Sana Macho",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-197",
+      "number": 197,
+      "title": "Sauti Ya Mchungaji",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-198",
+      "number": 198,
+      "title": "Wavunaji Watafurahi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-199",
+      "number": 199,
+      "title": "Watu Wahitaji Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-200",
+      "number": 200,
+      "title": "Tumsifu Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-201",
+      "number": 201,
+      "title": "Wapi Wavunaji",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-202",
+      "number": 202,
+      "title": "Walio Kifoni Nenda",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-203",
+      "number": 203,
+      "title": "Popote Mashamba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-204",
+      "number": 204,
+      "title": "Msalaba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-205",
+      "number": 205,
+      "title": "Fanyeni Kazi Zenu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-206",
+      "number": 206,
+      "title": "Kazi Kwake",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-207",
+      "number": 207,
+      "title": "Njoo Wakristo Tujitoe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-208",
+      "number": 208,
+      "title": "Msingi Wa Kanisa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-209",
+      "number": 209,
+      "title": "Zitakuwa Nyota Tajini",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-210",
+      "number": 210,
+      "title": "Nipo Bwana Nitume",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-211",
+      "number": 211,
+      "title": "Usikatae Kazi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-212",
+      "number": 212,
+      "title": "Twapenda Sabato",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-213",
+      "number": 213,
+      "title": "Ikumbuke Sabato",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-214",
+      "number": 214,
+      "title": "Ni Siku Ya Furaha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-215",
+      "number": 215,
+      "title": "Ewe Skuli Ya Sabato",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-216",
+      "number": 216,
+      "title": "Salama Tumepita",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-217",
+      "number": 217,
+      "title": "Siku Hii Ya Sabato",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-218",
+      "number": 218,
+      "title": "Siku Ya Sabato Siku",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-219",
+      "number": 219,
+      "title": "Siku Sita Zimepita",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-220",
+      "number": 220,
+      "title": "Siku Ya Sabato",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-221",
+      "number": 221,
+      "title": "Bwana Wa Sabato",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-222",
+      "number": 222,
+      "title": "Tubariki Tutokapo / Ukaribie Tena",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-223",
+      "number": 223,
+      "title": "Meza Ya Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-224",
+      "number": 224,
+      "title": "Amenificha Na",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-225",
+      "number": 225,
+      "title": "Tutashindaje Hukum",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-226",
+      "number": 226,
+      "title": "Siitafuti Mali",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-227",
+      "number": 227,
+      "title": "Imeanzishwa Hukumu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-228",
+      "number": 228,
+      "title": "Ati Twonane Mtoni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-229",
+      "number": 229,
+      "title": "Mahali Pa Maji Mazuri",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-230",
+      "number": 230,
+      "title": "Nitakapo Maliza Kazi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-231",
+      "number": 231,
+      "title": "Wapenzi Wa Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-232",
+      "number": 232,
+      "title": "Zayuni Mji Mkuu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-233",
+      "number": 233,
+      "title": "Nitamwona Mfalme",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-234",
+      "number": 234,
+      "title": "Pana Mahali Pazuri",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-235",
+      "number": 235,
+      "title": "Mchana Hauishi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-236",
+      "number": 236,
+      "title": "Zeeka",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-237",
+      "number": 237,
+      "title": "Agana Tena",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-238",
+      "number": 238,
+      "title": "Fikira Moja Tu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-239",
+      "number": 239,
+      "title": "Nchi Nzuri",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-240",
+      "number": 240,
+      "title": "Twasema Mambo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-241",
+      "number": 241,
+      "title": "Agana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-242",
+      "number": 242,
+      "title": "Jipe Moyo / Kufariki Naye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-243",
+      "number": 243,
+      "title": "Umwendo Gani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-244",
+      "number": 244,
+      "title": "Nimemwona Rafiki",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-245",
+      "number": 245,
+      "title": "Napenda Kuhubiri",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-246",
+      "number": 246,
+      "title": "Siitafuti Mali",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-247",
+      "number": 247,
+      "title": "Nina Nuru Moyoni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-248",
+      "number": 248,
+      "title": "Yesu Mwokozi Wa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-249",
+      "number": 249,
+      "title": "Yesu Furaha Ya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-250",
+      "number": 250,
+      "title": "Mbingu Kashuka",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-251",
+      "number": 251,
+      "title": "Gani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-252",
+      "number": 252,
+      "title": "Tutaelewa Baadaye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-253",
+      "number": 253,
+      "title": "Karibu Na Wewe / Yesu Kaa Na Kanisa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-254",
+      "number": 254,
+      "title": "Jipe Moyo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-255",
+      "number": 255,
+      "title": "Yesu Kaa Na Kanisa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-256",
+      "number": 256,
+      "title": "Tuna Makao",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-257",
+      "number": 257,
+      "title": "Jina La Thamani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-258",
+      "number": 258,
+      "title": "Atafuta Machozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-259",
+      "number": 259,
+      "title": "Safari Ya Tumaini",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-260",
+      "number": 260,
+      "title": "Peleka Mizigo Yako",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-261",
+      "number": 261,
+      "title": "Watafarijiwa Na Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-262",
+      "number": 262,
+      "title": "Umechoka Je Umesum",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-263",
+      "number": 263,
+      "title": "Mji",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-264",
+      "number": 264,
+      "title": "Eh Yesu Mkombozi / Yesu Hatakuacha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-265",
+      "number": 265,
+      "title": "Yesu Rafiki Wa Kweli",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-266",
+      "number": 266,
+      "title": "Yesu Hatakuacha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-267",
+      "number": 267,
+      "title": "Yesu Unipendaye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-268",
+      "number": 268,
+      "title": "Mwangaza Una",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-269",
+      "number": 269,
+      "title": "Tumaini Liko",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-270",
+      "number": 270,
+      "title": "Mibaraka Kwa Utulivu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-271",
+      "number": 271,
+      "title": "Mbingu Nzuri Kiasi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-272",
+      "number": 272,
+      "title": "Nifikapo Mbinguni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-273",
+      "number": 273,
+      "title": "Omba Sana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-274",
+      "number": 274,
+      "title": "Bwana Ninakuhitaji",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-275",
+      "number": 275,
+      "title": "Nitamwambia Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-276",
+      "number": 276,
+      "title": "Karibu Na Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-277",
+      "number": 277,
+      "title": "Baba Sina Msaada",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-278",
+      "number": 278,
+      "title": "Saa Heri Ya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-279",
+      "number": 279,
+      "title": "Saa Heri Ya Sala",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-280",
+      "number": 280,
+      "title": "Baba Uniongoze",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-281",
+      "number": 281,
+      "title": "Wakati Wa Maombi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-282",
+      "number": 282,
+      "title": "Yesu Kwetu Ni Rafiki",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-283",
+      "number": 283,
+      "title": "Tukimtazama Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-284",
+      "number": 284,
+      "title": "Tafuta Daima",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-285",
+      "number": 285,
+      "title": "Sikia Maombi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-286",
+      "number": 286,
+      "title": "Uje Mkombozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-287",
+      "number": 287,
+      "title": "Jaza Kikombe Changu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-288",
+      "number": 288,
+      "title": "Kwangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-289",
+      "number": 289,
+      "title": "Nena Rohoni Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-290",
+      "number": 290,
+      "title": "Jua La Rohoni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-291",
+      "number": 291,
+      "title": "Nyamaza Nyamaza",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-292",
+      "number": 292,
+      "title": "Miguuni Pake Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-293",
+      "number": 293,
+      "title": "Nilikuwa Mdhambi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-294",
+      "number": 294,
+      "title": "Roho Yangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-295",
+      "number": 295,
+      "title": "Nina Haja Nawe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-296",
+      "number": 296,
+      "title": "Niombee Rafiki Zangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-297",
+      "number": 297,
+      "title": "Naja Shambani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-298",
+      "number": 298,
+      "title": "Ewe Roho Wa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-299",
+      "number": 299,
+      "title": "Kumtegemea",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-300",
+      "number": 300,
+      "title": "Jenga Juu Ya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-301",
+      "number": 301,
+      "title": "Atanificha Tufani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-302",
+      "number": 302,
+      "title": "Kwa Mahitaji",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-303",
+      "number": 303,
+      "title": "Ninamjua Nimwami",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-304",
+      "number": 304,
+      "title": "Popote Na Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-305",
+      "number": 305,
+      "title": "Kila Saa Mimi Wako",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-306",
+      "number": 306,
+      "title": "Kungoja Ahadi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-307",
+      "number": 307,
+      "title": "Kuwa Wake Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-308",
+      "number": 308,
+      "title": "Tenda Kwa Jina",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-309",
+      "number": 309,
+      "title": "Sitamuacha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-310",
+      "number": 310,
+      "title": "Sitaona Haya Kwake",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-311",
+      "number": 311,
+      "title": "Mungu Wetu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-312",
+      "number": 312,
+      "title": "Umwamini Umwamini",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-313",
+      "number": 313,
+      "title": "Uamini, Uamini",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-314",
+      "number": 314,
+      "title": "Tusimame Imara",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-315",
+      "number": 315,
+      "title": "Kusimama Kwa Kweli",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-316",
+      "number": 316,
+      "title": "Je Nanga Yako",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-317",
+      "number": 317,
+      "title": "Nafsi Yangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-318",
+      "number": 318,
+      "title": "Kuamini Neno",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-319",
+      "number": 319,
+      "title": "Bwana Ni Nuru Yangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-320",
+      "number": 320,
+      "title": "Watoto Wa Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-321",
+      "number": 321,
+      "title": "Njiani Huniongoza",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-322",
+      "number": 322,
+      "title": "Yesu Kwa Imani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-323",
+      "number": 323,
+      "title": "Bwana Yuhai",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-324",
+      "number": 324,
+      "title": "Tafuta Ufalme",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-325",
+      "number": 325,
+      "title": "Cha Kutumaini Sina",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-326",
+      "number": 326,
+      "title": "Nguo Ya Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-327",
+      "number": 327,
+      "title": "Ni Salama Rohoni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-328",
+      "number": 328,
+      "title": "Nataka Imani Hii",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-329",
+      "number": 329,
+      "title": "Najua U Nami",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-330",
+      "number": 330,
+      "title": "Viumbe Vyote Viimbe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-331",
+      "number": 331,
+      "title": "Si Mimi Kristo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-332",
+      "number": 332,
+      "title": "Yote Namtolea Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-333",
+      "number": 333,
+      "title": "Mapenzi Yako",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-334",
+      "number": 334,
+      "title": "Usinipite Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-335",
+      "number": 335,
+      "title": "Upendo Ni Furaha / Usinipite Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-336",
+      "number": 336,
+      "title": "Namwandama Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-337",
+      "number": 337,
+      "title": "Bwana Ni Mchunga",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-338",
+      "number": 338,
+      "title": "Bwana Ni Mchunga",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-339",
+      "number": 339,
+      "title": "Tawala Ndani Yangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-340",
+      "number": 340,
+      "title": "Uniongoze Jehova",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-341",
+      "number": 341,
+      "title": "Huniongoza Mwokozi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-342",
+      "number": 342,
+      "title": "Niongoze Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-343",
+      "number": 343,
+      "title": "Mimi Mdhaifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-344",
+      "number": 344,
+      "title": "Nitembee Nawe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-345",
+      "number": 345,
+      "title": "Yesu Rubani Wangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-346",
+      "number": 346,
+      "title": "Bwana Mchunga / Yesu Kiongozi Wangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-347",
+      "number": 347,
+      "title": "Sijui Atakapo Kuja",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-348",
+      "number": 348,
+      "title": "Yesu Kiongozi Wangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-349",
+      "number": 349,
+      "title": "Watakatifu Kesheni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-350",
+      "number": 350,
+      "title": "Kesha Ukaombe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-351",
+      "number": 351,
+      "title": "Je Mlinzi Ukutani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-352",
+      "number": 352,
+      "title": "Ndungu Uwe",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-353",
+      "number": 353,
+      "title": "Niambie Ee Mlinzi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-354",
+      "number": 354,
+      "title": "Ahadi Tamu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-355",
+      "number": 355,
+      "title": "Mrithi Ufalme",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-356",
+      "number": 356,
+      "title": "Tangu Ni Mpokee",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-357",
+      "number": 357,
+      "title": "Bwana Yumo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-358",
+      "number": 358,
+      "title": "Bwana Akuhitaji",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-359",
+      "number": 359,
+      "title": "Puliza Tarumbeta",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-360",
+      "number": 360,
+      "title": "Mpaka Lini Bwana",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-361",
+      "number": 361,
+      "title": "Twendeni Askari",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-362",
+      "number": 362,
+      "title": "Ni Ushindi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-363",
+      "number": 363,
+      "title": "Kesha Roho Yangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-364",
+      "number": 364,
+      "title": "Nitakuandama Kote",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-365",
+      "number": 365,
+      "title": "Kazi Yangu Ikisha",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-366",
+      "number": 366,
+      "title": "Tukifika Mbinguni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-367",
+      "number": 367,
+      "title": "Nikitambo Twende",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-368",
+      "number": 368,
+      "title": "Penye Roho Wake",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-369",
+      "number": 369,
+      "title": "Ukingoni Mwa Yordani",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-370",
+      "number": 370,
+      "title": "Je Utakuwepo Pale",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-371",
+      "number": 371,
+      "title": "Bwana Uniongoze",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-372",
+      "number": 372,
+      "title": "Yanipasa Kuwa Naye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-373",
+      "number": 373,
+      "title": "Kitu Kwa Yesu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-374",
+      "number": 374,
+      "title": "Bwana Usehemu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-375",
+      "number": 375,
+      "title": "Maneno",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-376",
+      "number": 376,
+      "title": "Niende Wapi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-377",
+      "number": 377,
+      "title": "Ni Siku Kuu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-378",
+      "number": 378,
+      "title": "Nuru Ya Mbinguni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-379",
+      "number": 379,
+      "title": "Yesu Nuru Ya",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-380",
+      "number": 380,
+      "title": "Yesu Uje Kwetu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-381",
+      "number": 381,
+      "title": "Msingi Imara Ninyi",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-382",
+      "number": 382,
+      "title": "Nijifiche Kwenye",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-383",
+      "number": 383,
+      "title": "Utaishi Ukitazama",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-384",
+      "number": 384,
+      "title": "Mibaraka",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-385",
+      "number": 385,
+      "title": "Nataka Niwe Mkristo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-386",
+      "number": 386,
+      "title": "Ukungu Utapita",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-387",
+      "number": 387,
+      "title": "Sikia Mlio",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-388",
+      "number": 388,
+      "title": "Zileteni Zaka Kwa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-389",
+      "number": 389,
+      "title": "Nuru Yako Langaze",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-390",
+      "number": 390,
+      "title": "Mwanga Wangu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-391",
+      "number": 391,
+      "title": "Niwe Mibaraka",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-392",
+      "number": 392,
+      "title": "Amri Mpya Nawapa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-393",
+      "number": 393,
+      "title": "Panapo Pendo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-394",
+      "number": 394,
+      "title": "Nitakwenda Utakapo",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-395",
+      "number": 395,
+      "title": "Bwana Twakuomba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-396",
+      "number": 396,
+      "title": "U Mtakatifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-397",
+      "number": 397,
+      "title": "Baba Wa Mbinguni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-398",
+      "number": 398,
+      "title": "Bwana Yuhekaluni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-399",
+      "number": 399,
+      "title": "Utukufu Kwa Baba",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-400",
+      "number": 400,
+      "title": "Moyoni Moyoni",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-401",
+      "number": 401,
+      "title": "Roho Mtakatifu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-402",
+      "number": 402,
+      "title": "Bwana Sikiza",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-403",
+      "number": 403,
+      "title": "Mali Yako Sasa",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-404",
+      "number": 404,
+      "title": "Baba Mkuu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    },
+    {
+      "id": "NK-405",
+      "number": 405,
+      "title": "Msifu Mungu",
+      "key": "",
+      "author": "",
+      "stanzas": [],
+      "hymnalId": "NK"
+    }
+  ]
+}
